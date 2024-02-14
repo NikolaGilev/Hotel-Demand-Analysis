@@ -1,0 +1,32 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Booking Hotel scraper",
+            "type": "python",
+            "request": "launch",
+            "program": "scrape_scripts/create_hotels_csv.py",
+            "env": {
+                "DISPLAY": ":1",
+                "PYDEVD_WARN_EVALUATION_TIMEOUT": "10000"
+            },
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Booking Attractions scraper",
+            "type": "python",
+            "request": "launch",
+            "program": "scrape_scripts/create_attractions_csv.py",
+            "env": {
+                "DISPLAY": ":1",
+                "PYDEVD_WARN_EVALUATION_TIMEOUT": "10000"
+            },
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+    ]
+}

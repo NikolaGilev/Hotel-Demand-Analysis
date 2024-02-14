@@ -1,0 +1,136 @@
+name,location,price,stars,distance_from_center,num_external_reviews,booking_user_ratings,avg_user_ratings,airport_taxi,travel_sustainable_level,has_free_cancelation
+Hotel Iron Horse Amsterdam,"Oud West, Amsterdam","MKD 69,220",3,1.5 km from center,"1,484 reviews",Good,7.3,Free airport taxi,Travel Sustainable Level 1,True
+Sonder Park House,"Oud Zuid, Amsterdam","MKD 95,419",4,1.7 km from center,"3,143 reviews",Good,7.5,Free airport taxi,,False
+Private Studio with Patio in the heart of Amsterdam,"Amsterdam City Center, Amsterdam","MKD 107,980",,0.9 km from center,163 external reviews,Wonderful 9.2,,Free airport taxi,,False
+The Social Hub Amsterdam City,"Oost, Amsterdam","MKD 105,651",4,2.4 km from center,"6,920 reviews",Very Good,8.4,Free airport taxi,Travel Sustainable Level 2,False
+Qbic Amsterdam WTC,"Zuideramstel, Amsterdam","MKD 70,671",3,3.9 km from center,"3,368 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 2,True
+Wittenberg by Cove,"Amsterdam City Center, Amsterdam","MKD 109,858",4,1.4 km from center,371 reviews,Wonderful,9.0,Free airport taxi,Travel Sustainable Level 1,False
+Ruby Emma Hotel Amsterdam,"Oost, Amsterdam","MKD 107,157",4,4.3 km from center,"5,428 reviews",Excellent,8.6,Free airport taxi,Travel Sustainable Level 3,False
+Joy Hotel,"Zuidoost, Amsterdam","MKD 66,141",3,8.5 km from center,"7,294 reviews",Good,7.4,Free airport taxi,Travel Sustainable Level 2,False
+YOTEL Amsterdam,"Amsterdam Noord, Amsterdam","MKD 71,535",4,2.2 km from center,"7,923 reviews",Very Good,8.0,Free airport taxi,Travel Sustainable Level 3,False
+Element Amsterdam,"Zuideramstel, Amsterdam","MKD 119,503",4,4.7 km from center,"1,077 reviews",Excellent,8.7,No airport taxi,Travel Sustainable Level 3+,False
+The Alfred Hotel,"Oud Zuid, Amsterdam","MKD 72,181",3,2.6 km from center,"4,915 reviews",Good,7.2,Free airport taxi,Travel Sustainable Level 1,True
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam","MKD 84,689",4,3.9 km from center,"17,608 reviews",Good,7.9,No airport taxi,Travel Sustainable Level 3+,False
+the niu Fender,"Zeeburg, Amsterdam","MKD 79,436",4,3.9 km from center,"5,320 reviews",Very Good,8.2,Free airport taxi,Travel Sustainable Level 3+,False
+NH Amsterdam Zuid,"Zuideramstel, Amsterdam","MKD 83,404",4,5.2 km from center,"1,583 reviews",Very Good,8.1,Free airport taxi,Travel Sustainable Level 3+,True
+Moxy Amsterdam Houthavens,"Westpoort, Amsterdam","MKD 84,689",4,3.4 km from center,"2,092 reviews",Very Good,8.0,No airport taxi,Travel Sustainable Level 3,True
+Hotel Espresso,"Oud West, Amsterdam","MKD 70,776",3,1.6 km from center,"1,709 reviews",Good,7.4,Free airport taxi,Travel Sustainable Level 1,False
+Via Amsterdam,"Bijlmermeer, Amsterdam","MKD 68,146",3,6.6 km from center,"15,325 reviews",Very Good,8.1,Free airport taxi,Travel Sustainable Level 2,False
+Tribe Amsterdam City,"Amsterdam Noord, Amsterdam","MKD 79,566",4,4.2 km from center,"5,469 reviews",Wonderful,9.0,No airport taxi,Travel Sustainable Level 3,True
+"Holiday Inn Express Amsterdam - Sloterdijk Station, an IHG Hotel","Westpoort, Amsterdam","MKD 85,738",3,4.1 km from center,"7,424 reviews",Good,7.9,No airport taxi,Travel Sustainable Level 2,True
+Cityden BoLo District,"Bos en Lommer, Amsterdam","MKD 73,665",4,3.3 km from center,"4,388 reviews",Very Good,8.4,Free airport taxi,Travel Sustainable Level 3,False
+ibis Amsterdam City West,"Westpoort, Amsterdam","MKD 81,664",3,3.6 km from center,"3,659 reviews",Good,7.7,No airport taxi,Travel Sustainable Level 2,True
+"Holiday Inn Express Amsterdam Arena Towers, an IHG Hotel","Zuidoost, Amsterdam","MKD 88,269",3,7.8 km from center,"14,561 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 3+,True
+Budget Trianon Hotel,"Oud Zuid, Amsterdam","MKD 43,646",2,2.1 km from center,"2,124 reviews",Review score,6.7,Free airport taxi,,False
+OZO Hotels Arena Amsterdam,"Zuidoost, Amsterdam","MKD 69,442",4,8.4 km from center,"7,540 reviews",Good,7.4,Free airport taxi,Travel Sustainable Level 2,True
+Conscious Hotel Amsterdam City - The Tire Station,"Oud West, Amsterdam","MKD 66,554",3,3.1 km from center,"2,678 reviews",Very Good,8.3,Free airport taxi,Travel Sustainable Level 3+,False
+"Apollo Hotel Amsterdam, a Tribute Portfolio Hotel","Oud Zuid, Amsterdam","MKD 110,367",4,2.8 km from center,"1,405 reviews",Very Good,8.1,No airport taxi,Travel Sustainable Level 3+,True
+Amadi Panorama Hotel,"IJburg, Amsterdam","MKD 91,602",4,6.6 km from center,"4,575 reviews",Good,7.7,Free airport taxi,Travel Sustainable Level 1,True
+Hotel Iron Horse Amsterdam,"Oud West, Amsterdam","MKD 69,220",3,1.5 km from center,"1,484 reviews",Good,7.3,Free airport taxi,Travel Sustainable Level 1,True
+Sonder Park House,"Oud Zuid, Amsterdam","MKD 95,419",4,1.7 km from center,"3,143 reviews",Good,7.5,Free airport taxi,,False
+The Social Hub Amsterdam City,"Oost, Amsterdam","MKD 105,651",4,2.4 km from center,"6,920 reviews",Very Good,8.4,Free airport taxi,Travel Sustainable Level 2,False
+Qbic Amsterdam WTC,"Zuideramstel, Amsterdam","MKD 70,671",3,3.9 km from center,"3,368 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 2,True
+YOTEL Amsterdam,"Amsterdam Noord, Amsterdam","MKD 71,535",4,2.2 km from center,"7,923 reviews",Very Good,8.0,Free airport taxi,Travel Sustainable Level 3,False
+Via Amsterdam,"Bijlmermeer, Amsterdam","MKD 68,146",3,6.6 km from center,"15,325 reviews",Very Good,8.1,Free airport taxi,Travel Sustainable Level 2,False
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam","MKD 84,689",4,3.9 km from center,"17,608 reviews",Good,7.9,No airport taxi,Travel Sustainable Level 3+,False
+Hotel Torenzicht,"Amsterdam City Center, Amsterdam","MKD 86,417",1,350 m from center,"1,873 reviews",Good,7.4,Free airport taxi,,True
+Element Amsterdam,"Zuideramstel, Amsterdam","MKD 119,503",4,4.7 km from center,"1,077 reviews",Excellent,8.7,No airport taxi,Travel Sustainable Level 3+,False
+The Alfred Hotel,"Oud Zuid, Amsterdam","MKD 72,181",3,2.6 km from center,"4,915 reviews",Good,7.2,Free airport taxi,Travel Sustainable Level 1,True
+Zoku Amsterdam,"Amsterdam City Center, Amsterdam","MKD 123,071",4,1.4 km from center,"2,312 reviews",Excellent,8.9,Free airport taxi,Travel Sustainable Level 3+,False
+New West Inn Amsterdam,"Osdorp, Amsterdam","MKD 52,129",3,6.8 km from center,"8,168 reviews",Good,7.2,Free airport taxi,Travel Sustainable Level 1,False
+Via Suites,"Bijlmermeer, Amsterdam","MKD 73,665",4,6.6 km from center,"2,089 reviews",Very Good,8.2,Free airport taxi,Travel Sustainable Level 2,False
+the niu Fender,"Zeeburg, Amsterdam","MKD 79,436",4,3.9 km from center,"5,320 reviews",Very Good,8.2,Free airport taxi,Travel Sustainable Level 3+,False
+ibis Amsterdam City West,"Westpoort, Amsterdam","MKD 81,664",3,3.6 km from center,"3,659 reviews",Good,7.7,No airport taxi,Travel Sustainable Level 2,True
+Boutique Apartments Amsterdam,"Westpoort, Amsterdam","MKD 106,386",4,4.2 km from center,"1,704 reviews",Excellent,8.9,Free airport taxi,,False
+NH Amsterdam Zuid,"Zuideramstel, Amsterdam","MKD 83,404",4,5.2 km from center,"1,583 reviews",Very Good,8.1,Free airport taxi,Travel Sustainable Level 3+,True
+Residence Inn by Marriott Amsterdam Houthavens,"Westpoort, Amsterdam","MKD 111,355",4,3.4 km from center,735 reviews,Very Good,8.3,No airport taxi,Travel Sustainable Level 2,False
+Leonardo Royal Hotel Amsterdam,"Oost, Amsterdam","MKD 88,109",4,4.8 km from center,"6,865 reviews",Very Good,8.2,Free airport taxi,Travel Sustainable Level 3+,True
+Cityden BoLo District,"Bos en Lommer, Amsterdam","MKD 73,665",4,3.3 km from center,"4,388 reviews",Very Good,8.4,Free airport taxi,Travel Sustainable Level 3,False
+Hotel Jansen Amsterdam Bajeskwartier,"Oost, Amsterdam","MKD 81,942",,4.2 km from center,"1,115 reviews",Very Good,8.3,Free airport taxi,Travel Sustainable Level 3,False
+Moxy Amsterdam Houthavens,"Westpoort, Amsterdam","MKD 84,689",4,3.4 km from center,"2,092 reviews",Very Good,8.0,No airport taxi,Travel Sustainable Level 3,True
+Budget Trianon Hotel,"Oud Zuid, Amsterdam","MKD 43,646",2,2.1 km from center,"2,124 reviews",Review score,6.7,Free airport taxi,,False
+Amsterdam ID Aparthotel,"Westpoort, Amsterdam","MKD 96,908",3,4.3 km from center,"1,513 reviews",Excellent,8.7,Free airport taxi,Travel Sustainable Level 3+,False
+Bens The Highdocks,"Amsterdam Noord, Amsterdam","MKD 84,654",,2.7 km from center,390 reviews,Good,7.5,Free airport taxi,,True
+citizenM Amsterdam South,"Zuideramstel, Amsterdam","MKD 89,164",4,3.6 km from center,"3,721 reviews",Excellent,8.6,Free airport taxi,Travel Sustainable Level 3,False
+Amsterdam Teleport Hotel,"Westpoort, Amsterdam","MKD 71,998",3,4.3 km from center,"7,440 reviews",Good,7.6,Free airport taxi,Travel Sustainable Level 3,False
+Hotel Iron Horse Amsterdam,"Oud West, Amsterdam","MKD 70,758",3,1.5 km from center,"1,484 reviews",Good,7.3,Limited-time Deal,Travel Sustainable Level 1,True
+Sonder Park House,"Oud Zuid, Amsterdam","MKD 95,419",4,1.7 km from center,"3,143 reviews",Good,7.5,No airport taxi,,False
+The Social Hub Amsterdam City,"Oost, Amsterdam","MKD 105,651",4,2.4 km from center,"6,920 reviews",Very Good,8.4,No airport taxi,Travel Sustainable Level 2,False
+Via Amsterdam,"Bijlmermeer, Amsterdam","MKD 68,146",3,6.6 km from center,"15,325 reviews",Very Good,8.1,No airport taxi,Travel Sustainable Level 2,False
+YOTEL Amsterdam,"Amsterdam Noord, Amsterdam","MKD 71,535",4,2.2 km from center,"7,923 reviews",Very Good,8.0,No airport taxi,Travel Sustainable Level 3,False
+New West Inn Amsterdam,"Osdorp, Amsterdam","MKD 53,287",3,6.8 km from center,"8,168 reviews",Good,7.2,No airport taxi,Travel Sustainable Level 1,False
+Element Amsterdam,"Zuideramstel, Amsterdam","MKD 119,503",4,4.7 km from center,"1,077 reviews",Excellent,8.7,No airport taxi,Travel Sustainable Level 3+,False
+the niu Fender,"Zeeburg, Amsterdam","MKD 79,436",4,3.9 km from center,"5,320 reviews",Very Good,8.2,No airport taxi,Travel Sustainable Level 3+,False
+Moxy Amsterdam Houthavens,"Westpoort, Amsterdam","MKD 84,689",4,3.4 km from center,"2,092 reviews",Very Good,8.0,No airport taxi,Travel Sustainable Level 3,True
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam","MKD 84,689",4,3.9 km from center,"17,608 reviews",Good,7.9,No airport taxi,Travel Sustainable Level 3+,False
+ibis Amsterdam City West,"Westpoort, Amsterdam","MKD 81,664",3,3.6 km from center,"3,659 reviews",Good,7.7,No airport taxi,Travel Sustainable Level 2,True
+Cityden BoLo District,"Bos en Lommer, Amsterdam","MKD 75,302",4,3.3 km from center,"4,388 reviews",Very Good,8.4,No airport taxi,Travel Sustainable Level 3,False
+The Alfred Hotel,"Oud Zuid, Amsterdam","MKD 73,786",3,2.6 km from center,"4,915 reviews",Good,7.2,Early 2024 Deal,Travel Sustainable Level 1,True
+"Holiday Inn Express Amsterdam Arena Towers, an IHG Hotel","Zuidoost, Amsterdam","MKD 88,269",3,7.8 km from center,"14,561 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 3+,True
+Residence Inn by Marriott Amsterdam Houthavens,"Westpoort, Amsterdam","MKD 111,355",4,3.4 km from center,735 reviews,Very Good,8.3,No airport taxi,Travel Sustainable Level 2,False
+"Park Centraal Amsterdam, part of Sircle Collection","Oud Zuid, Amsterdam","MKD 123,145",4,1.4 km from center,"2,307 reviews",Very Good,8.3,No airport taxi,Travel Sustainable Level 2,False
+Qbic Amsterdam WTC,"Zuideramstel, Amsterdam","MKD 70,671",3,3.9 km from center,"3,368 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 2,True
+Hotel Espresso,"Oud West, Amsterdam","MKD 70,776",3,1.6 km from center,"1,709 reviews",Good,7.4,No airport taxi,Travel Sustainable Level 1,False
+Via Suites,"Bijlmermeer, Amsterdam","MKD 73,665",4,6.6 km from center,"2,089 reviews",Very Good,8.2,No airport taxi,Travel Sustainable Level 2,False
+Hotel Jansen Amsterdam Bajeskwartier,"Oost, Amsterdam","MKD 83,763",,4.2 km from center,"1,115 reviews",Very Good,8.3,No airport taxi,Travel Sustainable Level 3,False
+NH Amsterdam Zuid,"Zuideramstel, Amsterdam","MKD 83,404",4,5.2 km from center,"1,583 reviews",Very Good,8.1,No airport taxi,Travel Sustainable Level 3+,True
+Hotel Torenzicht,"Amsterdam City Center, Amsterdam","MKD 86,417",1,350 m from center,"1,873 reviews",Good,7.4,No airport taxi,,True
+Amadi Panorama Hotel,"IJburg, Amsterdam","MKD 91,602",4,6.6 km from center,"4,575 reviews",Good,7.7,No airport taxi,Travel Sustainable Level 1,True
+citizenM Amsterdam South,"Zuideramstel, Amsterdam","MKD 91,146",4,3.6 km from center,"3,721 reviews",Excellent,8.6,No airport taxi,Travel Sustainable Level 3,False
+Bastion Hotel Amsterdam Zuidwest,"Slotervaart, Amsterdam","MKD 62,961",3,3.8 km from center,"1,270 reviews",Review score,6.6,No airport taxi,Travel Sustainable Level 3+,False
+"Sir Adam Hotel, part of Sircle Collection","Amsterdam Noord, Amsterdam","MKD 139,474",4,1.4 km from center,"1,356 reviews",Excellent,8.7,No airport taxi,Travel Sustainable Level 3,False
+Chassé Hotel Residency,"Oost, Amsterdam","MKD 99,008",4,3.2 km from center,581 reviews,Excellent,8.9,No airport taxi,Travel Sustainable Level 3,False
+Hotel Iron Horse Amsterdam,"Oud West, Amsterdam","MKD 69,220",3,1.5 km from center,"1,484 reviews",Good,7.3,Limited-time Deal,Travel Sustainable Level 1,True
+Sonder Park House,"Oud Zuid, Amsterdam","MKD 95,419",4,1.7 km from center,"3,143 reviews",Good,7.5,No airport taxi,,False
+The Social Hub Amsterdam City,"Oost, Amsterdam","MKD 105,651",4,2.4 km from center,"6,920 reviews",Very Good,8.4,No airport taxi,Travel Sustainable Level 2,False
+Via Amsterdam,"Bijlmermeer, Amsterdam","MKD 68,146",3,6.6 km from center,"15,325 reviews",Very Good,8.1,No airport taxi,Travel Sustainable Level 2,False
+Wittenberg by Cove,"Amsterdam City Center, Amsterdam","MKD 109,858",4,1.4 km from center,371 reviews,Wonderful,9.0,No airport taxi,Travel Sustainable Level 1,False
+YOTEL Amsterdam,"Amsterdam Noord, Amsterdam","MKD 71,535",4,2.2 km from center,"7,923 reviews",Very Good,8.0,No airport taxi,Travel Sustainable Level 3,False
+New West Inn Amsterdam,"Osdorp, Amsterdam","MKD 52,129",3,6.8 km from center,"8,168 reviews",Good,7.2,No airport taxi,Travel Sustainable Level 1,False
+Ruby Emma Hotel Amsterdam,"Oost, Amsterdam","MKD 107,157",4,4.3 km from center,"5,428 reviews",Excellent,8.6,No airport taxi,Travel Sustainable Level 3,False
+Element Amsterdam,"Zuideramstel, Amsterdam","MKD 119,503",4,4.7 km from center,"1,077 reviews",Excellent,8.7,No airport taxi,Travel Sustainable Level 3+,False
+the niu Fender,"Zeeburg, Amsterdam","MKD 79,436",4,3.9 km from center,"5,320 reviews",Very Good,8.2,No airport taxi,Travel Sustainable Level 3+,False
+Moxy Amsterdam Houthavens,"Westpoort, Amsterdam","MKD 84,689",4,3.4 km from center,"2,092 reviews",Very Good,8.0,No airport taxi,Travel Sustainable Level 3,True
+Joy Hotel,"Zuidoost, Amsterdam","MKD 66,141",3,8.5 km from center,"7,294 reviews",Good,7.4,No airport taxi,Travel Sustainable Level 2,False
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam","MKD 84,689",4,3.9 km from center,"17,608 reviews",Good,7.9,No airport taxi,Travel Sustainable Level 3+,False
+ibis Amsterdam City West,"Westpoort, Amsterdam","MKD 81,664",3,3.6 km from center,"3,659 reviews",Good,7.7,No airport taxi,Travel Sustainable Level 2,True
+Cityden BoLo District,"Bos en Lommer, Amsterdam","MKD 73,665",4,3.3 km from center,"4,388 reviews",Very Good,8.4,No airport taxi,Travel Sustainable Level 3,False
+The Alfred Hotel,"Oud Zuid, Amsterdam","MKD 72,181",3,2.6 km from center,"4,915 reviews",Good,7.2,Early 2024 Deal,Travel Sustainable Level 1,True
+"Holiday Inn Express Amsterdam Arena Towers, an IHG Hotel","Zuidoost, Amsterdam","MKD 88,269",3,7.8 km from center,"14,561 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 3+,True
+Residence Inn by Marriott Amsterdam Houthavens,"Westpoort, Amsterdam","MKD 111,355",4,3.4 km from center,735 reviews,Very Good,8.3,No airport taxi,Travel Sustainable Level 2,False
+"Park Centraal Amsterdam, part of Sircle Collection","Oud Zuid, Amsterdam","MKD 123,145",4,1.4 km from center,"2,307 reviews",Very Good,8.3,No airport taxi,Travel Sustainable Level 2,False
+Qbic Amsterdam WTC,"Zuideramstel, Amsterdam","MKD 70,671",3,3.9 km from center,"3,368 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 2,True
+Hotel Espresso,"Oud West, Amsterdam","MKD 70,776",3,1.6 km from center,"1,709 reviews",Good,7.4,No airport taxi,Travel Sustainable Level 1,False
+Via Suites,"Bijlmermeer, Amsterdam","MKD 73,665",4,6.6 km from center,"2,089 reviews",Very Good,8.2,No airport taxi,Travel Sustainable Level 2,False
+Hotel Jansen Amsterdam Bajeskwartier,"Oost, Amsterdam","MKD 81,942",,4.2 km from center,"1,115 reviews",Very Good,8.3,No airport taxi,Travel Sustainable Level 3,False
+NH Amsterdam Zuid,"Zuideramstel, Amsterdam","MKD 83,404",4,5.2 km from center,"1,583 reviews",Very Good,8.1,No airport taxi,Travel Sustainable Level 3+,True
+Hotel Torenzicht,"Amsterdam City Center, Amsterdam","MKD 86,417",1,350 m from center,"1,873 reviews",Good,7.4,No airport taxi,,True
+Amadi Panorama Hotel,"IJburg, Amsterdam","MKD 91,602",4,6.6 km from center,"4,575 reviews",Good,7.7,No airport taxi,Travel Sustainable Level 1,True
+citizenM Amsterdam South,"Zuideramstel, Amsterdam","MKD 89,164",4,3.6 km from center,"3,721 reviews",Excellent,8.6,No airport taxi,Travel Sustainable Level 3,False
+Hotel Iron Horse Amsterdam,"Oud West, Amsterdam","MKD 69,220",3,1.5 km from center,"1,484 reviews",Good,7.3,Limited-time Deal,Travel Sustainable Level 1,True
+Sonder Park House,"Oud Zuid, Amsterdam","MKD 95,419",4,1.7 km from center,"3,143 reviews",Good,7.5,No airport taxi,,False
+Private Studio with Patio in the heart of Amsterdam,"Amsterdam City Center, Amsterdam","MKD 107,980",,0.9 km from center,163 external reviews,Wonderful 9.2,,No airport taxi,,False
+The Social Hub Amsterdam City,"Oost, Amsterdam","MKD 105,651",4,2.4 km from center,"6,920 reviews",Very Good,8.4,No airport taxi,Travel Sustainable Level 2,False
+Qbic Amsterdam WTC,"Zuideramstel, Amsterdam","MKD 70,671",3,3.9 km from center,"3,368 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 2,True
+Wittenberg by Cove,"Amsterdam City Center, Amsterdam","MKD 109,858",4,1.4 km from center,371 reviews,Wonderful,9.0,No airport taxi,Travel Sustainable Level 1,False
+Ruby Emma Hotel Amsterdam,"Oost, Amsterdam","MKD 107,157",4,4.3 km from center,"5,428 reviews",Excellent,8.6,No airport taxi,Travel Sustainable Level 3,False
+Joy Hotel,"Zuidoost, Amsterdam","MKD 66,141",3,8.5 km from center,"7,294 reviews",Good,7.4,No airport taxi,Travel Sustainable Level 2,False
+YOTEL Amsterdam,"Amsterdam Noord, Amsterdam","MKD 71,535",4,2.2 km from center,"7,923 reviews",Very Good,8.0,No airport taxi,Travel Sustainable Level 3,False
+Element Amsterdam,"Zuideramstel, Amsterdam","MKD 119,503",4,4.7 km from center,"1,077 reviews",Excellent,8.7,No airport taxi,Travel Sustainable Level 3+,False
+NH Amsterdam Zuid,"Zuideramstel, Amsterdam","MKD 83,404",4,5.2 km from center,"1,583 reviews",Very Good,8.1,No airport taxi,Travel Sustainable Level 3+,True
+Moxy Amsterdam Houthavens,"Westpoort, Amsterdam","MKD 84,689",4,3.4 km from center,"2,092 reviews",Very Good,8.0,No airport taxi,Travel Sustainable Level 3,True
+Hotel Espresso,"Oud West, Amsterdam","MKD 70,776",3,1.6 km from center,"1,709 reviews",Good,7.4,No airport taxi,Travel Sustainable Level 1,False
+Via Amsterdam,"Bijlmermeer, Amsterdam","MKD 68,146",3,6.6 km from center,"15,325 reviews",Very Good,8.1,No airport taxi,Travel Sustainable Level 2,False
+"Holiday Inn Express Amsterdam - Sloterdijk Station, an IHG Hotel","Westpoort, Amsterdam","MKD 85,738",3,4.1 km from center,"7,424 reviews",Good,7.9,No airport taxi,Travel Sustainable Level 2,True
+Cityden BoLo District,"Bos en Lommer, Amsterdam","MKD 73,665",4,3.3 km from center,"4,388 reviews",Very Good,8.4,No airport taxi,Travel Sustainable Level 3,False
+ibis Amsterdam City West,"Westpoort, Amsterdam","MKD 81,664",3,3.6 km from center,"3,659 reviews",Good,7.7,No airport taxi,Travel Sustainable Level 2,True
+"Holiday Inn Express Amsterdam Arena Towers, an IHG Hotel","Zuidoost, Amsterdam","MKD 88,269",3,7.8 km from center,"14,561 reviews",Good,7.8,No airport taxi,Travel Sustainable Level 3+,True
+Budget Trianon Hotel,"Oud Zuid, Amsterdam","MKD 43,646",2,2.1 km from center,"2,124 reviews",Review score,6.7,No airport taxi,,False
+OZO Hotels Arena Amsterdam,"Zuidoost, Amsterdam","MKD 69,442",4,8.4 km from center,"7,540 reviews",Good,7.4,No airport taxi,Travel Sustainable Level 2,True
+Conscious Hotel Amsterdam City - The Tire Station,"Oud West, Amsterdam","MKD 66,554",3,3.1 km from center,"2,678 reviews",Very Good,8.3,No airport taxi,Travel Sustainable Level 3+,False
+"Apollo Hotel Amsterdam, a Tribute Portfolio Hotel","Oud Zuid, Amsterdam","MKD 110,367",4,2.8 km from center,"1,405 reviews",Very Good,8.1,No airport taxi,Travel Sustainable Level 3+,True
+Amadi Panorama Hotel,"IJburg, Amsterdam","MKD 91,602",4,6.6 km from center,"4,575 reviews",Good,7.7,No airport taxi,Travel Sustainable Level 1,True
+Novotel Amsterdam City,"Zuideramstel, Amsterdam","MKD 120,429",4,4.4 km from center,"6,046 reviews",Very Good,8.2,No airport taxi,Travel Sustainable Level 2,True
+Mercure Amsterdam North Station,"Amsterdam Noord, Amsterdam","MKD 83,640",4,4.2 km from center,"3,527 reviews",Excellent,8.9,No airport taxi,Travel Sustainable Level 2,True
+The Alfred Hotel,"Oud Zuid, Amsterdam","MKD 101,664",3,2.6 km from center,"4,915 reviews",Good,7.2,No airport taxi,Travel Sustainable Level 1,True
+Eden Hotel Amsterdam,"Amsterdam City Center, Amsterdam","MKD 138,829",4,0.8 km from center,"8,466 reviews",Very Good,8.2,No airport taxi,Travel Sustainable Level 2,False

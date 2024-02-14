@@ -1,0 +1,898 @@
+name,location,price,date_from,date_to,stars,km_from_center,num_external_reviews,booking_user_ratings,avg_user_ratings,airport_taxi,travel_sustainable_level,has_free_cancelation,price_category,cluster_label,date,location_encoded,date_encoded
+Hotel Iron Horse Amsterdam,"Oud West, Amsterdam",964.7082496800001,2024-01-10,2024-01-25,3,1.5,1494,1,7.3,2,1,0,1,0,2024-01-10 to 2024-01-25,21,0
+Sonder Park House,"Oud Zuid, Amsterdam",1625.6433667800002,2024-01-10,2024-01-25,4,1.7,3152,1,7.5,1,0,0,0,0,2024-01-10 to 2024-01-25,22,0
+Homestay Properties,"Geuzenveld-Slotermeer, Amsterdam",1048.5329766900002,2024-01-10,2024-01-25,0,6.6,0,0,,1,0,0,2,2,2024-01-10 to 2024-01-25,11,0
+The Social Hub Amsterdam City,"Oost, Amsterdam",1742.34404436,2024-01-10,2024-01-25,4,2.4,6949,2,8.4,1,2,0,0,0,2024-01-10 to 2024-01-25,19,0
+Hotel Jansen Amsterdam Bajeskwartier,"Oost, Amsterdam",1332.96444414,2024-01-10,2024-01-25,0,4.2,1119,2,8.3,1,3,0,2,2,2024-01-10 to 2024-01-25,19,0
+Qbic Amsterdam WTC,"Zuideramstel, Amsterdam",1144.24900497,2024-01-10,2024-01-25,3,3.9,3378,1,7.8,1,2,1,2,0,2024-01-10 to 2024-01-25,31,0
+Wittenberg by Cove,"Amsterdam City Center, Amsterdam",1787.0787618600002,2024-01-10,2024-01-25,4,1.4,371,3,9.0,1,1,0,0,0,2024-01-10 to 2024-01-25,1,0
+Joy Hotel,"Zuidoost, Amsterdam",943.25185245,2024-01-10,2024-01-25,3,8.5,7304,1,7.4,1,2,0,1,0,2024-01-10 to 2024-01-25,32,0
+YOTEL Amsterdam,"Amsterdam Noord, Amsterdam",1163.67200595,2024-01-10,2024-01-25,4,2.2,7929,2,8.0,1,3,0,2,0,2024-01-10 to 2024-01-25,2,0
+Ruby Emma Hotel Amsterdam,"Oost, Amsterdam",2225.12111562,2024-01-10,2024-01-25,4,4.3,5443,5,8.6,1,3,1,0,0,2024-01-10 to 2024-01-25,19,0
+Element Amsterdam,"Zuideramstel, Amsterdam",1907.82996477,2024-01-10,2024-01-25,4,4.7,1082,5,8.7,1,4,0,0,0,2024-01-10 to 2024-01-25,31,0
+the niu Fender,"Zeeburg, Amsterdam",1286.2288647300002,2024-01-10,2024-01-25,4,3.9,5324,2,8.2,1,4,0,2,0,2024-01-10 to 2024-01-25,30,0
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam",1374.64093368,2024-01-10,2024-01-25,4,3.9,17661,1,7.9,1,4,0,2,0,2024-01-10 to 2024-01-25,28,0
+Moxy Amsterdam Houthavens,"Westpoort, Amsterdam",1377.65036013,2024-01-10,2024-01-25,4,3.4,2112,2,8.0,1,3,1,2,0,2024-01-10 to 2024-01-25,28,0
+Fully fitted room - 15 min from central station,"Zeeburg, Amsterdam",1427.39536599,2024-01-10,2024-01-25,0,3.4,33,3,9.3,1,0,0,2,2,2024-01-10 to 2024-01-25,30,0
+"Holiday Inn Express Amsterdam - Sloterdijk Station, an IHG Hotel","Westpoort, Amsterdam",1408.76945634,2024-01-10,2024-01-25,3,4.1,7435,1,7.9,1,2,1,2,0,2024-01-10 to 2024-01-25,28,0
+Tribe Amsterdam City,"Amsterdam Noord, Amsterdam",1314.387336,2024-01-10,2024-01-25,4,4.2,5489,3,9.0,1,3,1,2,0,2024-01-10 to 2024-01-25,2,0
+Citadines Sloterdijk Station Amsterdam,"Westpoort, Amsterdam",1296.8187924000001,2024-01-10,2024-01-25,4,4.2,412,5,8.9,1,2,0,2,0,2024-01-10 to 2024-01-25,28,0
+Cityden BoLo District,"Bos en Lommer, Amsterdam",1160.3535032700001,2024-01-10,2024-01-25,4,3.3,4396,2,8.4,1,3,0,2,0,2024-01-10 to 2024-01-25,8,0
+Hotel Espresso,"Oud West, Amsterdam",1127.81916327,2024-01-10,2024-01-25,3,1.6,1714,1,7.4,1,1,0,2,0,2024-01-10 to 2024-01-25,21,0
+Via Amsterdam,"Bijlmermeer, Amsterdam",988.6535239200001,2024-01-10,2024-01-25,3,6.6,15356,2,8.1,1,2,0,1,0,2024-01-10 to 2024-01-25,6,0
+NH Amsterdam Leidseplein,"Oud West, Amsterdam",1939.8925568400002,2024-01-10,2024-01-25,4,1.4,232,2,8.3,1,4,0,0,0,2024-01-10 to 2024-01-25,21,0
+ibis Amsterdam City West,"Westpoort, Amsterdam",1305.3590566500002,2024-01-10,2024-01-25,3,3.6,3667,1,7.7,1,2,1,2,0,2024-01-10 to 2024-01-25,28,0
+"Holiday Inn Express Amsterdam Arena Towers, an IHG Hotel","Zuidoost, Amsterdam",1426.85854938,2024-01-10,2024-01-25,3,7.8,14610,1,7.8,1,4,1,2,0,2024-01-10 to 2024-01-25,32,0
+"Apollo Hotel Amsterdam, a Tribute Portfolio Hotel","Oud Zuid, Amsterdam",1723.06744791,2024-01-10,2024-01-25,4,2.8,1411,2,8.2,1,4,1,0,0,2024-01-10 to 2024-01-25,22,0
+Mercure Amsterdam North Station,"Amsterdam Noord, Amsterdam",1360.5860988000002,2024-01-10,2024-01-25,4,4.2,3538,5,8.9,1,2,1,2,0,2024-01-10 to 2024-01-25,2,0
+OZO Hotels Arena Amsterdam,"Zuidoost, Amsterdam",1098.00144066,2024-01-10,2024-01-25,4,8.4,7567,1,7.4,1,2,1,2,0,2024-01-10 to 2024-01-25,32,0
+Boutique Apartments Amsterdam,"Westpoort, Amsterdam",1296.8187924000001,2024-01-10,2024-01-25,4,4.2,1712,5,8.9,1,0,0,2,0,2024-01-10 to 2024-01-25,28,0
+Novotel Amsterdam City,"Zuideramstel, Amsterdam",1959.03901593,2024-01-10,2024-01-25,4,4.4,6062,2,8.2,1,2,1,0,0,2024-01-10 to 2024-01-25,31,0
+Residence Inn by Marriott Amsterdam Houthavens,"Westpoort, Amsterdam",1811.4307153500001,2024-01-10,2024-01-25,4,3.4,738,2,8.3,1,2,0,0,0,2024-01-10 to 2024-01-25,28,0
+Leonardo Royal Hotel Amsterdam,"Oost, Amsterdam",1405.2557476200002,2024-01-10,2024-01-25,4,4.8,6900,2,8.2,1,4,1,2,0,2024-01-10 to 2024-01-25,19,0
+Hotel Fogo,"Osdorp, Amsterdam",649.0926173400001,2024-01-10,2024-01-25,3,8.4,20,1,7.6,2,1,0,1,2,2024-01-10 to 2024-01-25,20,0
+Aadam Hotel Wilhelmina,"Oud Zuid, Amsterdam",953.95565031,2024-01-10,2024-01-25,3,3.1,1301,1,7.2,1,2,0,1,0,2024-01-10 to 2024-01-25,22,0
+Bob W Amsterdam Noord,"Amsterdam Noord, Amsterdam",1332.2649558300002,2024-01-10,2024-01-25,0,2.8,320,5,8.8,1,0,0,2,2,2024-01-10 to 2024-01-25,2,0
+Leonardo Hotel Amsterdam Rembrandtpark,"Slotervaart, Amsterdam",1278.74596653,2024-01-10,2024-01-25,4,3.4,8392,2,8.0,1,4,1,2,0,2024-01-10 to 2024-01-25,24,0
+Amadi Panorama Hotel,"IJburg, Amsterdam",1591.31963808,2024-01-10,2024-01-25,4,6.6,4580,1,7.7,1,1,1,0,0,2024-01-10 to 2024-01-25,14,0
+The Social Hub Amsterdam West 4 star,"Slotervaart, Amsterdam",1356.37290177,2024-01-10,2024-01-25,4,3.8,2215,2,8.4,1,2,0,2,0,2024-01-10 to 2024-01-25,24,0
+Best Western Amsterdam,"Slotervaart, Amsterdam",1070.4448546800002,2024-01-10,2024-01-25,3,4.3,8377,1,7.7,1,1,0,2,0,2024-01-10 to 2024-01-25,24,0
+"Holiday Inn Express Amsterdam - South, an IHG Hotel","Zuideramstel, Amsterdam",1510.1952612900002,2024-01-10,2024-01-25,3,5.5,2591,2,8.0,1,4,1,0,0,2024-01-10 to 2024-01-25,31,0
+Mercure Amsterdam Sloterdijk Station,"Westpoort, Amsterdam",1350.5329877400002,2024-01-10,2024-01-25,4,4.3,4502,2,8.4,1,2,1,2,0,2024-01-10 to 2024-01-25,28,0
+Leonardo Hotel Amsterdam City Center,"Oud West, Amsterdam",1360.97651088,2024-01-10,2024-01-25,4,1.6,2409,1,7.4,1,4,1,2,0,2024-01-10 to 2024-01-25,21,0
+ibis Styles Amsterdam City,"Oud Zuid, Amsterdam",1541.3143575000001,2024-01-10,2024-01-25,3,1.7,1793,2,8.4,1,3,1,0,0,2024-01-10 to 2024-01-25,22,0
+ibis Styles Amsterdam Amstel,"Oud Zuid, Amsterdam",1526.2509580800001,2024-01-10,2024-01-25,3,1.7,1202,1,7.9,1,3,1,0,0,2024-01-10 to 2024-01-25,22,0
+New West Inn Amsterdam,"Osdorp, Amsterdam",824.14363371,2024-01-10,2024-01-25,3,6.8,8188,1,7.2,1,1,0,1,0,2024-01-10 to 2024-01-25,20,0
+citizenM Amsterdam South,"Zuideramstel, Amsterdam",1445.9236726200002,2024-01-10,2024-01-25,4,3.6,3730,5,8.6,1,3,0,2,0,2024-01-10 to 2024-01-25,31,0
+Jaz in the City Amsterdam,"Zuidoost, Amsterdam",1788.33133395,2024-01-10,2024-01-25,4,7.2,9738,5,8.7,1,1,1,0,0,2024-01-10 to 2024-01-25,32,0
+Amsterdam ID Aparthotel,"Westpoort, Amsterdam",1520.11823499,2024-01-10,2024-01-25,3,4.3,1522,5,8.7,1,4,0,0,0,2024-01-10 to 2024-01-25,28,0
+"Holiday Inn Amsterdam - Arena Towers, an IHG Hotel","Zuidoost, Amsterdam",1593.5319732,2024-01-10,2024-01-25,4,7.8,3007,1,7.9,1,4,1,0,0,2024-01-10 to 2024-01-25,32,0
+PREMIER SUITES PLUS Amsterdam,"Zuideramstel, Amsterdam",2314.4929476,2024-01-10,2024-01-25,4,4.3,999,5,8.9,1,4,0,0,0,2024-01-10 to 2024-01-25,31,0
+"Radisson Blu Hotel, Amsterdam City Center","Amsterdam City Center, Amsterdam",2969.18147142,2024-01-10,2024-01-25,4,400.0,6355,2,8.4,1,4,0,0,1,2024-01-10 to 2024-01-25,1,0
+Courtyard by Marriott Amsterdam Arena Atlas,"Zuidoost, Amsterdam",2424.9470319,2024-01-10,2024-01-25,4,7.9,2612,2,8.2,1,3,1,0,0,2024-01-10 to 2024-01-25,32,0
+Belfort Hotel,"Oud Zuid, Amsterdam",835.02637044,2024-01-10,2024-01-25,3,3.3,3135,0,6.3,1,0,0,1,0,2024-01-10 to 2024-01-25,22,0
+City Hotel Amsterdam,"Amsterdam City Center, Amsterdam",1897.33764012,2024-01-10,2024-01-25,3,0.8,3484,1,7.9,1,0,0,0,0,2024-01-10 to 2024-01-25,1,0
+Campanile Hotel & Restaurant Amsterdam Zuid-Oost,"Zuidoost, Amsterdam",1015.6570261200001,2024-01-10,2024-01-25,3,9.3,2626,1,7.5,1,1,0,2,0,2024-01-10 to 2024-01-25,32,0
+Hotel Isis,"Amsterdam Noord, Amsterdam",1117.0177623900001,2024-01-10,2024-01-25,3,1.9,1000,1,7.2,1,1,0,2,0,2024-01-10 to 2024-01-25,2,0
+The Social Hub Amsterdam West,"Slotervaart, Amsterdam",1111.34052006,2024-01-10,2024-01-25,3,3.9,2902,2,8.0,1,2,0,2,0,2024-01-10 to 2024-01-25,24,0
+Urban Lodge Hotel,"Westpoort, Amsterdam",1470.0316185600002,2024-01-10,2024-01-25,4,4.2,3547,2,8.0,1,1,0,2,0,2024-01-10 to 2024-01-25,28,0
+The July - Boat & Co,"Westerpark, Amsterdam",2137.65254253,2024-01-10,2024-01-25,4,2.5,1927,3,9.1,1,4,0,0,0,2024-01-10 to 2024-01-25,27,0
+"The Hoxton, Lloyd Amsterdam","Zeeburg, Amsterdam",2100.61219644,2024-01-10,2024-01-25,4,2.8,223,5,8.7,1,0,1,0,0,2024-01-10 to 2024-01-25,30,0
+"Radisson Blu Hotel, Amsterdam City Center","Amsterdam City Center, Amsterdam",2969.18147142,2024-01-10,2024-01-25,4,400.0,6355,2,8.4,1,4,0,0,1,2024-01-10 to 2024-01-25,1,0
+Hotel Victorie,"Zuideramstel, Amsterdam",1358.7641757600002,2024-01-10,2024-01-25,3,3.0,778,1,7.2,1,0,1,2,0,2024-01-10 to 2024-01-25,31,0
+Zoku Amsterdam,"Amsterdam City Center, Amsterdam",2002.0168790700002,2024-01-10,2024-01-25,4,1.4,2328,5,8.9,1,4,0,0,0,2024-01-10 to 2024-01-25,1,0
+Citadines Sloterdijk Station Amsterdam,"Westpoort, Amsterdam",1296.8187924000001,2024-01-10,2024-01-25,4,4.2,412,5,8.9,1,2,0,2,0,2024-01-10 to 2024-01-25,28,0
+Dutch Masters Short Stay Apartments,"Amsterdam City Center, Amsterdam",2419.67646882,2024-01-10,2024-01-25,0,1.0,149,5,8.9,1,0,0,0,2,2024-01-10 to 2024-01-25,1,0
+Quentin England Hotel,"Oud West, Amsterdam",1330.70330751,2024-01-10,2024-01-25,2,1.7,1370,0,6.2,1,3,0,2,2,2024-01-10 to 2024-01-25,21,0
+Wittenberg by Cove,"Amsterdam City Center, Amsterdam",1787.0787618600002,2024-01-10,2024-01-25,4,1.4,371,3,9.0,1,1,0,0,0,2024-01-10 to 2024-01-25,1,0
+Belfort Hotel,"Oud Zuid, Amsterdam",835.02637044,2024-01-10,2024-01-25,3,3.3,3135,0,6.3,1,0,0,1,0,2024-01-10 to 2024-01-25,22,0
+"Holiday Inn Express Amsterdam - South, an IHG Hotel","Zuideramstel, Amsterdam",1510.1952612900002,2024-01-10,2024-01-25,3,5.5,2591,2,8.0,1,4,1,0,0,2024-01-10 to 2024-01-25,31,0
+The July - Twenty Eight,"Oud Zuid, Amsterdam",2907.08968353,2024-01-10,2024-01-25,4,4.1,616,3,9.1,1,4,0,0,0,2024-01-10 to 2024-01-25,22,0
+Leonardo Hotel Amsterdam Rembrandtpark,"Slotervaart, Amsterdam",1420.8234293100002,2024-01-10,2024-01-25,4,3.4,8392,2,8.0,1,4,1,2,0,2024-01-10 to 2024-01-25,24,0
+The Social Hub Amsterdam West 4 star,"Slotervaart, Amsterdam",1356.37290177,2024-01-10,2024-01-25,4,3.8,2215,2,8.4,1,2,0,2,0,2024-01-10 to 2024-01-25,24,0
+Mercure Amsterdam Sloterdijk Station,"Westpoort, Amsterdam",1350.5329877400002,2024-01-10,2024-01-25,4,4.3,4502,2,8.4,1,2,1,2,0,2024-01-10 to 2024-01-25,28,0
+Prinsenhotel,"Oud West, Amsterdam",1531.92820041,2024-01-10,2024-01-25,3,1.6,2198,1,7.8,1,0,0,0,0,2024-01-10 to 2024-01-25,21,0
+Fully fitted room - 15 min from central station,"Zeeburg, Amsterdam",1586.0002734900002,2024-01-10,2024-01-25,0,3.4,33,3,9.3,1,0,0,0,2,2024-01-10 to 2024-01-25,30,0
+Amadi Park Hotel,"Oud West, Amsterdam",1729.96472799,2024-01-10,2024-01-25,4,1.6,1619,1,7.7,1,1,1,0,0,2024-01-10 to 2024-01-25,21,0
+"Holiday Inn Amsterdam - Arena Towers, an IHG Hotel","Zuidoost, Amsterdam",1593.5319732,2024-01-10,2024-01-25,4,7.8,3007,1,7.9,1,4,1,0,0,2024-01-10 to 2024-01-25,32,0
+"Max Brown Hotel Museum Square, part of Sircle Collection","Oud Zuid, Amsterdam",1825.4855502300002,2024-01-10,2024-01-25,3,1.6,1010,1,7.8,1,0,0,0,0,2024-01-10 to 2024-01-25,22,0
+Jaz in the City Amsterdam,"Zuidoost, Amsterdam",1788.33133395,2024-01-10,2024-01-25,4,7.2,9738,5,8.7,1,1,1,0,0,2024-01-10 to 2024-01-25,32,0
+Room Mate Aitana,"Amsterdam City Center, Amsterdam",2769.5995626900003,2024-01-10,2024-01-25,4,1.3,9957,2,8.5,1,2,0,0,0,2024-01-10 to 2024-01-25,1,0
+Campanile Hotel & Restaurant Amsterdam Zuid-Oost,"Zuidoost, Amsterdam",1015.6570261200001,2024-01-10,2024-01-25,3,9.3,2626,1,7.5,1,1,0,2,0,2024-01-10 to 2024-01-25,32,0
+The Muse Amsterdam - Boutique Hotel,"Oud Zuid, Amsterdam",1571.4411563400001,2024-01-10,2024-01-25,3,2.3,1362,2,8.2,1,2,0,0,0,2024-01-10 to 2024-01-25,22,0
+Leonardo Boutique Museumhotel,"Oud Zuid, Amsterdam",1945.9764784200001,2024-01-10,2024-01-25,4,1.4,3432,1,7.7,1,4,1,0,0,2024-01-10 to 2024-01-25,22,0
+"Crowne Plaza Amsterdam - South, an IHG Hotel","Zuideramstel, Amsterdam",2781.4095281100003,2024-01-10,2024-01-25,4,4.3,1108,5,8.6,1,4,1,0,0,2024-01-10 to 2024-01-25,31,0
+Rokin Hotel,"Amsterdam City Center, Amsterdam",2846.77101717,2024-01-10,2024-01-25,4,250.0,2729,1,7.9,1,4,0,0,1,2024-01-10 to 2024-01-25,1,0
+City Hotel Amsterdam,"Amsterdam City Center, Amsterdam",2108.1438961500003,2024-01-10,2024-01-25,3,0.8,3484,1,7.9,1,0,0,0,0,2024-01-10 to 2024-01-25,1,0
+Clayton Hotel Amsterdam American,"Amsterdam City Center, Amsterdam",2462.34525573,2024-01-10,2024-01-25,4,1.3,3137,5,8.6,1,4,1,0,0,2024-01-10 to 2024-01-25,1,0
+De Ware Jacob Boutique Hotel,"Oud Zuid, Amsterdam",1625.6596339500002,2024-01-10,2024-01-25,4,2.4,736,3,9.1,1,3,0,0,0,2024-01-10 to 2024-01-25,22,0
+Courtyard by Marriott Amsterdam Arena Atlas,"Zuidoost, Amsterdam",2424.9470319,2024-01-10,2024-01-25,4,7.9,2612,2,8.2,1,3,1,0,0,2024-01-10 to 2024-01-25,32,0
+Townhouse 't Raap,"Amsterdam City Center, Amsterdam",2082.5393705700003,2024-01-10,2024-01-25,0,1.2,0,0,,1,0,0,0,2,2024-01-10 to 2024-01-25,1,0
+Bens The Highdocks,"Amsterdam Noord, Amsterdam",1530.0900102,2024-01-10,2024-01-25,0,2.7,390,1,7.5,2,0,0,0,2,2024-01-10 to 2024-01-25,2,0
+Nova Apartments Amsterdam,"Oud Zuid, Amsterdam",1867.65005487,2024-01-10,2024-01-25,4,2.2,170,5,8.7,1,1,0,0,0,2024-01-10 to 2024-01-25,22,0
+Hotel Vondel Garden City Centre,"Oud West, Amsterdam",1053.02271561,2024-01-10,2024-01-25,3,1.7,779,1,7.0,1,1,0,2,0,2024-01-10 to 2024-01-25,21,0
+"Sir Albert Hotel, part of Sircle Collection","Oud Zuid, Amsterdam",2309.35252188,2024-01-10,2024-01-25,4,2.1,500,2,8.1,1,3,0,0,0,2024-01-10 to 2024-01-25,22,0
+Delta Hotel City Center,"Amsterdam City Center, Amsterdam",1496.1404264100001,2024-01-10,2024-01-25,3,400.0,3044,0,6.6,1,0,0,2,1,2024-01-10 to 2024-01-25,1,0
+MAX Hotel Amsterdam,"Oud Zuid, Amsterdam",1190.8869813600002,2024-01-10,2024-01-25,2,1.8,687,0,6.0,1,1,0,2,2,2024-01-10 to 2024-01-25,22,0
+Conscious Hotel Amsterdam City - The Tire Station,"Oud West, Amsterdam",1946.98504296,2024-01-10,2024-01-25,3,3.1,2684,2,8.3,1,4,0,0,0,2024-01-10 to 2024-01-25,21,0
+WestCord Fashion Hotel Amsterdam,"Slotervaart, Amsterdam",2058.4476918,2024-01-10,2024-01-25,4,3.7,3198,2,8.2,1,4,1,0,0,2024-01-10 to 2024-01-25,24,0
+NH Amsterdam Caransa,"Amsterdam City Center, Amsterdam",2300.43811272,2024-01-10,2024-01-25,4,0.8,1269,1,7.8,1,4,1,0,0,2024-01-10 to 2024-01-25,1,0
+"Max Brown Hotel Canal District, part of Sircle Collection","Amsterdam City Center, Amsterdam",2716.1293749,2024-01-10,2024-01-25,3,0.7,1031,1,7.8,1,1,0,0,0,2024-01-10 to 2024-01-25,1,0
+THIS HO(S)TEL,"Amsterdam City Center, Amsterdam",1182.2491140900001,2024-01-10,2024-01-25,0,0.5,5288,2,8.3,1,1,0,2,2,2024-01-10 to 2024-01-25,1,0
+Van der Valk Hotel Amsterdam - Amstel,"Oost, Amsterdam",1858.7681800500002,2024-01-10,2024-01-25,4,4.6,5830,5,8.6,1,4,0,0,0,2024-01-10 to 2024-01-25,19,0
+Boutique Hotel Oosteinde,"Amsterdam City Center, Amsterdam",1636.7050423800001,2024-01-10,2024-01-25,3,1.6,1145,1,7.4,1,0,0,0,0,2024-01-10 to 2024-01-25,1,0
+Leonardo Hotel Amsterdam City Center,"Oud West, Amsterdam",1512.1961232,2024-01-10,2024-01-25,4,1.6,2409,1,7.4,1,4,1,0,0,2024-01-10 to 2024-01-25,21,0
+Jaz in the City Amsterdam,"Zuidoost, Amsterdam",1788.33133395,2024-01-10,2024-01-25,4,7.2,9738,5,8.7,1,1,1,0,0,2024-01-10 to 2024-01-25,32,0
+Hotel Museumzicht,"Oud Zuid, Amsterdam",1748.67197349,2024-01-10,2024-01-25,1,1.6,1031,2,8.3,1,3,0,0,2,2024-01-10 to 2024-01-25,22,0
+"Sir Adam Hotel, part of Sircle Collection","Amsterdam Noord, Amsterdam",2782.4018254800003,2024-01-10,2024-01-25,4,1.4,1360,5,8.7,1,3,0,0,0,2024-01-10 to 2024-01-25,2,0
+Met Hotel Amsterdam,"Slotervaart, Amsterdam",1616.6313546000001,2024-01-10,2024-01-25,3,4.1,2445,3,9.0,1,3,0,0,0,2024-01-10 to 2024-01-25,24,0
+Apollofirst Boutique Hotel,"Oud Zuid, Amsterdam",1519.12593762,2024-01-10,2024-01-25,4,2.8,1699,5,8.6,1,1,0,0,0,2024-01-10 to 2024-01-25,22,0
+Bilderberg Garden Hotel,"Oud Zuid, Amsterdam",2404.49919921,2024-01-10,2024-01-25,5,2.7,1682,1,7.7,1,4,1,0,0,2024-01-10 to 2024-01-25,22,0
+Clayton Hotel Amsterdam American,"Amsterdam City Center, Amsterdam",2216.10910344,2024-01-10,2024-01-25,4,1.3,3137,5,8.6,1,4,1,0,0,2024-01-10 to 2024-01-25,1,0
+Fully fitted room - 15 min from central station,"Zeeburg, Amsterdam",1427.39536599,2024-01-10,2024-01-25,0,3.4,33,3,9.3,1,0,0,2,2,2024-01-10 to 2024-01-25,30,0
+Leonardo Hotel Amsterdam City Center,"Oud West, Amsterdam",1360.97651088,2024-01-10,2024-01-25,4,1.6,2409,1,7.4,1,4,1,2,0,2024-01-10 to 2024-01-25,21,0
+Room Mate Aitana,"Amsterdam City Center, Amsterdam",2769.5995626900003,2024-01-10,2024-01-25,4,1.3,9957,2,8.5,1,2,0,0,0,2024-01-10 to 2024-01-25,1,0
+ibis Amsterdam Centre,"Amsterdam City Center, Amsterdam",1911.83168859,2024-01-10,2024-01-25,3,0.8,8091,1,7.7,1,0,1,0,0,2024-01-10 to 2024-01-25,1,0
+YAYS Amsterdam Docklands,"Zeeburg, Amsterdam",1586.0002734900002,2024-01-10,2024-01-25,4,3.7,825,3,9.0,1,2,0,0,0,2024-01-10 to 2024-01-25,30,0
+Dream Hotel Amsterdam,"Amsterdam City Center, Amsterdam",1726.9878358800001,2024-01-10,2024-01-25,3,0.9,1591,1,7.7,1,0,0,0,0,2024-01-10 to 2024-01-25,1,0
+Grand Hotel Amrâth Amsterdam,"Amsterdam City Center, Amsterdam",2394.75516438,2024-01-10,2024-01-25,5,0.8,2607,1,7.7,1,0,0,0,0,2024-01-10 to 2024-01-25,1,0
+Amsterdam Downtown Hotel,"Amsterdam City Center, Amsterdam",1787.30650224,2024-01-10,2024-01-25,2,1.0,1964,1,7.0,1,0,0,0,0,2024-01-10 to 2024-01-25,1,0
+Rokin Hotel,"Amsterdam City Center, Amsterdam",2846.77101717,2024-01-10,2024-01-25,4,250.0,2729,1,7.9,1,4,0,0,1,2024-01-10 to 2024-01-25,1,0
+Mercure Amsterdam City Hotel,"Oost, Amsterdam",1882.71345429,2024-01-10,2024-01-25,4,4.4,3622,2,8.3,1,2,1,0,0,2024-01-10 to 2024-01-25,19,0
+Bastion Hotel Amsterdam Noord,"Amsterdam Noord, Amsterdam",1059.35064474,2024-01-10,2024-01-25,3,3.5,731,0,6.6,1,4,0,2,0,2024-01-10 to 2024-01-25,2,0
+TWENTY FIVE Rooms,"Amsterdam City Center, Amsterdam",1374.54333066,2024-01-10,2024-01-25,0,0.6,282,1,7.7,1,0,0,2,2,2024-01-10 to 2024-01-25,1,0
+Budget Hostel Sphinx,"Amsterdam City Center, Amsterdam",1012.1433174000001,2024-01-10,2024-01-25,0,1.5,1381,0,6.5,1,0,0,2,2,2024-01-10 to 2024-01-25,1,0
+i hotel,"Amsterdam Noord, Amsterdam",1086.0288035400001,2024-01-10,2024-01-25,3,2.6,1185,1,7.1,1,1,0,2,0,2024-01-10 to 2024-01-25,2,0
+THIS HO(S)TEL,"Amsterdam City Center, Amsterdam",1129.16933838,2024-01-10,2024-01-25,0,0.5,5288,2,8.3,1,1,0,2,2,2024-01-10 to 2024-01-25,1,0
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-01-10,2024-01-25,3,0.9,62,1,7.6,1,0,0,0,0,2024-01-10 to 2024-01-25,18,0
+Apartment Antica,Mavrovo,903.70636218,2024-01-10,2024-01-25,0,0.7,0,0,,1,0,0,1,2,2024-01-10 to 2024-01-25,18,0
+LAKEVIEW Hotel & Apartments,Mavrovo,1927.90365255,2024-01-10,2024-01-25,0,0.9,149,2,8.1,1,0,1,0,2,2024-01-10 to 2024-01-25,18,0
+Вила Емја Маврово,Kičinica,652.9316694600001,2024-01-10,2024-01-25,0,2.5,0,0,,1,0,1,1,2,2024-01-10 to 2024-01-25,16,0
+Hotel Korab Trnica,Trnica,536.80034283,2024-01-10,2024-01-25,3,7.0,548,3,9.1,1,1,0,1,2,2024-01-10 to 2024-01-25,25,0
+Mountain house Korab Trnica,Trnica,529.1710401,2024-01-10,2024-01-25,0,7.2,54,5,8.8,1,0,0,1,2,2024-01-10 to 2024-01-25,25,0
+Vila Sara,Mavrovi Anovi,1024.19729037,2024-01-10,2024-01-25,0,7.0,0,0,,1,0,0,2,2,2024-01-10 to 2024-01-25,17,0
+Gorica Guest House,Mavrovi Anovi,1355.5595432700002,2024-01-10,2024-01-25,0,6.4,2,4,10.0,1,2,1,2,2,2024-01-10 to 2024-01-25,17,0
+Villa Vrben,Vrben,451.85318109,2024-01-10,2024-01-25,0,7.1,48,2,8.5,1,0,0,1,2,2024-01-10 to 2024-01-25,26,0
+"Guest Mansion, Гостински Палат",Rostuša,338.89395261000004,2024-01-10,2024-01-25,0,11.1,363,3,9.3,1,1,0,1,2,2024-01-10 to 2024-01-25,23,0
+Arabella Hotel,Kičevo,979.00709211,2024-01-10,2024-01-25,3,24.4,51,1,7.5,1,0,1,1,2,2024-01-10 to 2024-01-25,15,0
+HASS Boutique Hotel,Gostivar,896.17466247,2024-01-10,2024-01-25,0,20.9,2,4,10.0,1,0,0,1,2,2024-01-10 to 2024-01-25,12,0
+Hotel Kolonja's,Debar,873.57956334,2024-01-10,2024-01-25,0,23.1,38,2,8.5,1,0,0,1,2,2024-01-10 to 2024-01-25,9,0
+Green Center Gili,Gostivar,753.0886351500001,2024-01-10,2024-01-25,4,21.3,266,1,7.9,1,0,1,1,0,2024-01-10 to 2024-01-25,12,0
+STE-FI APARTMANS,Gostivar,753.0886351500001,2024-01-10,2024-01-25,0,21.2,14,4,9.6,1,0,0,1,2,2024-01-10 to 2024-01-25,12,0
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-01-10,2024-01-25,3,0.9,62,1,7.6,1,0,0,0,0,2024-01-10 to 2024-01-25,18,0
+Apartment Antica,Mavrovo,903.70636218,2024-01-10,2024-01-25,0,0.7,0,0,,1,0,0,1,2,2024-01-10 to 2024-01-25,18,0
+LAKEVIEW Hotel & Apartments,Mavrovo,1927.90365255,2024-01-10,2024-01-25,0,0.9,149,2,8.1,1,0,1,0,2,2024-01-10 to 2024-01-25,18,0
+Вила Емја Маврово,Kičinica,652.9316694600001,2024-01-10,2024-01-25,0,2.5,0,0,,1,0,1,1,2,2024-01-10 to 2024-01-25,16,0
+Hotel Korab Trnica,Trnica,536.80034283,2024-01-10,2024-01-25,3,7.0,548,3,9.1,1,1,0,1,2,2024-01-10 to 2024-01-25,25,0
+Mountain house Korab Trnica,Trnica,529.1710401,2024-01-10,2024-01-25,0,7.2,54,5,8.8,1,0,0,1,2,2024-01-10 to 2024-01-25,25,0
+Vila Sara,Mavrovi Anovi,1024.19729037,2024-01-10,2024-01-25,0,7.0,0,0,,1,0,0,2,2,2024-01-10 to 2024-01-25,17,0
+Villa Vrben,Vrben,451.85318109,2024-01-10,2024-01-25,0,7.1,48,2,8.5,1,0,0,1,2,2024-01-10 to 2024-01-25,26,0
+Gorica Guest House,Mavrovi Anovi,1355.5595432700002,2024-01-10,2024-01-25,0,6.4,2,4,10.0,1,2,1,2,2,2024-01-10 to 2024-01-25,17,0
+"Guest Mansion, Гостински Палат",Rostuša,338.89395261000004,2024-01-10,2024-01-25,0,11.1,363,3,9.3,1,1,0,1,2,2024-01-10 to 2024-01-25,23,0
+Green Center Gili,Gostivar,753.0886351500001,2024-01-10,2024-01-25,4,21.3,266,1,7.9,1,0,1,1,0,2024-01-10 to 2024-01-25,12,0
+Arabella Hotel,Kičevo,979.00709211,2024-01-10,2024-01-25,3,24.4,51,1,7.5,1,0,1,1,2,2024-01-10 to 2024-01-25,15,0
+HASS Boutique Hotel,Gostivar,896.17466247,2024-01-10,2024-01-25,0,20.9,2,4,10.0,1,0,0,1,2,2024-01-10 to 2024-01-25,12,0
+Hotel Kolonja's,Debar,873.57956334,2024-01-10,2024-01-25,0,23.1,38,2,8.5,1,0,0,1,2,2024-01-10 to 2024-01-25,9,0
+STE-FI APARTMANS,Gostivar,753.0886351500001,2024-01-10,2024-01-25,0,21.2,14,4,9.6,1,0,0,1,2,2024-01-10 to 2024-01-25,12,0
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-01-10,2024-01-25,3,0.9,62,1,7.6,1,0,0,0,0,2024-01-10 to 2024-01-25,18,0
+LAKEVIEW Hotel & Apartments,Mavrovo,1927.90365255,2024-01-10,2024-01-25,0,0.9,149,2,8.1,1,0,1,0,2,2024-01-10 to 2024-01-25,18,0
+Apartment Antica,Mavrovo,903.70636218,2024-01-10,2024-01-25,0,0.7,0,0,,1,0,0,1,2,2024-01-10 to 2024-01-25,18,0
+Вила Емја Маврово,Kičinica,652.9316694600001,2024-01-10,2024-01-25,0,2.5,0,0,,1,0,1,1,2,2024-01-10 to 2024-01-25,16,0
+Hotel Korab Trnica,Trnica,536.80034283,2024-01-10,2024-01-25,3,7.0,548,3,9.1,1,1,0,1,2,2024-01-10 to 2024-01-25,25,0
+Mountain house Korab Trnica,Trnica,529.1710401,2024-01-10,2024-01-25,0,7.2,54,5,8.8,1,0,0,1,2,2024-01-10 to 2024-01-25,25,0
+Vila Sara,Mavrovi Anovi,1024.19729037,2024-01-10,2024-01-25,0,7.0,0,0,,1,0,0,2,2,2024-01-10 to 2024-01-25,17,0
+Villa Vrben,Vrben,451.85318109,2024-01-10,2024-01-25,0,7.1,48,2,8.5,1,0,0,1,2,2024-01-10 to 2024-01-25,26,0
+Gorica Guest House,Mavrovi Anovi,1355.5595432700002,2024-01-10,2024-01-25,0,6.4,2,4,10.0,1,2,1,2,2,2024-01-10 to 2024-01-25,17,0
+"Guest Mansion, Гостински Палат",Rostuša,338.89395261000004,2024-01-10,2024-01-25,0,11.1,363,3,9.3,1,1,0,1,2,2024-01-10 to 2024-01-25,23,0
+Arabella Hotel,Kičevo,979.00709211,2024-01-10,2024-01-25,3,24.4,51,1,7.5,1,0,1,1,2,2024-01-10 to 2024-01-25,15,0
+Green Center Gili,Gostivar,753.0886351500001,2024-01-10,2024-01-25,4,21.3,266,1,7.9,1,0,1,1,0,2024-01-10 to 2024-01-25,12,0
+HASS Boutique Hotel,Gostivar,896.17466247,2024-01-10,2024-01-25,0,20.9,2,4,10.0,1,0,0,1,2,2024-01-10 to 2024-01-25,12,0
+Hotel Kolonja's,Debar,873.57956334,2024-01-10,2024-01-25,0,23.1,38,2,8.5,1,0,0,1,2,2024-01-10 to 2024-01-25,9,0
+STE-FI APARTMANS,Gostivar,753.0886351500001,2024-01-10,2024-01-25,0,21.2,14,4,9.6,1,0,0,1,2,2024-01-10 to 2024-01-25,12,0
+Citybox Antwerp,"Antwerp Center, Antwerp",1118.57941071,2024-01-10,2024-01-25,3,1.1,12173,2,8.5,1,1,1,2,0,2024-01-10 to 2024-01-25,4,0
+Fashion City 1,"Antwerp Center, Antwerp",919.48551708,2024-01-10,2024-01-25,0,1.3,2,4,9.5,1,0,1,1,2,2024-01-10 to 2024-01-25,4,0
+ibis budget Antwerpen Port,"Antwerp Center, Antwerp",979.00709211,2024-01-10,2024-01-25,1,5.2,3764,1,7.1,1,1,1,1,2,2024-01-10 to 2024-01-25,4,0
+City Apartments Antwerpen,"Antwerp Center, Antwerp",847.4707554900001,2024-01-10,2024-01-25,0,1.4,513,0,5.8,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+Aparthotel Adagio Antwerp City Center,"Antwerp Center, Antwerp",1263.58496409,2024-01-10,2024-01-25,0,2.2,483,2,8.5,2,1,0,2,2,2024-01-10 to 2024-01-25,4,0
+Condo Gardens Antwerp,"Antwerp Center, Antwerp",810.3165392100001,2024-01-10,2024-01-25,0,1.5,596,0,5.2,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+YUST Antwerp,"Berchem, Antwerp",1351.26501039,2024-01-10,2024-01-25,0,2.7,3819,5,8.8,1,2,0,2,2,2024-01-10 to 2024-01-25,5,0
+Nammos Home's,"Antwerp Center, Antwerp",989.5644854400001,2024-01-10,2024-01-25,0,1.8,5,0,4.2,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+Arass Hôtel & Business Flats,"Antwerp Center, Antwerp",1327.18959879,2024-01-10,2024-01-25,3,2.3,1058,1,7.5,2,1,1,2,0,2024-01-10 to 2024-01-25,4,0
+Luxury Suites Castel,"Antwerp Center, Antwerp",841.7935131600001,2024-01-10,2024-01-25,0,1.3,150,1,7.3,1,2,0,1,2,2024-01-10 to 2024-01-25,4,0
+PREMIER SUITES PLUS Antwerp,"Antwerp Center, Antwerp",1185.30734205,2024-01-10,2024-01-25,4,1.3,3027,2,8.0,1,1,0,2,0,2024-01-10 to 2024-01-25,4,0
+ibis budget Antwerpen Centraal Station,"Antwerp Center, Antwerp",993.0781941600001,2024-01-10,2024-01-25,2,1.9,6183,1,7.3,1,1,1,1,0,2024-01-10 to 2024-01-25,4,0
+ibis Antwerpen Centrum,"Antwerp Center, Antwerp",1236.0609124500002,2024-01-10,2024-01-25,3,1.1,3439,1,7.6,1,1,1,2,0,2024-01-10 to 2024-01-25,4,0
+"Crowne Plaza Antwerpen, an IHG Hotel","Antwerp Center, Antwerp",1747.15912668,2024-01-10,2024-01-25,4,3.5,4204,1,7.8,1,4,1,0,0,2024-01-10 to 2024-01-25,4,0
+prizeotel Antwerp-City,"Antwerp Center, Antwerp",1175.22169665,2024-01-10,2024-01-25,2,1.2,9265,2,8.3,1,2,0,2,0,2024-01-10 to 2024-01-25,4,0
+Isabel Apartments,"Antwerp Center, Antwerp",1094.48773194,2024-01-10,2024-01-25,0,2.5,452,1,7.4,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Beaux ARTS,"Antwerp Center, Antwerp",750.0792087000001,2024-01-10,2024-01-25,0,1.5,1283,1,7.4,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+"Holiday Inn Express Antwerp - City Centre, an IHG Hotel","Antwerp Center, Antwerp",1656.7949973300001,2024-01-10,2024-01-25,0,1.1,1177,2,8.5,1,2,1,0,2,2024-01-10 to 2024-01-25,4,0
+Ambassador Suites Antwerp,"Antwerp Center, Antwerp",963.95995986,2024-01-10,2024-01-25,0,2.1,817,0,6.4,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+Century Hotel Antwerpen Centrum,"Antwerp Center, Antwerp",922.7877525900001,2024-01-10,2024-01-25,2,1.5,2608,0,6.8,1,1,0,1,2,2024-01-10 to 2024-01-25,4,0
+Sān home’s,"Antwerp Center, Antwerp",1007.6373113100001,2024-01-10,2024-01-25,0,0.8,24,1,7.1,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+High-end flats at South area,"Antwerp Center, Antwerp",972.38635392,2024-01-10,2024-01-25,0,1.1,17,2,8.1,1,1,0,1,2,2024-01-10 to 2024-01-25,4,0
+Japie rooms - in the heart of Antwerp,"Antwerp Center, Antwerp",1056.52015716,2024-01-10,2024-01-25,0,300.0,106,2,8.5,1,0,0,2,1,2024-01-10 to 2024-01-25,4,0
+Luxury Suites Centrum,"Antwerp Center, Antwerp",966.3349666800001,2024-01-10,2024-01-25,0,0.7,111,2,8.2,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+Radisson Hotel Antwerp Berchem,"Berchem, Antwerp",1612.61336361,2024-01-10,2024-01-25,4,3.4,3857,5,8.7,1,1,0,0,0,2024-01-10 to 2024-01-25,5,0
+Renovated Apartment in Antwerp city center,"Antwerp Center, Antwerp",1472.29275519,2024-01-10,2024-01-25,0,1.6,653,1,7.9,2,1,0,2,2,2024-01-10 to 2024-01-25,4,0
+Leonardo Hotel Antwerp The Plaza,"Antwerp Center, Antwerp",1766.7447993600001,2024-01-10,2024-01-25,4,2.0,2168,2,8.2,1,1,1,0,0,2024-01-10 to 2024-01-25,4,0
+Cadix 35,"Antwerp Center, Antwerp",1468.01448948,2024-01-10,2024-01-25,0,1.6,50,4,9.5,1,1,0,2,2,2024-01-10 to 2024-01-25,4,0
+The Fashion Street Apartments,"Antwerp Center, Antwerp",1432.47072303,2024-01-10,2024-01-25,0,400.0,69,0,6.8,1,2,0,2,1,2024-01-10 to 2024-01-25,4,0
+PREMIER SUITES PLUS Antwerp,"Antwerp Center, Antwerp",1185.30734205,2024-01-10,2024-01-25,4,1.3,3027,2,8.0,1,1,0,2,0,2024-01-10 to 2024-01-25,4,0
+YUST Antwerp,"Berchem, Antwerp",1351.26501039,2024-01-10,2024-01-25,0,2.7,3819,5,8.8,1,2,0,2,2,2024-01-10 to 2024-01-25,5,0
+Mercure Antwerp City Centre,"Antwerp Center, Antwerp",1842.54981156,2024-01-10,2024-01-25,4,1.5,1929,2,8.0,1,1,1,0,0,2024-01-10 to 2024-01-25,4,0
+The Fashion Street Residence,"Antwerp Center, Antwerp",1432.47072303,2024-01-10,2024-01-25,0,400.0,71,0,6.9,1,2,0,2,1,2024-01-10 to 2024-01-25,4,0
+Antwerp Center Cozy Cityflats,"Antwerp Center, Antwerp",1391.80279803,2024-01-10,2024-01-25,0,0.8,16,0,5.9,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+"Sapphire House Antwerp, Autograph Collection","Antwerp Center, Antwerp",2462.1012481800003,2024-01-10,2024-01-25,5,500.0,1488,5,8.6,1,2,1,0,1,2024-01-10 to 2024-01-25,4,0
+Arass Hôtel & Business Flats,"Antwerp Center, Antwerp",1327.18959879,2024-01-10,2024-01-25,3,2.3,1058,1,7.5,2,1,1,2,0,2024-01-10 to 2024-01-25,4,0
+Hotel Urban Dreams,"Antwerp Center, Antwerp",1328.44217088,2024-01-10,2024-01-25,0,300.0,608,2,8.3,1,1,0,2,1,2024-01-10 to 2024-01-25,4,0
+Hotel Banks,"Antwerp Center, Antwerp",1998.19409412,2024-01-10,2024-01-25,4,350.0,1851,1,7.5,1,1,0,0,1,2024-01-10 to 2024-01-25,4,0
+Kyoto Suites - Center Antwerp!,"Antwerp Center, Antwerp",1521.6148146300002,2024-01-10,2024-01-25,0,1.2,17,1,7.1,1,3,0,0,2,2024-01-10 to 2024-01-25,4,0
+Hotel Rubens-Grote Markt,"Antwerp Center, Antwerp",2456.27760132,2024-01-10,2024-01-25,4,150.0,3576,5,8.8,1,1,1,0,0,2024-01-10 to 2024-01-25,4,0
+ibis budget Antwerpen Port,"Antwerp Center, Antwerp",979.00709211,2024-01-10,2024-01-25,1,5.2,3764,1,7.1,1,1,1,1,2,2024-01-10 to 2024-01-25,4,0
+Le Leopold,"Antwerp Center, Antwerp",1964.92773147,2024-01-10,2024-01-25,0,1.7,28,5,8.8,2,1,0,0,2,2024-01-10 to 2024-01-25,4,0
+Century Hotel Antwerpen Centrum,"Antwerp Center, Antwerp",922.7877525900001,2024-01-10,2024-01-25,2,1.5,2608,0,6.8,1,1,0,1,2,2024-01-10 to 2024-01-25,4,0
+Hotel Opera Antwerpen Centrum,"Antwerp Center, Antwerp",1049.29753368,2024-01-10,2024-01-25,4,1.1,1413,1,7.0,1,1,1,2,0,2024-01-10 to 2024-01-25,4,0
+Le Marnix,"Antwerp Center, Antwerp",2271.64522182,2024-01-10,2024-01-25,0,1.7,37,5,8.9,1,1,0,0,2,2024-01-10 to 2024-01-25,4,0
+Hotel1875,"Antwerp Center, Antwerp",1830.0078234900002,2024-01-10,2024-01-25,0,400.0,1037,1,7.6,1,1,0,0,1,2024-01-10 to 2024-01-25,4,0
+Huidreal Meir,"Antwerp Center, Antwerp",2440.01043132,2024-01-10,2024-01-25,0,0.5,21,0,6.9,1,0,0,0,2,2024-01-10 to 2024-01-25,4,0
+Oever House,"Antwerp Center, Antwerp",3064.91376687,2024-01-10,2024-01-25,0,400.0,83,3,9.2,1,0,0,0,1,2024-01-10 to 2024-01-25,4,0
+B&B Luxe Suites 1-2-3,"Antwerp Center, Antwerp",2417.4153321900003,2024-01-10,2024-01-25,0,1.7,173,5,8.7,1,0,0,0,2,2024-01-10 to 2024-01-25,4,0
+Tempor'area Apartment,"Antwerp Center, Antwerp",2779.16465865,2024-01-10,2024-01-25,0,0.8,82,4,9.5,1,1,0,0,2,2024-01-10 to 2024-01-25,4,0
+Leonardo Hotel Antwerpen,"Antwerp Center, Antwerp",1638.4130952300002,2024-01-10,2024-01-25,4,1.5,3883,1,7.9,1,2,1,0,0,2024-01-10 to 2024-01-25,4,0
+Luxury Rooms,"Antwerp Center, Antwerp",795.0416665800001,2024-01-10,2024-01-25,0,100.0,207,1,7.3,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+Leonardo Hotel Antwerp The Plaza,"Antwerp Center, Antwerp",1766.7447993600001,2024-01-10,2024-01-25,4,2.0,2168,2,8.2,1,1,1,0,0,2024-01-10 to 2024-01-25,4,0
+Kyoto Suites - Center Antwerp!,"Antwerp Center, Antwerp",1521.6148146300002,2024-01-10,2024-01-25,0,1.2,17,1,7.1,1,3,0,0,2,2024-01-10 to 2024-01-25,4,0
+Arass Hôtel & Business Flats,"Antwerp Center, Antwerp",1327.18959879,2024-01-10,2024-01-25,3,2.3,1058,1,7.5,2,1,1,2,0,2024-01-10 to 2024-01-25,4,0
+Suikerrui 16 App 103,"Antwerp Center, Antwerp",1002.02513766,2024-01-10,2024-01-25,0,100.0,58,1,7.7,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Luxury Suites Riverside Residence,"Antwerp Center, Antwerp",841.7935131600001,2024-01-10,2024-01-25,0,200.0,853,1,7.8,1,2,0,1,1,2024-01-10 to 2024-01-25,4,0
+Mercure Antwerp City Centre,"Antwerp Center, Antwerp",1842.54981156,2024-01-10,2024-01-25,4,1.5,1929,2,8.0,1,1,1,0,0,2024-01-10 to 2024-01-25,4,0
+BOHO studio Center of Antwerp,"Borgerhout, Antwerp",975.99766566,2024-01-10,2024-01-25,0,2.3,3,3,9.0,1,0,0,1,2,2024-01-10 to 2024-01-25,7,0
+Apartments Plantin 3 sleeping rooms 2 bathrooms.,"Antwerp Center, Antwerp",1165.7867380500002,2024-01-10,2024-01-25,0,2.1,88,0,6.4,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Luxury Suites Castel,"Antwerp Center, Antwerp",841.7935131600001,2024-01-10,2024-01-25,0,1.3,150,1,7.3,1,2,0,1,2,2024-01-10 to 2024-01-25,4,0
+Studio Anvers,"Antwerp Center, Antwerp",1086.25654392,2024-01-10,2024-01-25,0,1.8,192,5,8.6,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+OneLuxStay near Diamond District,"Antwerp Center, Antwerp",1248.47276316,2024-01-10,2024-01-25,0,1.7,88,5,8.9,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Room in Guest room - Lockable room center,"Borgerhout, Antwerp",784.3378687200001,2024-01-10,2024-01-25,0,2.8,1,0,1.0,1,0,0,1,2,2024-01-10 to 2024-01-25,7,0
+Hotel Antwerp Billard Palace,"Antwerp Center, Antwerp",1107.04598718,2024-01-10,2024-01-25,1,1.5,918,0,4.5,1,1,0,2,2,2024-01-10 to 2024-01-25,4,0
+OneLuxStay near Fashion District,"Antwerp Center, Antwerp",1200.12673392,2024-01-10,2024-01-25,0,1.7,31,3,9.0,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Renovated Apartment in Antwerp city center,"Antwerp Center, Antwerp",1472.29275519,2024-01-10,2024-01-25,0,1.6,653,1,7.9,2,1,0,2,2,2024-01-10 to 2024-01-25,4,0
+Hotel Urban Dreams,"Antwerp Center, Antwerp",1328.44217088,2024-01-10,2024-01-25,0,300.0,608,2,8.3,1,1,0,2,1,2024-01-10 to 2024-01-25,4,0
+Huidreal Meir,"Antwerp Center, Antwerp",2440.01043132,2024-01-10,2024-01-25,0,0.5,21,0,6.9,1,0,0,0,2,2024-01-10 to 2024-01-25,4,0
+Hyllit Hotel,"Antwerp Center, Antwerp",1929.4164993600002,2024-01-10,2024-01-25,4,1.3,1243,1,7.9,1,1,0,0,0,2024-01-10 to 2024-01-25,4,0
+Antwerp Center Cozy Cityflats,"Antwerp Center, Antwerp",1391.80279803,2024-01-10,2024-01-25,0,0.8,16,0,5.9,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+Le Leopold,"Antwerp Center, Antwerp",1964.92773147,2024-01-10,2024-01-25,0,1.7,28,5,8.8,2,1,0,0,2,2024-01-10 to 2024-01-25,4,0
+Antwerp Harbour Hotel,"Antwerp Center, Antwerp",1409.77802088,2024-01-10,2024-01-25,3,3.0,2513,1,7.6,1,2,0,2,0,2024-01-10 to 2024-01-25,4,0
+"Hotel Indigo Antwerp City Centre, an IHG Hotel","Antwerp Center, Antwerp",1706.99548395,2024-01-10,2024-01-25,4,1.5,2809,2,8.4,1,2,1,0,0,2024-01-10 to 2024-01-25,4,0
+The Fashion Street Residence,"Antwerp Center, Antwerp",1432.47072303,2024-01-10,2024-01-25,0,400.0,71,0,6.9,1,2,0,2,1,2024-01-10 to 2024-01-25,4,0
+Apartment in Antwerp with view on the Scheldt,"Antwerp Center, Antwerp",1171.59411774,2024-01-10,2024-01-25,0,1.9,5,5,8.8,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+"Crowne Plaza Antwerpen, an IHG Hotel","Antwerp Center, Antwerp",1747.15912668,2024-01-10,2024-01-25,4,3.5,4204,1,7.8,1,4,1,0,0,2024-01-10 to 2024-01-25,4,0
+Leonardo Hotel Antwerp The Plaza,"Antwerp Center, Antwerp",1805.99748057,2024-01-10,2024-01-25,4,2.0,2168,2,8.2,1,1,1,0,0,2024-01-10 to 2024-01-25,4,0
+Large Antwerp City Center Apartments,"Antwerp Center, Antwerp",1492.0085652300002,2024-01-10,2024-01-25,0,1.5,8,0,6.5,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+City Apartments Antwerpen,"Antwerp Center, Antwerp",847.4707554900001,2024-01-10,2024-01-25,0,1.4,513,0,5.8,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+Roosevelt Apartments.,"Antwerp Center, Antwerp",1090.0630617000002,2024-01-10,2024-01-25,0,1.4,238,0,6.8,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+R73 Apartments by Domani Hotels,"Antwerp Center, Antwerp",1253.20650963,2024-01-10,2024-01-25,0,0.8,26,1,7.3,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+Mercure Antwerp City South,"Antwerp Center, Antwerp",1810.4221508100002,2024-01-10,2024-01-25,4,3.0,1833,1,7.8,1,2,1,0,0,2024-01-10 to 2024-01-25,4,0
+Apartments in the Heart of Antwerp,"Antwerp Center, Antwerp",1464.28930755,2024-01-10,2024-01-25,0,1.7,20,1,7.7,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+Luxury Suites Centrum,"Antwerp Center, Antwerp",987.8076310800001,2024-01-10,2024-01-25,0,0.7,111,2,8.2,1,0,0,1,2,2024-01-10 to 2024-01-25,4,0
+Two-Bedroom Apartments in the Heart of Antwerp,"Antwerp Center, Antwerp",1464.28930755,2024-01-10,2024-01-25,0,1.7,23,1,7.7,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+Apartments Plantin 3 sleeping rooms 2 bathrooms.,"Antwerp Center, Antwerp",1191.68407269,2024-01-10,2024-01-25,0,2.1,88,0,6.4,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Leonardo Hotel Antwerpen,"Antwerp Center, Antwerp",1674.83528886,2024-01-10,2024-01-25,4,1.5,3883,1,7.9,1,2,1,0,0,2024-01-10 to 2024-01-25,4,0
+City Centre Loft Residence,"Antwerp Center, Antwerp",1464.28930755,2024-01-10,2024-01-25,0,300.0,129,1,7.9,1,2,0,2,1,2024-01-10 to 2024-01-25,4,0
+Van der Valk Hotel Antwerpen,"Borgerhout, Antwerp",1896.78455634,2024-01-10,2024-01-25,4,3.5,2906,5,8.6,1,2,1,0,0,2024-01-10 to 2024-01-25,7,0
+YUST Antwerp,"Berchem, Antwerp",1381.31047338,2024-01-10,2024-01-25,0,2.7,3819,5,8.8,1,2,0,2,2,2024-01-10 to 2024-01-25,5,0
+Antwerp City Center Two-Bedroom Apartments,"Antwerp Center, Antwerp",1464.28930755,2024-01-10,2024-01-25,0,1.7,5,0,6.8,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+Privé kamer met chill room en gedeelde badkamer - rand Antwerpen - afrit E313 Wommelgem - vlakbij tramhalte lijn 9 en 24,Antwerp,1122.40219566,2024-01-10,2024-01-25,0,6.1,8,3,9.1,1,0,0,2,2,2024-01-10 to 2024-01-25,3,0
+Renovated Apartment in Antwerp city center,"Antwerp Center, Antwerp",1472.29275519,2024-01-10,2024-01-25,0,1.6,653,1,7.9,2,1,0,2,2,2024-01-10 to 2024-01-25,4,0
+Room in Guest room - Double room near Central Station,"Borgerhout, Antwerp",806.28228105,2024-01-10,2024-01-25,0,2.8,2,0,2.0,1,0,0,1,2,2024-01-10 to 2024-01-25,7,0
+Cadix 35,"Antwerp Center, Antwerp",1468.01448948,2024-01-10,2024-01-25,0,1.6,50,4,9.5,1,1,0,2,2,2024-01-10 to 2024-01-25,4,0
+De Keyser Hotel,"Antwerp Center, Antwerp",1774.60184247,2024-01-10,2024-01-25,4,1.5,3443,0,6.9,1,1,1,0,0,2024-01-10 to 2024-01-25,4,0
+The Fashion Street Apartments,"Antwerp Center, Antwerp",1464.28930755,2024-01-10,2024-01-25,0,400.0,69,0,6.8,1,2,0,2,1,2024-01-10 to 2024-01-25,4,0
+Den Gulden Hoorn V1,"Antwerp Center, Antwerp",1350.5817892500002,2024-01-10,2024-01-25,0,0.5,6,1,7.8,1,0,1,2,2,2024-01-10 to 2024-01-25,4,0
+R73 Apartments by Domani Hotels,"Antwerp Center, Antwerp",1225.95899988,2024-01-10,2024-01-25,0,0.8,26,1,7.3,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+Casa di Cynthia,"Borgerhout, Antwerp",1197.88186446,2024-01-10,2024-01-25,0,3.9,64,0,6.8,2,2,0,2,2,2024-01-10 to 2024-01-25,7,0
+Pink Fairytale-like apartment,"Antwerp Center, Antwerp",1145.17623366,2024-01-10,2024-01-25,0,1.0,35,3,,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Opera Square Apartments in the Heart of Antwerp,"Antwerp Center, Antwerp",1432.47072303,2024-01-10,2024-01-25,0,1.1,122,2,8.1,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+Japie rooms - in the heart of Antwerp,"Antwerp Center, Antwerp",1056.52015716,2024-01-10,2024-01-25,0,300.0,106,2,8.5,1,0,0,2,1,2024-01-10 to 2024-01-25,4,0
+Roosevelt Apartments.,"Antwerp Center, Antwerp",1066.3780621800001,2024-01-10,2024-01-25,0,1.4,238,0,6.8,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Room in Guest room - Double room near Central Station,"Borgerhout, Antwerp",788.74627179,2024-01-10,2024-01-25,0,2.8,2,0,2.0,1,0,0,1,2,2024-01-10 to 2024-01-25,7,0
+Hotel Rubenshof,"Antwerp Center, Antwerp",881.8432857,2024-01-10,2024-01-25,0,1.7,1419,2,8.1,1,1,0,1,2,2024-01-10 to 2024-01-25,4,0
+Amory Hotel by Hyllit,"Antwerp Center, Antwerp",1319.41389153,2024-01-10,2024-01-25,3,1.2,1062,2,8.3,1,0,1,2,0,2024-01-10 to 2024-01-25,4,0
+J1 - Urban studio in Antwerp,Antwerp,1073.1940064100002,2024-01-10,2024-01-25,0,2.5,0,0,,1,0,0,2,2,2024-01-10 to 2024-01-25,3,0
+Isabel Apartments,"Antwerp Center, Antwerp",1094.48773194,2024-01-10,2024-01-25,0,2.5,452,1,7.4,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Stylish apartment with terrace and balcony,"Antwerp Center, Antwerp",1499.8330740000001,2024-01-10,2024-01-25,0,0.7,14,2,8.4,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Apartments Suites in Antwerp,"Antwerp Center, Antwerp",1332.24868866,2024-01-10,2024-01-25,0,2.4,319,5,8.8,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Green Oasis in the city,"Antwerp Center, Antwerp",1409.77802088,2024-01-10,2024-01-25,0,1.0,30,5,,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+B&B Expo House,"Antwerp Center, Antwerp",1382.67691566,2024-01-10,2024-01-25,0,3.5,254,3,9.2,1,2,1,2,2,2024-01-10 to 2024-01-25,4,0
+Apartments Plantin 3 sleeping rooms 2 bathrooms.,"Antwerp Center, Antwerp",1165.7867380500002,2024-01-10,2024-01-25,0,2.1,88,0,6.4,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+your home !,"Antwerp Center, Antwerp",1176.49053591,2024-01-10,2024-01-25,0,1.4,63,5,8.9,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+HotelO Kathedral,"Antwerp Center, Antwerp",2159.85722958,2024-01-10,2024-01-25,3,50.0,1594,2,8.1,1,1,0,0,0,2024-01-10 to 2024-01-25,4,0
+The 16th Century Duplex in The City Center,"Antwerp Center, Antwerp",1225.21071006,2024-01-10,2024-01-25,0,200.0,16,1,7.3,1,0,0,2,1,2024-01-10 to 2024-01-25,4,0
+Charming studio in the center of Antwerp,"Antwerp Center, Antwerp",1110.0716808,2024-01-10,2024-01-25,0,0.7,2,0,6.0,1,0,0,2,2,2024-01-10 to 2024-01-25,4,0
+Panoramic Antwerpen Centrum,"Antwerp Center, Antwerp",1748.67197349,2024-01-10,2024-01-25,0,1.6,9,0,4.4,1,1,0,0,2,2024-01-10 to 2024-01-25,4,0
+Apartments in the Heart of Antwerp,"Antwerp Center, Antwerp",1432.47072303,2024-01-10,2024-01-25,0,1.7,20,1,7.7,1,2,0,2,2,2024-01-10 to 2024-01-25,4,0
+Saint Pauls Apartments,"Antwerp Center, Antwerp",1432.47072303,2024-01-10,2024-01-25,0,400.0,155,0,6.7,1,2,0,2,1,2024-01-10 to 2024-01-25,4,0
+Appartement met uitzicht op het MAS,"Antwerp Center, Antwerp",2864.17688907,2024-01-10,2024-01-25,4,1.2,19,3,9.1,2,1,0,0,0,2024-01-10 to 2024-01-25,4,0
+YOTEL Amsterdam,"Amsterdam Noord, Amsterdam",1412.78744733,2024-01-25,2024-02-09,4,2.2,7929,2,8.0,0,3,0,2,0,2024-01-25 to 2024-02-09,2,1
+Sonder Park House,"Oud Zuid, Amsterdam",1992.5331189600001,2024-01-25,2024-02-09,4,1.7,3152,1,7.5,0,0,1,0,0,2024-01-25 to 2024-02-09,22,1
+Via Amsterdam,"Bijlmermeer, Amsterdam",1193.79880479,2024-01-25,2024-02-09,3,6.6,15356,2,8.1,0,2,0,2,0,2024-01-25 to 2024-02-09,6,1
+Joy Hotel,"Zuidoost, Amsterdam",1226.9675644200001,2024-01-25,2024-02-09,3,8.5,7304,1,7.4,0,2,0,2,0,2024-01-25 to 2024-02-09,32,1
+Bob W Amsterdam Noord,"Amsterdam Noord, Amsterdam",1623.3496958100002,2024-01-25,2024-02-09,0,2.8,320,5,8.8,0,0,0,0,2,2024-01-25 to 2024-02-09,2,1
+Zoku Amsterdam,"Amsterdam City Center, Amsterdam",2567.43117393,2024-01-25,2024-02-09,4,1.4,2328,5,8.9,0,4,1,0,0,2024-01-25 to 2024-02-09,1,1
+Boutique Apartments Amsterdam,"Westpoort, Amsterdam",1649.26329762,2024-01-25,2024-02-09,4,4.2,1712,5,8.9,0,0,0,0,0,2024-01-25 to 2024-02-09,28,1
+Wittenberg by Cove,"Amsterdam City Center, Amsterdam",3052.25790861,2024-01-25,2024-02-09,4,1.4,371,3,9.0,0,1,0,0,0,2024-01-25 to 2024-02-09,1,1
+New West Inn Amsterdam,"Osdorp, Amsterdam",882.96572043,2024-01-25,2024-02-09,3,6.8,8188,1,7.2,0,1,0,1,0,2024-01-25 to 2024-02-09,20,1
+Belfort Hotel,"Oud Zuid, Amsterdam",1000.04054292,2024-01-25,2024-02-09,3,3.3,3135,0,6.3,0,0,0,2,0,2024-01-25 to 2024-02-09,22,1
+Bens The Walton,"Slotervaart, Amsterdam",1740.6197243400002,2024-01-25,2024-02-09,0,3.7,87,1,7.7,0,0,1,0,2,2024-01-25 to 2024-02-09,24,1
+Moxy Amsterdam Houthavens,"Westpoort, Amsterdam",1658.79585924,2024-01-25,2024-02-09,4,3.4,2112,2,8.0,1,3,1,0,0,2024-01-25 to 2024-02-09,28,1
+The Alfred Hotel,"Oud Zuid, Amsterdam",1523.8759512600002,2024-01-25,2024-02-09,3,2.6,4929,1,7.2,0,1,0,0,0,2024-01-25 to 2024-02-09,22,1
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam",1810.4221508100002,2024-01-25,2024-02-09,4,3.9,17661,1,7.9,1,4,0,0,0,2024-01-25 to 2024-02-09,28,1
+Mercure Amsterdam North Station,"Amsterdam Noord, Amsterdam",1628.68532757,2024-01-25,2024-02-09,4,4.2,3538,5,8.9,1,2,0,0,0,2024-01-25 to 2024-02-09,2,1
+Hotel Espresso,"Oud West, Amsterdam",1642.0406741400002,2024-01-25,2024-02-09,3,1.6,1714,1,7.4,0,1,0,0,0,2024-01-25 to 2024-02-09,21,1
+Quentin Golden Bear Hotel,"Amsterdam City Center, Amsterdam",1487.1446814,2024-01-25,2024-02-09,2,1.0,652,0,5.7,0,3,1,2,2,2024-01-25 to 2024-02-09,1,1
+Hyatt Regency Amsterdam,"Amsterdam City Center, Amsterdam",3104.23151676,2024-01-25,2024-02-09,5,1.8,2507,2,8.4,1,4,0,0,0,2024-01-25 to 2024-02-09,1,1
+Four Elements Hotel,"IJburg, Amsterdam",1549.39914099,2024-01-25,2024-02-09,4,7.9,5380,2,8.2,0,3,1,0,0,2024-01-25 to 2024-02-09,14,1
+Hotel Jansen Amsterdam Bajeskwartier,"Oost, Amsterdam",1657.39688262,2024-01-25,2024-02-09,0,4.2,1119,2,8.3,0,3,0,0,2,2024-01-25 to 2024-02-09,19,1
+Via Suites,"Bijlmermeer, Amsterdam",1468.51877175,2024-01-25,2024-02-09,4,6.6,2092,2,8.2,0,2,0,2,0,2024-01-25 to 2024-02-09,6,1
+"The Hoxton, Lloyd Amsterdam","Zeeburg, Amsterdam",2270.11610784,2024-01-25,2024-02-09,4,2.8,223,5,8.7,0,0,1,0,0,2024-01-25 to 2024-02-09,30,1
+Acostar Hotel,"Amsterdam City Center, Amsterdam",1435.0897374,2024-01-25,2024-02-09,2,1.0,1380,0,6.9,0,2,1,2,2,2024-01-25 to 2024-02-09,1,1
+Amsterdam ID Aparthotel,"Westpoort, Amsterdam",1831.11399105,2024-01-25,2024-02-09,3,4.3,1522,5,8.7,0,4,0,0,0,2024-01-25 to 2024-02-09,28,1
+Hotel Continental Amsterdam,"Amsterdam City Center, Amsterdam",1137.75840414,2024-01-25,2024-02-09,1,400.0,2105,0,5.5,1,0,0,2,1,2024-01-25 to 2024-02-09,1,1
+ITC Hotel,"Amsterdam City Center, Amsterdam",1711.0134749400002,2024-01-25,2024-02-09,2,1.2,1460,0,6.3,1,1,1,0,2,2024-01-25 to 2024-02-09,1,1
+OZO Hotels Arena Amsterdam,"Zuidoost, Amsterdam",1314.89161827,2024-01-25,2024-02-09,4,8.4,7567,1,7.4,1,2,0,2,0,2024-01-25 to 2024-02-09,32,1
+The Diem Amsterdam,Amsterdam,1456.96908105,2024-01-25,2024-02-09,0,5.6,133,1,7.5,1,1,1,2,2,2024-01-25 to 2024-02-09,0,1
+Zoku Amsterdam,"Amsterdam City Center, Amsterdam",2567.43117393,2024-01-25,2024-02-09,4,1.4,2328,5,8.9,1,4,1,0,0,2024-01-25 to 2024-02-09,1,1
+Hotel Sharm,"Amsterdam City Center, Amsterdam",2043.38429238,2024-01-25,2024-02-09,2,450.0,575,1,7.0,1,0,1,0,1,2024-01-25 to 2024-02-09,1,1
+The Social Hub Amsterdam West 4 star,"Slotervaart, Amsterdam",1955.6229102300001,2024-01-25,2024-02-09,4,3.8,2215,2,8.4,1,2,1,0,0,2024-01-25 to 2024-02-09,24,1
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam",1810.4221508100002,2024-01-25,2024-02-09,4,3.9,17661,1,7.9,1,4,0,0,0,2024-01-25 to 2024-02-09,28,1
+MEININGER Hotel Amsterdam City West,"Westpoort, Amsterdam",1404.76773252,2024-01-25,2024-02-09,0,4.3,5394,2,8.1,1,1,0,2,2,2024-01-25 to 2024-02-09,28,1
+"Holiday Inn Express Amsterdam - Sloterdijk Station, an IHG Hotel","Westpoort, Amsterdam",1590.9292260000002,2024-01-25,2024-02-09,3,4.1,7435,1,7.9,2,2,0,0,0,2024-01-25 to 2024-02-09,28,1
+Conscious Hotel Vondelpark,"Oud West, Amsterdam",1561.4043124500001,2024-01-25,2024-02-09,3,3.0,503,2,8.2,1,4,0,0,0,2024-01-25 to 2024-02-09,21,1
+YAYS Amsterdam Docklands,"Zeeburg, Amsterdam",1902.29912697,2024-01-25,2024-02-09,4,3.7,825,3,9.0,1,2,1,0,0,2024-01-25 to 2024-02-09,30,1
+Hetem's Room,"Amsterdam Noord, Amsterdam",1430.8602732000002,2024-01-25,2024-02-09,0,4.4,42,3,9.1,1,1,1,2,2,2024-01-25 to 2024-02-09,2,1
+The Townhouse Hotel,"Amsterdam City Center, Amsterdam",1711.0134749400002,2024-01-25,2024-02-09,2,1.3,275,0,6.0,1,1,1,0,2,2024-01-25 to 2024-02-09,1,1
+"The Hoxton, Lloyd Amsterdam","Zeeburg, Amsterdam",2270.11610784,2024-01-25,2024-02-09,4,2.8,223,5,8.7,1,0,1,0,0,2024-01-25 to 2024-02-09,30,1
+Hotel Verdi,"Oud Zuid, Amsterdam",1905.12961455,2024-01-25,2024-02-09,2,2.1,749,5,8.7,1,0,1,0,2,2024-01-25 to 2024-02-09,22,1
+Bens The Highdocks,"Amsterdam Noord, Amsterdam",1934.0689099800002,2024-01-25,2024-02-09,0,2.7,390,1,7.5,2,0,1,0,2,2024-01-25 to 2024-02-09,2,1
+ibis Amsterdam Centre Stopera,"Amsterdam City Center, Amsterdam",2102.92213458,2024-01-25,2024-02-09,3,1.0,3647,1,7.8,1,0,0,0,0,2024-01-25 to 2024-02-09,1,1
+Prinsenhotel,"Oud West, Amsterdam",1849.36575579,2024-01-25,2024-02-09,3,1.6,2198,1,7.8,1,0,1,0,0,2024-01-25 to 2024-02-09,21,1
+Princess Hostel Leidse Square Amsterdam,"Oud West, Amsterdam",942.47102829,2024-01-25,2024-02-09,0,1.6,1641,0,4.7,1,1,0,1,2,2024-01-25 to 2024-02-09,21,1
+Hostel The Veteran,"Amsterdam City Center, Amsterdam",1922.87709702,2024-01-25,2024-02-09,0,0.9,565,0,6.7,1,0,1,0,2,2024-01-25 to 2024-02-09,1,1
+Tribe Amsterdam City,"Amsterdam Noord, Amsterdam",1633.69561593,2024-01-25,2024-02-09,4,4.2,5489,3,9.0,1,3,0,0,0,2024-01-25 to 2024-02-09,2,1
+Melrose Hotel,"Amsterdam City Center, Amsterdam",2099.8151051100003,2024-01-25,2024-02-09,3,1.0,2160,1,7.7,2,3,1,0,0,2024-01-25 to 2024-02-09,1,1
+Best Western Dam Square Inn,"Amsterdam City Center, Amsterdam",2821.5731708400003,2024-01-25,2024-02-09,3,150.0,2111,2,8.1,1,0,1,0,0,2024-01-25 to 2024-02-09,1,1
+Campanile Hotel & Restaurant Amsterdam Zuid-Oost,"Zuidoost, Amsterdam",1075.9106238000002,2024-01-25,2024-02-09,3,9.3,2626,1,7.5,1,1,0,2,0,2024-01-25 to 2024-02-09,32,1
+Best Western Amsterdam,"Slotervaart, Amsterdam",1391.7051950100001,2024-01-25,2024-02-09,3,4.3,8377,1,7.7,1,1,0,2,0,2024-01-25 to 2024-02-09,24,1
+citizenM Amsterdam South,"Zuideramstel, Amsterdam",2837.62886763,2024-01-25,2024-02-09,4,3.6,3730,5,8.6,1,3,0,0,0,2024-01-25 to 2024-02-09,31,1
+Tribe Amsterdam City,"Amsterdam Noord, Amsterdam",1633.69561593,2024-01-25,2024-02-09,4,4.2,5489,3,9.0,1,3,0,0,0,2024-01-25 to 2024-02-09,2,1
+Quentin Golden Bear Hotel,"Amsterdam City Center, Amsterdam",1487.1446814,2024-01-25,2024-02-09,2,1.0,652,0,5.7,1,3,1,2,2,2024-01-25 to 2024-02-09,1,1
+Quentin Zoo hotel,"Amsterdam City Center, Amsterdam",2451.1697099400003,2024-01-25,2024-02-09,4,1.4,1491,1,7.8,1,2,1,0,0,2024-01-25 to 2024-02-09,1,1
+Budget Hostel Sphinx,"Amsterdam City Center, Amsterdam",1283.26823979,2024-01-25,2024-02-09,0,1.5,1381,0,6.5,1,0,1,2,2,2024-01-25 to 2024-02-09,1,1
+The July - Boat & Co,"Westerpark, Amsterdam",2629.1650840800003,2024-01-25,2024-02-09,4,2.5,1927,3,9.1,1,4,0,0,0,2024-01-25 to 2024-02-09,27,1
+Acostar Hotel,"Amsterdam City Center, Amsterdam",1435.0897374,2024-01-25,2024-02-09,2,1.0,1380,0,6.9,2,2,1,2,2,2024-01-25 to 2024-02-09,1,1
+Bon Bed & Breakfast,"Amsterdam Noord, Amsterdam",2057.73193632,2024-01-25,2024-02-09,0,4.7,98,5,8.9,1,2,1,0,2,2024-01-25 to 2024-02-09,2,1
+"Max Brown Hotel Museum Square, part of Sircle Collection","Oud Zuid, Amsterdam",1724.07601245,2024-01-25,2024-02-09,3,1.6,1010,1,7.8,1,0,0,0,0,2024-01-25 to 2024-02-09,22,1
+Eden Hotel Amsterdam,"Amsterdam City Center, Amsterdam",2712.9247424100004,2024-01-25,2024-02-09,4,0.8,8483,2,8.2,1,2,0,0,0,2024-01-25 to 2024-02-09,1,1
+Grand Hotel Amrâth Amsterdam,"Amsterdam City Center, Amsterdam",3052.5181833300003,2024-01-25,2024-02-09,5,0.8,2607,1,7.7,1,0,0,0,0,2024-01-25 to 2024-02-09,1,1
+Bens The Walton,"Slotervaart, Amsterdam",1740.6197243400002,2024-01-25,2024-02-09,0,3.7,87,1,7.7,1,0,1,0,2,2024-01-25 to 2024-02-09,24,1
+MEININGER Hotel Amsterdam City West,"Westpoort, Amsterdam",1404.76773252,2024-01-25,2024-02-09,0,4.3,5394,2,8.1,1,1,0,2,2,2024-01-25 to 2024-02-09,28,1
+Q-Factory Hotel,"Oost, Amsterdam",1840.9881632400002,2024-01-25,2024-02-09,4,3.1,3309,1,7.1,1,0,0,0,0,2024-01-25 to 2024-02-09,19,1
+PREMIER SUITES PLUS Amsterdam,"Zuideramstel, Amsterdam",2915.95529118,2024-01-25,2024-02-09,4,4.3,999,5,8.9,1,4,0,0,0,2024-01-25 to 2024-02-09,31,1
+"Max Brown Hotel Canal District, part of Sircle Collection","Amsterdam City Center, Amsterdam",2515.31116125,2024-01-25,2024-02-09,3,0.7,1031,1,7.8,1,1,0,0,0,2024-01-25 to 2024-02-09,1,1
+Bastion Hotel Amsterdam Zuidwest,"Slotervaart, Amsterdam",1315.3959005400002,2024-01-25,2024-02-09,3,3.8,1283,0,6.6,1,4,0,2,0,2024-01-25 to 2024-02-09,24,1
+Rokin Hotel,"Amsterdam City Center, Amsterdam",3090.51829245,2024-01-25,2024-02-09,4,250.0,2729,1,7.9,1,4,0,0,1,2024-01-25 to 2024-02-09,1,1
+Campanile Hotel & Restaurant Amsterdam Zuid-Oost,"Zuidoost, Amsterdam",1075.9106238000002,2024-01-25,2024-02-09,3,9.3,2626,1,7.5,1,1,0,2,0,2024-01-25 to 2024-02-09,32,1
+Eden Hotel Amsterdam,"Amsterdam City Center, Amsterdam",2712.9247424100004,2024-01-25,2024-02-09,4,0.8,8483,2,8.2,1,2,0,0,0,2024-01-25 to 2024-02-09,1,1
+Hotel Casa Amsterdam,"Oost, Amsterdam",2080.8313177200002,2024-01-25,2024-02-09,3,3.1,9358,5,8.7,1,3,0,0,0,2024-01-25 to 2024-02-09,19,1
+Bastion Hotel Amsterdam Amstel,Amsterdam,1466.0136275700002,2024-01-25,2024-02-09,3,5.0,2348,0,6.9,1,4,0,2,0,2024-01-25 to 2024-02-09,0,1
+Citadines Sloterdijk Station Amsterdam,"Westpoort, Amsterdam",1649.26329762,2024-01-25,2024-02-09,4,4.2,412,5,8.9,1,2,0,0,0,2024-01-25 to 2024-02-09,28,1
+The Times Hotel,"Amsterdam City Center, Amsterdam",2568.0330592200003,2024-01-25,2024-02-09,3,400.0,2136,2,8.2,1,3,0,0,1,2024-01-25 to 2024-02-09,1,1
+Hotel Sint Nicolaas,"Amsterdam City Center, Amsterdam",2744.25531183,2024-01-25,2024-02-09,3,0.5,2023,2,8.2,1,4,0,0,0,2024-01-25 to 2024-02-09,1,1
+ITC Hotel,"Amsterdam City Center, Amsterdam",1539.9153808800002,2024-01-25,2024-02-09,2,1.2,1460,0,6.3,1,1,1,0,2,2024-01-25 to 2024-02-09,1,1
+Conscious Hotel Westerpark,"Westerpark, Amsterdam",1679.9919817500001,2024-01-25,2024-02-09,4,1.9,2960,2,8.4,1,4,0,0,0,2024-01-25 to 2024-02-09,27,1
+Hostel The Veteran,"Amsterdam City Center, Amsterdam",1730.5991476200002,2024-01-25,2024-02-09,0,0.9,565,0,6.7,1,0,1,0,2,2024-01-25 to 2024-02-09,1,1
+Hotel Fita,"Oud Zuid, Amsterdam",2623.0811625,2024-01-25,2024-02-09,3,1.8,1321,5,8.7,1,1,0,0,0,2024-01-25 to 2024-02-09,22,1
+Homestay Properties,"Geuzenveld-Slotermeer, Amsterdam",1687.6375516500002,2024-01-25,2024-02-09,0,6.6,0,0,,1,0,0,0,2,2024-01-25 to 2024-02-09,11,1
+Conscious Hotel Vondelpark,"Oud West, Amsterdam",1405.2557476200002,2024-01-25,2024-02-09,3,3.0,503,2,8.2,1,4,0,2,0,2024-01-25 to 2024-02-09,21,1
+citizenM Amsterdam South,"Zuideramstel, Amsterdam",2837.62886763,2024-01-25,2024-02-09,4,3.6,3730,5,8.6,1,3,0,0,0,2024-01-25 to 2024-02-09,31,1
+NH Amsterdam Leidseplein,"Oud West, Amsterdam",2693.55054294,2024-01-25,2024-02-09,4,1.4,232,2,8.3,1,4,0,0,0,2024-01-25 to 2024-02-09,21,1
+"Sir Adam Hotel, part of Sircle Collection","Amsterdam Noord, Amsterdam",2640.8611793100004,2024-01-25,2024-02-09,4,1.4,1360,5,8.7,1,3,0,0,0,2024-01-25 to 2024-02-09,2,1
+Bastion Hotel Amsterdam Zuidwest,"Slotervaart, Amsterdam",1315.3959005400002,2024-01-25,2024-02-09,3,3.8,1283,0,6.6,1,4,0,2,0,2024-01-25 to 2024-02-09,24,1
+Boutique Hotel Oosteinde,"Amsterdam City Center, Amsterdam",2163.8752205700002,2024-01-25,2024-02-09,3,1.6,1145,1,7.4,1,0,0,0,0,2024-01-25 to 2024-02-09,1,1
+The Manor Amsterdam,"Oost, Amsterdam",1978.10413917,2024-01-25,2024-02-09,4,2.7,2279,2,8.2,1,4,0,0,0,2024-01-25 to 2024-02-09,19,1
+Mercure Amsterdam Sloterdijk Station,"Westpoort, Amsterdam",1632.68705139,2024-01-25,2024-02-09,4,4.3,4502,2,8.4,1,2,0,0,0,2024-01-25 to 2024-02-09,28,1
+Hotel Iron Horse Amsterdam,"Oud West, Amsterdam",1996.0630948500002,2024-01-25,2024-02-09,3,1.5,1494,1,7.3,1,1,0,0,0,2024-01-25 to 2024-02-09,21,1
+The Times Hotel,"Amsterdam City Center, Amsterdam",2568.0330592200003,2024-01-25,2024-02-09,3,400.0,2136,2,8.2,0,3,0,0,1,2024-01-25 to 2024-02-09,1,1
+"Max Brown Hotel Canal District, part of Sircle Collection","Amsterdam City Center, Amsterdam",2515.31116125,2024-01-25,2024-02-09,3,0.7,1031,1,7.8,0,1,0,0,0,2024-01-25 to 2024-02-09,1,1
+Hotel Tamara,"Amsterdam City Center, Amsterdam",1596.5413996500001,2024-01-25,2024-02-09,1,250.0,721,0,4.9,0,1,1,0,1,2024-01-25 to 2024-02-09,1,1
+Hotel Amsterdam De Roode Leeuw,"Amsterdam City Center, Amsterdam",3078.48058665,2024-01-25,2024-02-09,4,100.0,2806,1,7.6,0,4,0,0,0,2024-01-25 to 2024-02-09,1,1
+Hotel & Wellness Zuiver,"Zuideramstel, Amsterdam",2554.77531567,2024-01-25,2024-02-09,3,5.4,3677,2,8.3,0,0,0,0,0,2024-01-25 to 2024-02-09,31,1
+Inntel Hotels Amsterdam Landmark,"Amsterdam City Center, Amsterdam",2565.51164787,2024-01-25,2024-02-09,4,2.4,11278,2,8.2,0,2,0,0,0,2024-01-25 to 2024-02-09,1,1
+Hotel Sint Nicolaas,"Amsterdam City Center, Amsterdam",2744.25531183,2024-01-25,2024-02-09,3,0.5,2023,2,8.2,0,4,0,0,0,2024-01-25 to 2024-02-09,1,1
+WestCord City Centre Hotel,"Amsterdam City Center, Amsterdam",2957.12749845,2024-01-25,2024-02-09,3,400.0,3271,2,8.0,0,4,0,0,1,2024-01-25 to 2024-02-09,1,1
+Maison ELLE Amsterdam,"Oud West, Amsterdam",2696.25089316,2024-01-25,2024-02-09,4,2.1,960,5,8.8,0,1,0,0,0,2024-01-25 to 2024-02-09,21,1
+Boutique Hotel Notting Hill,"Amsterdam City Center, Amsterdam",2778.8881167600002,2024-01-25,2024-02-09,4,1.7,3055,5,8.7,0,1,0,0,0,2024-01-25 to 2024-02-09,1,1
+The Muse Amsterdam - Boutique Hotel,"Oud Zuid, Amsterdam",2983.57791687,2024-01-25,2024-02-09,3,2.3,1362,2,8.2,0,2,0,0,0,2024-01-25 to 2024-02-09,22,1
+Dutch Masters Short Stay Apartments,"Amsterdam City Center, Amsterdam",2755.8538040400003,2024-01-25,2024-02-09,0,1.0,149,5,8.9,0,0,0,0,2,2024-01-25 to 2024-02-09,1,1
+Ski Center House Mavrovo,Mavrovo,930.3194523000001,2024-01-25,2024-02-09,0,0.6,1,4,10.0,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Villa ANA-Mavrovo,Mavrovo,677.7716380500001,2024-01-25,2024-02-09,3,0.7,73,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Apartmani Invictus Mavrovo,Mavrovo,753.0886351500001,2024-01-25,2024-02-09,0,0.9,15,4,9.5,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Square One Bedroom APARTMENT,Mavrovo,1084.45088805,2024-01-25,2024-02-09,0,250.0,1,4,10.0,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+Vila Simona,Mavrovo,979.00709211,2024-01-25,2024-02-09,0,0.7,112,5,8.8,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Lux Residence,Mavrovo,913.74320607,2024-01-25,2024-02-09,0,1.0,1,4,10.0,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mountain Apartment,Mavrovo,1772.25936999,2024-01-25,2024-02-09,0,1.0,0,0,,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Villa Roza,Mavrovo,1265.19541392,2024-01-25,2024-02-09,0,350.0,0,0,,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-01-25,2024-02-09,3,0.9,62,1,7.6,1,0,1,0,0,2024-01-25 to 2024-02-09,18,1
+Mavrov02 Residence,Mavrovo,903.70636218,2024-01-25,2024-02-09,0,0.9,8,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Forest Apartments,Mavrovo,839.20703313,2024-01-25,2024-02-09,0,0.9,93,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mickitos Apartments - Mavrovo,Mavrovo,1626.6681984900001,2024-01-25,2024-02-09,0,0.9,11,3,9.4,1,1,1,0,2,2024-01-25 to 2024-02-09,18,1
+Pandora,Mavrovo,602.47090812,2024-01-25,2024-02-09,0,100.0,150,2,8.4,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mia's Favorite Hotel,Mavrovo,2019.68302569,2024-01-25,2024-02-09,4,150.0,662,5,8.8,1,0,1,0,0,2024-01-25 to 2024-02-09,18,1
+"Mavrovo Square "" Villas & Apartment """,Mavrovo,1275.23225781,2024-01-25,2024-02-09,0,300.0,19,4,10.0,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+ǀ Villa Mavrovo ǀ Spacious ǀ Lake View ǀ,Mavrovo,1147.71391218,2024-01-25,2024-02-09,0,2.8,27,0,6.4,1,0,1,2,2,2024-01-25 to 2024-02-09,18,1
+Mount House Mavrovo,Mavrovo,1728.3380109900002,2024-01-25,2024-02-09,0,200.0,25,3,9.3,1,0,1,0,1,2024-01-25 to 2024-02-09,18,1
+Mavrovo Twins Apartment,Mavrovo,903.70636218,2024-01-25,2024-02-09,0,0.9,8,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+LAKEVIEW Hotel & Apartments,Mavrovo,1883.72201883,2024-01-25,2024-02-09,0,0.9,149,2,8.1,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Apartment Antica,Mavrovo,984.03364764,2024-01-25,2024-02-09,0,0.7,0,0,,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Villa Maja,Mavrovo,1931.67763599,2024-01-25,2024-02-09,0,1.8,30,3,9.4,1,2,1,0,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Centar Ski Staza,Mavrovo,1825.4855502300002,2024-01-25,2024-02-09,0,1.0,10,4,9.8,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Cece's home,Mavrovo,1174.8150174,2024-01-25,2024-02-09,0,0.5,46,2,8.0,1,0,0,2,2,2024-01-25 to 2024-02-09,18,1
+Villa Jelena Mavrovo,Mavrovo,813.3422328300001,2024-01-25,2024-02-09,0,0.7,6,4,10.0,1,0,0,1,2,2024-01-25 to 2024-02-09,18,1
+Cece's home,Mavrovo,1174.8150174,2024-01-25,2024-02-09,0,0.5,46,2,8.0,1,0,0,2,2,2024-01-25 to 2024-02-09,18,1
+Villa Jelena Mavrovo,Mavrovo,813.3422328300001,2024-01-25,2024-02-09,0,0.7,6,4,10.0,1,0,0,1,2,2024-01-25 to 2024-02-09,18,1
+Kira Apartments Mavrovo,Mavrovo,2409.88363248,2024-01-25,2024-02-09,0,2.8,2,4,10.0,1,0,0,0,2,2024-01-25 to 2024-02-09,18,1
+Apartmani Invictus Mavrovo,Mavrovo,753.0886351500001,2024-01-25,2024-02-09,0,0.9,15,4,9.5,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Villa ANA-Mavrovo,Mavrovo,677.7716380500001,2024-01-25,2024-02-09,3,0.7,73,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Ski Center House Mavrovo,Mavrovo,930.3194523000001,2024-01-25,2024-02-09,0,0.6,1,4,10.0,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-01-25,2024-02-09,3,0.9,62,1,7.6,1,0,1,0,0,2024-01-25 to 2024-02-09,18,1
+Mia's Favorite Hotel,Mavrovo,2019.68302569,2024-01-25,2024-02-09,4,150.0,662,5,8.8,1,0,1,0,0,2024-01-25 to 2024-02-09,18,1
+Vila Simona,Mavrovo,979.00709211,2024-01-25,2024-02-09,0,0.7,112,5,8.8,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Square One Bedroom APARTMENT,Mavrovo,1084.45088805,2024-01-25,2024-02-09,0,250.0,1,4,10.0,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+Mavrovo Forest Apartments,Mavrovo,839.20703313,2024-01-25,2024-02-09,0,0.9,93,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+ǀ Villa Mavrovo ǀ Spacious ǀ Lake View ǀ,Mavrovo,1147.71391218,2024-01-25,2024-02-09,0,2.8,27,0,6.4,1,0,1,2,2,2024-01-25 to 2024-02-09,18,1
+Mountain Apartment,Mavrovo,1772.25936999,2024-01-25,2024-02-09,0,1.0,0,0,,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Mavrov02 Residence,Mavrovo,903.70636218,2024-01-25,2024-02-09,0,0.9,8,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+"Mavrovo Square "" Villas & Apartment """,Mavrovo,1275.23225781,2024-01-25,2024-02-09,0,300.0,19,4,10.0,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+Mickitos Apartments - Mavrovo,Mavrovo,1626.6681984900001,2024-01-25,2024-02-09,0,0.9,11,3,9.4,1,1,1,0,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Twins Apartment,Mavrovo,903.70636218,2024-01-25,2024-02-09,0,0.9,8,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Lux Residence,Mavrovo,913.74320607,2024-01-25,2024-02-09,0,1.0,1,4,10.0,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Villa Roza,Mavrovo,1265.19541392,2024-01-25,2024-02-09,0,350.0,0,0,,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+Mount House Mavrovo,Mavrovo,1728.3380109900002,2024-01-25,2024-02-09,0,200.0,25,3,9.3,1,0,1,0,1,2024-01-25 to 2024-02-09,18,1
+Pandora,Mavrovo,602.47090812,2024-01-25,2024-02-09,0,100.0,150,2,8.4,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+LAKEVIEW Hotel & Apartments,Mavrovo,1883.72201883,2024-01-25,2024-02-09,0,0.9,149,2,8.1,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Sindy Wooden Apartments,Mavrovo,2786.41981647,2024-01-25,2024-02-09,0,2.4,27,4,9.6,1,0,0,0,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Centar Ski Staza,Mavrovo,1825.4855502300002,2024-01-25,2024-02-09,0,1.0,10,4,9.8,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Villa Maja,Mavrovo,1931.67763599,2024-01-25,2024-02-09,0,1.8,30,3,9.4,1,2,1,0,2,2024-01-25 to 2024-02-09,18,1
+Apartment Antica,Mavrovo,984.03364764,2024-01-25,2024-02-09,0,0.7,0,0,,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Cece's home,Mavrovo,1174.8150174,2024-01-25,2024-02-09,0,0.5,46,2,8.0,1,0,0,2,2,2024-01-25 to 2024-02-09,18,1
+Apartmani Invictus Mavrovo,Mavrovo,753.0886351500001,2024-01-25,2024-02-09,0,0.9,15,4,9.5,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Villa ANA-Mavrovo,Mavrovo,677.7716380500001,2024-01-25,2024-02-09,3,0.7,73,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Ski Center House Mavrovo,Mavrovo,930.3194523000001,2024-01-25,2024-02-09,0,0.6,1,4,10.0,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-01-25,2024-02-09,3,0.9,62,1,7.6,1,0,1,0,0,2024-01-25 to 2024-02-09,18,1
+Mia's Favorite Hotel,Mavrovo,2019.68302569,2024-01-25,2024-02-09,4,150.0,662,5,8.8,1,0,1,0,0,2024-01-25 to 2024-02-09,18,1
+Vila Simona,Mavrovo,979.00709211,2024-01-25,2024-02-09,0,0.7,112,5,8.8,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Square One Bedroom APARTMENT,Mavrovo,1084.45088805,2024-01-25,2024-02-09,0,250.0,1,4,10.0,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+Mavrovo Forest Apartments,Mavrovo,839.20703313,2024-01-25,2024-02-09,0,0.9,93,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Lux Residence,Mavrovo,913.74320607,2024-01-25,2024-02-09,0,1.0,1,4,10.0,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+ǀ Villa Mavrovo ǀ Spacious ǀ Lake View ǀ,Mavrovo,1147.71391218,2024-01-25,2024-02-09,0,2.8,27,0,6.4,1,0,1,2,2,2024-01-25 to 2024-02-09,18,1
+Mavrov02 Residence,Mavrovo,903.70636218,2024-01-25,2024-02-09,0,0.9,8,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+"Mavrovo Square "" Villas & Apartment """,Mavrovo,1275.23225781,2024-01-25,2024-02-09,0,300.0,19,4,10.0,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+Mountain Apartment,Mavrovo,1772.25936999,2024-01-25,2024-02-09,0,1.0,0,0,,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Mickitos Apartments - Mavrovo,Mavrovo,1626.6681984900001,2024-01-25,2024-02-09,0,0.9,11,3,9.4,1,1,1,0,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Twins Apartment,Mavrovo,903.70636218,2024-01-25,2024-02-09,0,0.9,8,3,9.1,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Villa Roza,Mavrovo,1265.19541392,2024-01-25,2024-02-09,0,350.0,0,0,,1,0,1,2,1,2024-01-25 to 2024-02-09,18,1
+Mount House Mavrovo,Mavrovo,1728.3380109900002,2024-01-25,2024-02-09,0,200.0,25,3,9.3,1,0,1,0,1,2024-01-25 to 2024-02-09,18,1
+Pandora,Mavrovo,602.47090812,2024-01-25,2024-02-09,0,100.0,150,2,8.4,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+LAKEVIEW Hotel & Apartments,Mavrovo,1883.72201883,2024-01-25,2024-02-09,0,0.9,149,2,8.1,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Sindy Wooden Apartments,Mavrovo,2786.41981647,2024-01-25,2024-02-09,0,2.4,27,4,9.6,1,0,0,0,2,2024-01-25 to 2024-02-09,18,1
+Mavrovo Centar Ski Staza,Mavrovo,1825.4855502300002,2024-01-25,2024-02-09,0,1.0,10,4,9.8,1,0,1,0,2,2024-01-25 to 2024-02-09,18,1
+Villa Maja,Mavrovo,1931.67763599,2024-01-25,2024-02-09,0,1.8,30,3,9.4,1,2,1,0,2,2024-01-25 to 2024-02-09,18,1
+Apartment Antica,Mavrovo,984.03364764,2024-01-25,2024-02-09,0,0.7,0,0,,1,0,1,1,2,2024-01-25 to 2024-02-09,18,1
+Cece's home,Mavrovo,1174.8150174,2024-01-25,2024-02-09,0,0.5,46,2,8.0,1,0,0,2,2,2024-01-25 to 2024-02-09,18,1
+Citybox Antwerp,"Antwerp Center, Antwerp",1154.74132962,2024-01-25,2024-02-09,3,1.1,12173,2,8.5,1,1,1,2,0,2024-01-25 to 2024-02-09,4,1
+Arass Hôtel & Business Flats,"Antwerp Center, Antwerp",1348.53212583,2024-01-25,2024-02-09,3,2.3,1058,1,7.5,2,1,1,2,0,2024-01-25 to 2024-02-09,4,1
+PREMIER SUITES PLUS Antwerp,"Antwerp Center, Antwerp",1368.4106075700001,2024-01-25,2024-02-09,4,1.3,3027,2,8.0,1,1,1,2,0,2024-01-25 to 2024-02-09,4,1
+ibis Antwerpen Centrum,"Antwerp Center, Antwerp",1138.52296113,2024-01-25,2024-02-09,3,1.1,3439,1,7.6,1,1,0,2,0,2024-01-25 to 2024-02-09,4,1
+City Apartments Antwerpen,"Antwerp Center, Antwerp",915.7603351500001,2024-01-25,2024-02-09,0,1.4,513,0,5.8,1,0,0,1,2,2024-01-25 to 2024-02-09,4,1
+Qstay Good Living Apartments,"Antwerp Center, Antwerp",1382.67691566,2024-01-25,2024-02-09,0,1.3,1628,2,8.0,1,2,1,2,2,2024-01-25 to 2024-02-09,4,1
+Aparthotel Adagio Antwerp City Center,"Antwerp Center, Antwerp",1613.62192815,2024-01-25,2024-02-09,0,2.2,483,2,8.5,1,1,1,0,2,2024-01-25 to 2024-02-09,4,1
+YUST Antwerp,"Berchem, Antwerp",1758.4322754900002,2024-01-25,2024-02-09,0,2.7,3819,5,8.8,1,2,0,0,2,2024-01-25 to 2024-02-09,5,1
+"Holiday Inn Express Antwerp - City Centre, an IHG Hotel","Antwerp Center, Antwerp",1419.83113194,2024-01-25,2024-02-09,0,1.1,1177,2,8.5,1,2,0,2,2,2024-01-25 to 2024-02-09,4,1
+YAYS Antwerp Opera,"Antwerp Center, Antwerp",1591.4172411000002,2024-01-25,2024-02-09,0,1.2,2587,3,9.2,1,2,1,0,2,2024-01-25 to 2024-02-09,4,1
+ibis budget Antwerpen Centraal Station,"Antwerp Center, Antwerp",978.6166800300001,2024-01-25,2024-02-09,2,1.9,6183,1,7.3,1,1,0,1,0,2024-01-25 to 2024-02-09,4,1
+Cadix 35,"Antwerp Center, Antwerp",1476.0504714600002,2024-01-25,2024-02-09,0,1.6,50,4,9.5,1,1,1,2,2,2024-01-25 to 2024-02-09,4,1
+The Suit,"Antwerp Center, Antwerp",1643.8463300100002,2024-01-25,2024-02-09,0,0.8,55,2,8.2,2,2,1,0,2,2024-01-25 to 2024-02-09,4,1
+Isabel Apartments,"Antwerp Center, Antwerp",1325.4327444300002,2024-01-25,2024-02-09,0,2.5,452,1,7.4,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Leonardo Hotel Antwerp The Plaza,"Antwerp Center, Antwerp",1809.21838023,2024-01-25,2024-02-09,4,2.0,2168,2,8.2,1,1,0,0,0,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Castel,"Antwerp Center, Antwerp",1179.33729066,2024-01-25,2024-02-09,0,1.3,150,1,7.3,1,2,1,2,2,2024-01-25 to 2024-02-09,4,1
+Condo Gardens Antwerp,"Antwerp Center, Antwerp",830.4064941600001,2024-01-25,2024-02-09,0,1.5,596,0,5.2,1,0,0,1,2,2024-01-25 to 2024-02-09,4,1
+prizeotel Antwerp-City,"Antwerp Center, Antwerp",1191.4075308000001,2024-01-25,2024-02-09,2,1.2,9265,2,8.3,1,2,0,2,0,2024-01-25 to 2024-02-09,4,1
+Nammos Home's,"Antwerp Center, Antwerp",1159.75161798,2024-01-25,2024-02-09,0,1.8,5,0,4.2,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Hotel Docklands,"Antwerp Center, Antwerp",1201.0214282700001,2024-01-25,2024-02-09,3,1.5,1127,1,7.5,1,0,0,2,0,2024-01-25 to 2024-02-09,4,1
+Casa Amor,"Antwerp Center, Antwerp",1036.2512633400002,2024-01-25,2024-02-09,0,150.0,76,0,6.7,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+"Sapphire House Antwerp, Autograph Collection","Antwerp Center, Antwerp",2606.68385514,2024-01-25,2024-02-09,5,500.0,1488,5,8.6,1,2,1,0,1,2024-01-25 to 2024-02-09,4,1
+Studio Antwerp Central Station,"Antwerp Center, Antwerp",1229.03349501,2024-01-25,2024-02-09,0,1.5,73,1,7.8,2,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Central,"Antwerp Center, Antwerp",1310.3693450100002,2024-01-25,2024-02-09,0,1.4,368,2,8.3,1,1,1,2,2,2024-01-25 to 2024-02-09,4,1
+Smartflats - Raphael Suites,"Antwerp Center, Antwerp",1125.86710287,2024-01-25,2024-02-09,0,0.8,452,1,7.6,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Museum Suites,"Antwerp Center, Antwerp",1873.68517494,2024-01-25,2024-02-09,0,1.4,364,2,8.0,1,2,1,0,2,2024-01-25 to 2024-02-09,4,1
+"Crowne Plaza Antwerpen, an IHG Hotel","Antwerp Center, Antwerp",1637.86001145,2024-01-25,2024-02-09,4,3.5,4204,1,7.8,2,4,0,0,0,2024-01-25 to 2024-02-09,4,1
+Сarnot Apartments ZOO Area,"Antwerp Center, Antwerp",1034.23413426,2024-01-25,2024-02-09,0,2.0,944,0,6.6,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+New renovated condo's @ trendy south,"Antwerp Center, Antwerp",1679.8943787300002,2024-01-25,2024-02-09,0,1.5,75,4,,1,0,1,0,2,2024-01-25 to 2024-02-09,4,1
+The Suit,"Antwerp Center, Antwerp",1740.53838849,2024-01-25,2024-02-09,0,0.8,55,2,8.2,1,2,1,0,2,2024-01-25 to 2024-02-09,4,1
+OneLuxStay near Fashion District,"Antwerp Center, Antwerp",1357.56040518,2024-01-25,2024-02-09,0,1.7,31,3,9.0,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Centrum,"Antwerp Center, Antwerp",1462.8903309300001,2024-01-25,2024-02-09,0,0.7,111,2,8.2,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Den Gulden Hoorn V1,"Antwerp Center, Antwerp",1229.03349501,2024-01-25,2024-02-09,0,0.5,6,1,7.8,2,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Hotel National Antwerp,"Antwerp Center, Antwerp",1093.60930476,2024-01-25,2024-02-09,3,0.5,2081,1,7.4,1,1,0,2,0,2024-01-25 to 2024-02-09,4,1
+Hotel Urban Dreams,"Antwerp Center, Antwerp",1274.22369327,2024-01-25,2024-02-09,0,300.0,608,2,8.3,1,1,1,2,1,2024-01-25 to 2024-02-09,4,1
+Sam in Antwerp,"Antwerp Center, Antwerp",1218.19955979,2024-01-25,2024-02-09,0,1.4,455,2,8.5,1,1,0,2,2,2024-01-25 to 2024-02-09,4,1
+Citytrip Double Apartments,"Antwerp Center, Antwerp",1728.3380109900002,2024-01-25,2024-02-09,0,1.0,1,3,9.0,1,0,0,0,2,2024-01-25 to 2024-02-09,4,1
+Radisson Hotel Antwerp Berchem,"Berchem, Antwerp",1606.5945107100001,2024-01-25,2024-02-09,4,3.4,3857,5,8.7,1,1,0,0,0,2024-01-25 to 2024-02-09,5,1
+The India Yellow Studio,"Antwerp Center, Antwerp",1383.5228085,2024-01-25,2024-02-09,0,1.1,59,2,8.4,2,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+The ASH,"Antwerp Center, Antwerp",1233.7672414800002,2024-01-25,2024-02-09,0,1.2,4987,1,7.9,1,1,0,2,2,2024-01-25 to 2024-02-09,4,1
+Century Hotel Antwerpen Centrum,"Antwerp Center, Antwerp",955.92397788,2024-01-25,2024-02-09,2,1.5,2608,0,6.8,1,1,0,1,2,2024-01-25 to 2024-02-09,4,1
+Park Inn by Radisson Antwerpen,"Antwerp Center, Antwerp",1597.54996419,2024-01-25,2024-02-09,3,1.6,3076,2,8.0,1,1,0,0,0,2024-01-25 to 2024-02-09,4,1
+Mercure Antwerp City South,"Antwerp Center, Antwerp",1458.98621013,2024-01-25,2024-02-09,4,3.0,1833,1,7.8,1,2,0,2,0,2024-01-25 to 2024-02-09,4,1
+Hotel Banks,"Antwerp Center, Antwerp",2033.33118132,2024-01-25,2024-02-09,4,350.0,1851,1,7.5,1,1,0,0,1,2024-01-25 to 2024-02-09,4,1
+The Card Room Green Studio,"Antwerp Center, Antwerp",1417.81400286,2024-01-25,2024-02-09,0,1.1,57,2,8.3,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+NH Collection Antwerp Centre,"Antwerp Center, Antwerp",1886.7314452800001,2024-01-25,2024-02-09,4,1.6,5563,5,8.7,1,4,0,0,0,2024-01-25 to 2024-02-09,4,1
+"Cosy studio in city center with sunny terrace, free NETFLIX and Wifi","Antwerp Center, Antwerp",1002.8872976700001,2024-01-25,2024-02-09,0,1.6,37,0,6.4,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Ambassador Suites Antwerp,"Antwerp Center, Antwerp",1065.36949764,2024-01-25,2024-02-09,0,2.1,817,0,6.4,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+OneLuxStay near Diamond District,"Antwerp Center, Antwerp",1366.40974566,2024-01-25,2024-02-09,0,1.7,88,5,8.9,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+The View - spacious 2 bdr appt in with view,"Antwerp Center, Antwerp",2365.8972048,2024-01-25,2024-02-09,0,350.0,70,5,8.9,1,2,1,0,1,2024-01-25 to 2024-02-09,4,1
+P6 Antwerp,"Antwerp Center, Antwerp",1991.1666766800001,2024-01-25,2024-02-09,3,100.0,1223,2,8.0,1,1,1,0,0,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Riverside Residence,"Antwerp Center, Antwerp",1179.33729066,2024-01-25,2024-02-09,0,200.0,853,1,7.8,1,2,1,2,1,2024-01-25 to 2024-02-09,4,1
+Budget Flats Antwerp,"Antwerp Center, Antwerp",1065.36949764,2024-01-25,2024-02-09,0,1.4,167,0,6.9,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Renovated Apartment in Antwerp city center,"Antwerp Center, Antwerp",1472.29275519,2024-01-25,2024-02-09,0,1.6,653,1,7.9,2,1,0,2,2,2024-01-25 to 2024-02-09,4,1
+Astoria Hotel Antwerp,"Antwerp Center, Antwerp",1181.14294653,2024-01-25,2024-02-09,3,1.4,3250,1,7.0,1,0,0,2,0,2024-01-25 to 2024-02-09,4,1
+Hotel National Antwerp,"Antwerp Center, Antwerp",1093.60930476,2024-01-25,2024-02-09,3,0.5,2081,1,7.4,1,1,0,2,0,2024-01-25 to 2024-02-09,4,1
+Hotel Les Nuits,"Antwerp Center, Antwerp",2403.8485124100002,2024-01-25,2024-02-09,0,0.7,574,2,8.2,1,1,1,0,2,2024-01-25 to 2024-02-09,4,1
+Hotel1875,"Antwerp Center, Antwerp",1947.48932523,2024-01-25,2024-02-09,0,400.0,1037,1,7.6,1,1,1,0,1,2024-01-25 to 2024-02-09,4,1
+Charming Suites Jan Zonder Vrees,"Antwerp Center, Antwerp",2620.7386900200004,2024-01-25,2024-02-09,0,150.0,376,4,9.6,1,0,1,0,2,2024-01-25 to 2024-02-09,4,1
+Hotel Antwerp Billard Palace,"Antwerp Center, Antwerp",1107.04598718,2024-01-25,2024-02-09,1,1.5,918,0,4.5,1,1,0,2,2,2024-01-25 to 2024-02-09,4,1
+Apartment Pacific - Duplex with Sauna,"Antwerp Center, Antwerp",2446.33836045,2024-01-25,2024-02-09,0,1.8,88,3,9.1,1,2,1,0,2,2024-01-25 to 2024-02-09,4,1
+Tempor'area Apartment,"Antwerp Center, Antwerp",2779.16465865,2024-01-25,2024-02-09,0,0.8,82,4,9.5,1,1,1,0,2,2024-01-25 to 2024-02-09,4,1
+The India Yellow Studio,"Antwerp Center, Antwerp",1383.5228085,2024-01-25,2024-02-09,0,1.1,59,2,8.4,2,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Palace,"Antwerp Center, Antwerp",1470.77990838,2024-01-25,2024-02-09,0,200.0,512,2,8.3,1,2,1,2,1,2024-01-25 to 2024-02-09,4,1
+"Hotel Indigo Antwerp City Centre, an IHG Hotel","Antwerp Center, Antwerp",1489.3570165200001,2024-01-25,2024-02-09,4,1.5,2809,2,8.4,2,2,0,2,0,2024-01-25 to 2024-02-09,4,1
+OneLuxStay near Fashion District,"Antwerp Center, Antwerp",1357.56040518,2024-01-25,2024-02-09,0,1.7,31,3,9.0,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Antwerp Harbour Hotel,"Antwerp Center, Antwerp",1449.94166361,2024-01-25,2024-02-09,3,3.0,2513,1,7.6,1,2,0,2,0,2024-01-25 to 2024-02-09,4,1
+Oneluxstay Antwerp City Centre,"Antwerp Center, Antwerp",1591.5311112900001,2024-01-25,2024-02-09,0,1.3,94,2,8.3,1,0,1,0,2,2024-01-25 to 2024-02-09,4,1
+Guesthouse Bernardin,"Antwerp Center, Antwerp",1958.03045139,2024-01-25,2024-02-09,0,0.7,331,2,8.5,1,0,1,0,2,2024-01-25 to 2024-02-09,4,1
+OneLuxStay near Diamond District,"Antwerp Center, Antwerp",1366.40974566,2024-01-25,2024-02-09,0,1.7,88,5,8.9,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+The Card Room Green Studio,"Antwerp Center, Antwerp",1417.81400286,2024-01-25,2024-02-09,0,1.1,57,2,8.3,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Luxury Suites,"Antwerp Center, Antwerp",1396.2274682700001,2024-01-25,2024-02-09,0,300.0,324,2,8.5,1,2,1,2,1,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Boutique,"Antwerp Center, Antwerp",1396.2274682700001,2024-01-25,2024-02-09,0,250.0,474,2,8.4,1,2,1,2,1,2024-01-25 to 2024-02-09,4,1
+Luxury Suits Historic Center,"Antwerp Center, Antwerp",1396.2274682700001,2024-01-25,2024-02-09,0,100.0,767,2,8.3,1,2,1,2,2,2024-01-25 to 2024-02-09,4,1
+Mercure Antwerp City Centre,"Antwerp Center, Antwerp",1392.71375955,2024-01-25,2024-02-09,4,1.5,1929,2,8.0,1,1,0,2,0,2024-01-25 to 2024-02-09,4,1
+Duplex in historical centre with private courtyard,"Antwerp Center, Antwerp",1410.7865854200002,2024-01-25,2024-02-09,0,0.5,16,3,9.3,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+"Hotel Indigo Antwerp City Centre, an IHG Hotel","Antwerp Center, Antwerp",1489.3570165200001,2024-01-25,2024-02-09,4,1.5,2809,2,8.4,2,2,0,2,0,2024-01-25 to 2024-02-09,4,1
+Wonderful apartment in the center of Antwerp,"Antwerp Center, Antwerp",1669.8412676700002,2024-01-25,2024-02-09,0,0.8,6,5,8.7,1,0,1,0,2,2024-01-25 to 2024-02-09,4,1
+Carriage House in quiet ecological garden,"Antwerp Center, Antwerp",1717.24380105,2024-01-25,2024-02-09,0,2.2,6,3,9.3,1,1,1,0,2,2024-01-25 to 2024-02-09,4,1
+Apartments Suites in Antwerp,"Antwerp Center, Antwerp",1480.26366849,2024-01-25,2024-02-09,0,2.4,319,5,8.8,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+SLEEP INN - Black and White modern flat with cityview,"Antwerp Center, Antwerp",1285.8709869900001,2024-01-25,2024-02-09,0,1.0,114,2,8.4,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Meir,"Antwerp Center, Antwerp",1396.2274682700001,2024-01-25,2024-02-09,0,1.0,536,2,8.1,1,2,1,2,2,2024-01-25 to 2024-02-09,4,1
+Sunny apartment @theater area,"Antwerp Center, Antwerp",2030.3217548700002,2024-01-25,2024-02-09,0,1.0,5,2,8.4,1,0,1,0,2,2024-01-25 to 2024-02-09,4,1
+Green Oasis in the city,"Antwerp Center, Antwerp",1566.4308679800001,2024-01-25,2024-02-09,0,1.0,30,5,,1,0,1,0,2,2024-01-25 to 2024-02-09,4,1
+ATW Apartments,"Antwerp Center, Antwerp",1284.8624224500002,2024-01-25,2024-02-09,0,1.3,147,1,7.3,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Apartments Bex.,"Antwerp Center, Antwerp",1360.5860988000002,2024-01-25,2024-02-09,0,1.6,64,0,6.5,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Palace,"Antwerp Center, Antwerp",1470.77990838,2024-01-25,2024-02-09,0,200.0,512,2,8.3,1,2,1,2,1,2024-01-25 to 2024-02-09,4,1
+Luxury Suites Boutique,"Antwerp Center, Antwerp",1396.2274682700001,2024-01-25,2024-02-09,0,250.0,474,2,8.4,1,2,1,2,1,2024-01-25 to 2024-02-09,4,1
+"Kaai11, Boutique Hotel Riverview","Antwerp Center, Antwerp",1588.7006237100002,2024-01-25,2024-02-09,0,0.8,620,1,7.5,1,2,0,0,2,2024-01-25 to 2024-02-09,4,1
+Huidreal Meir,"Antwerp Center, Antwerp",2037.2353021200001,2024-01-25,2024-02-09,0,0.5,21,0,6.9,1,0,0,0,2,2024-01-25 to 2024-02-09,4,1
+Modern apartment in a central location in Antwerp,"Antwerp Center, Antwerp",1302.33336303,2024-01-25,2024-02-09,0,2.2,6,3,9.0,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Suikerrui 16 app 301,"Antwerp Center, Antwerp",1366.40974566,2024-01-25,2024-02-09,0,100.0,34,1,7.8,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Beautiful cosy apartments in the heart of Antwerp,"Antwerp Center, Antwerp",1493.11473279,2024-01-25,2024-02-09,0,150.0,20,1,7.9,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+BOHO studio Center of Antwerp,"Borgerhout, Antwerp",1084.45088805,2024-01-25,2024-02-09,0,2.3,3,3,9.0,1,0,0,2,2,2024-01-25 to 2024-02-09,7,1
+B&B Middelheim,"Wilrijk, Antwerp",1355.5595432700002,2024-01-25,2024-02-09,0,5.2,78,1,7.8,1,0,1,2,2,2024-01-25 to 2024-02-09,29,1
+Luxury Suits Historic Center,"Antwerp Center, Antwerp",1396.2274682700001,2024-01-25,2024-02-09,0,100.0,767,2,8.3,1,2,1,2,2,2024-01-25 to 2024-02-09,4,1
+Studio1 Van Lerius,"Antwerp Center, Antwerp",1305.8470717500002,2024-01-25,2024-02-09,0,1.7,3,1,7.7,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+CASA DI MARCO,"Deurne, Antwerp",1023.72554244,2024-01-25,2024-02-09,0,4.4,119,0,6.8,2,1,1,2,2,2024-01-25 to 2024-02-09,10,1
+The Red Monkey,"Antwerp Center, Antwerp",1496.1404264100001,2024-01-25,2024-02-09,0,0.8,37,5,8.8,1,2,1,2,2,2024-01-25 to 2024-02-09,4,1
+Antwerp Center Cozy Cityflats,"Antwerp Center, Antwerp",1607.32653336,2024-01-25,2024-02-09,0,0.8,16,0,5.9,1,2,0,0,2,2024-01-25 to 2024-02-09,4,1
+Suikerrui 16 App 103,"Antwerp Center, Antwerp",1214.5882480500002,2024-01-25,2024-02-09,0,100.0,58,1,7.7,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Huidreal Meir,"Antwerp Center, Antwerp",2037.2353021200001,2024-01-25,2024-02-09,0,0.5,21,0,6.9,1,0,0,0,2,2024-01-25 to 2024-02-09,4,1
+Duplex in historical centre with private courtyard,"Antwerp Center, Antwerp",1410.7865854200002,2024-01-25,2024-02-09,0,0.5,16,3,9.3,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Amory Hotel by Hyllit,"Antwerp Center, Antwerp",1563.01476228,2024-01-25,2024-02-09,3,1.2,1062,2,8.3,1,0,1,0,0,2024-01-25 to 2024-02-09,4,1
+Beautiful cosy apartments in the heart of Antwerp,"Antwerp Center, Antwerp",1493.11473279,2024-01-25,2024-02-09,0,150.0,20,1,7.9,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Green Oasis in the city,"Antwerp Center, Antwerp",1566.4308679800001,2024-01-25,2024-02-09,0,1.0,30,5,,1,0,1,0,2,2024-01-25 to 2024-02-09,4,1
+B&B Luxe Suites 1-2-3,"Antwerp Center, Antwerp",1988.59646382,2024-01-25,2024-02-09,0,1.7,173,5,8.7,1,0,0,0,2,2024-01-25 to 2024-02-09,4,1
+Casa di Cynthia,"Borgerhout, Antwerp",1330.9798494000001,2024-01-25,2024-02-09,0,3.9,64,0,6.8,2,2,1,2,2,2024-01-25 to 2024-02-09,7,1
+CASA DI MARCO,"Deurne, Antwerp",1023.72554244,2024-01-25,2024-02-09,0,4.4,119,0,6.8,2,1,1,2,2,2024-01-25 to 2024-02-09,10,1
+The View - spacious 2 bdr appt in with view,"Antwerp Center, Antwerp",2129.30748432,2024-01-25,2024-02-09,0,350.0,70,5,8.9,2,2,0,0,1,2024-01-25 to 2024-02-09,4,1
+SLEEP INN - Arizona flat with cityview,"Antwerp Center, Antwerp",2293.2480235800003,2024-01-25,2024-02-09,0,1.0,45,3,9.0,1,1,0,0,2,2024-01-25 to 2024-02-09,4,1
+Harmony House,"Hoboken, Antwerp",1152.21991827,2024-01-25,2024-02-09,0,6.0,138,1,7.9,1,0,0,2,2,2024-01-25 to 2024-02-09,13,1
+Oever House,"Antwerp Center, Antwerp",3064.91376687,2024-01-25,2024-02-09,0,400.0,83,3,9.2,1,0,0,0,1,2024-01-25 to 2024-02-09,4,1
+Luxe apt with parking & garden in wilrijk antwerp,"Wilrijk, Antwerp",3036.44621937,2024-01-25,2024-02-09,0,5.0,5,5,8.8,1,0,0,0,2,2024-01-25 to 2024-02-09,29,1
+Apartments Bex.,"Antwerp Center, Antwerp",1360.5860988000002,2024-01-25,2024-02-09,0,1.6,64,0,6.5,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Privé kamer met chill room en gedeelde badkamer - rand Antwerpen - afrit E313 Wommelgem - vlakbij tramhalte lijn 9 en 24,Antwerp,1220.00521566,2024-01-25,2024-02-09,0,6.1,8,3,9.1,1,0,0,2,2,2024-01-25 to 2024-02-09,3,1
+J1 - Urban studio in Antwerp,Antwerp,1961.18628237,2024-01-25,2024-02-09,0,2.5,0,0,,1,0,1,0,2,2024-01-25 to 2024-02-09,3,1
+Apartments Plantin 3 sleeping rooms 2 bathrooms.,"Antwerp Center, Antwerp",1496.1404264100001,2024-01-25,2024-02-09,0,2.1,88,0,6.4,1,0,1,2,2,2024-01-25 to 2024-02-09,4,1
+Studio Anvers,"Antwerp Center, Antwerp",1430.8602732000002,2024-01-25,2024-02-09,0,1.8,192,5,8.6,1,0,0,2,2,2024-01-25 to 2024-02-09,4,1
+Carriage House in quiet ecological garden,"Antwerp Center, Antwerp",1717.24380105,2024-01-25,2024-02-09,0,2.2,6,3,9.3,1,1,1,0,2,2024-01-25 to 2024-02-09,4,1
+Quartier Le Sud,"Antwerp Center, Antwerp",2033.0383722600002,2024-01-25,2024-02-09,0,1.3,103,3,9.2,1,1,1,0,2,2024-01-25 to 2024-02-09,4,1
+Hotel V Fizeaustraat,"Oost, Amsterdam",1768.0299057900002,2024-02-10,2024-02-25,4,3.8,3739,5,8.9,1,2,0,0,0,2024-02-10 to 2024-02-25,19,2
+Sonder Park House,"Oud Zuid, Amsterdam",1709.43555945,2024-02-10,2024-02-25,4,1.7,3152,1,7.5,0,0,0,0,0,2024-02-10 to 2024-02-25,22,2
+Hotel City Garden Amsterdam,"Oud Zuid, Amsterdam",1795.9118351700001,2024-02-10,2024-02-25,3,1.9,3175,1,7.1,1,0,0,0,0,2024-02-10 to 2024-02-25,22,2
+Wittenberg by Cove,"Amsterdam City Center, Amsterdam",1787.0787618600002,2024-02-10,2024-02-25,4,1.4,371,3,9.0,0,1,0,0,0,2024-02-10 to 2024-02-25,1,2
+Motel One Amsterdam,"Zuideramstel, Amsterdam",1460.9870720400002,2024-02-10,2024-02-25,3,3.8,9039,5,8.6,0,2,1,2,0,2024-02-10 to 2024-02-25,31,2
+NH Amsterdam Zuid,"Zuideramstel, Amsterdam",1537.80064878,2024-02-10,2024-02-25,4,5.2,1585,2,8.1,0,4,1,0,0,2024-02-10 to 2024-02-25,31,2
+Element Amsterdam,"Zuideramstel, Amsterdam",2163.61494585,2024-02-10,2024-02-25,4,4.7,1082,5,8.7,1,4,0,0,0,2024-02-10 to 2024-02-25,31,2
+New West Inn Amsterdam,"Osdorp, Amsterdam",949.15683516,2024-02-10,2024-02-25,3,6.8,8188,1,7.2,0,1,0,1,0,2024-02-10 to 2024-02-25,20,2
+Via Amsterdam,"Bijlmermeer, Amsterdam",1444.1180167500002,2024-02-10,2024-02-25,3,6.6,15356,2,8.1,0,2,0,2,0,2024-02-10 to 2024-02-25,6,2
+Joy Hotel,"Zuidoost, Amsterdam",1271.1817324800002,2024-02-10,2024-02-25,3,8.5,7304,1,7.4,0,2,0,2,0,2024-02-10 to 2024-02-25,32,2
+Zoku Amsterdam,"Amsterdam City Center, Amsterdam",2554.46623944,2024-02-10,2024-02-25,4,1.4,2328,5,8.9,0,4,1,0,0,2024-02-10 to 2024-02-25,1,2
+Bens The Walton,"Slotervaart, Amsterdam",1912.6938486000001,2024-02-10,2024-02-25,0,3.7,87,1,7.7,0,0,1,0,2,2024-02-10 to 2024-02-25,24,2
+Hotel Abba,"Oud West, Amsterdam",1065.4671006600001,2024-02-10,2024-02-25,1,1.7,2877,1,7.3,0,0,0,2,2,2024-02-10 to 2024-02-25,21,2
+Ruby Emma Hotel Amsterdam,"Oost, Amsterdam",2046.3937188300001,2024-02-10,2024-02-25,4,4.3,5443,5,8.6,0,3,0,0,0,2024-02-10 to 2024-02-25,19,2
+Belfort Hotel,"Oud Zuid, Amsterdam",1075.40634153,2024-02-10,2024-02-25,3,3.3,3135,0,6.3,0,0,0,2,0,2024-02-10 to 2024-02-25,22,2
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam",1783.30477842,2024-02-10,2024-02-25,4,3.9,17661,1,7.9,1,4,0,0,0,2024-02-10 to 2024-02-25,28,2
+Bob W Amsterdam Noord,"Amsterdam Noord, Amsterdam",1793.1952177800001,2024-02-10,2024-02-25,0,2.8,320,5,8.8,0,0,0,0,2,2024-02-10 to 2024-02-25,2,2
+Hotel Schroder,"Amsterdam City Center, Amsterdam",1546.3409130300001,2024-02-10,2024-02-25,1,1.1,520,0,5.5,0,0,1,0,2,2024-02-10 to 2024-02-25,1,2
+The Alfred Hotel,"Oud Zuid, Amsterdam",1520.8177233000001,2024-02-10,2024-02-25,3,2.6,4929,1,7.2,0,1,0,0,0,2024-02-10 to 2024-02-25,22,2
+Rembrandt Square Hotel,"Amsterdam City Center, Amsterdam",1671.04503825,2024-02-10,2024-02-25,1,0.8,1527,0,6.7,0,4,1,0,2,2024-02-10 to 2024-02-25,1,2
+Moxy Amsterdam Houthavens,"Westpoort, Amsterdam",1634.70418047,2024-02-10,2024-02-25,4,3.4,2112,2,8.0,1,3,1,0,0,2024-02-10 to 2024-02-25,28,2
+citizenM Amsterdam South,"Zuideramstel, Amsterdam",1549.85462175,2024-02-10,2024-02-25,4,3.6,3730,5,8.6,0,3,0,0,0,2024-02-10 to 2024-02-25,31,2
+Mercure Amsterdam North Station,"Amsterdam Noord, Amsterdam",1539.31349559,2024-02-10,2024-02-25,4,4.2,3538,5,8.9,1,2,0,0,0,2024-02-10 to 2024-02-25,2,2
+Hotel Flipper Amsterdam,"Zuideramstel, Amsterdam",817.4090253300001,2024-02-10,2024-02-25,2,2.9,994,0,6.1,0,0,0,1,2,2024-02-10 to 2024-02-25,31,2
+Bens The Highdocks,"Amsterdam Noord, Amsterdam",1729.2164381700002,2024-02-10,2024-02-25,0,2.7,390,1,7.5,0,0,1,0,2,2024-02-10 to 2024-02-25,2,2
+Residence Inn by Marriott Amsterdam Houthavens,"Westpoort, Amsterdam",1835.5223941200002,2024-02-10,2024-02-25,4,3.4,738,2,8.3,1,2,0,0,0,2024-02-10 to 2024-02-25,28,2
+The Social Hub Amsterdam West 4 star,"Slotervaart, Amsterdam",1473.88693785,2024-02-10,2024-02-25,4,3.8,2215,2,8.4,0,2,0,2,0,2024-02-10 to 2024-02-25,24,2
+Campanile Hotel & Restaurant Amsterdam Zuid-Oost,"Zuidoost, Amsterdam",1146.7053476400001,2024-02-10,2024-02-25,3,9.3,2626,1,7.5,1,1,0,2,0,2024-02-10 to 2024-02-25,32,2
+OZO Hotels Arena Amsterdam,"Zuidoost, Amsterdam",1267.89576414,2024-02-10,2024-02-25,4,8.4,7567,1,7.4,0,2,0,2,0,2024-02-10 to 2024-02-25,32,2
+Hotel Jansen Amsterdam Bajeskwartier,"Oost, Amsterdam",2481.1663714200004,2024-02-10,2024-02-25,0,4.2,1119,2,8.3,0,3,1,0,2,2024-02-10 to 2024-02-25,19,2
+the niu Fender,"Zeeburg, Amsterdam",1765.03674651,2024-02-10,2024-02-25,4,3.9,5324,2,8.2,0,4,0,0,0,2024-02-10 to 2024-02-25,30,2
+Amadi Panorama Hotel,"IJburg, Amsterdam",1842.54981156,2024-02-10,2024-02-25,4,6.6,4580,1,7.7,0,1,0,0,0,2024-02-10 to 2024-02-25,14,2
+Park Inn by Radisson Amsterdam City West,"Westpoort, Amsterdam",1783.30477842,2024-02-10,2024-02-25,4,3.9,17661,1,7.9,1,4,0,0,0,2024-02-10 to 2024-02-25,28,2
+"Sir Adam Hotel, part of Sircle Collection","Amsterdam Noord, Amsterdam",2357.0803986600004,2024-02-10,2024-02-25,4,1.4,1360,5,8.7,1,3,0,0,0,2024-02-10 to 2024-02-25,2,2
+Amsterdam ID Aparthotel,"Westpoort, Amsterdam",1905.97550739,2024-02-10,2024-02-25,3,4.3,1522,5,8.7,0,4,0,0,0,2024-02-10 to 2024-02-25,28,2
+Leonardo Royal Hotel Amsterdam,"Oost, Amsterdam",1687.3610097600001,2024-02-10,2024-02-25,4,4.8,6900,2,8.2,0,4,0,0,0,2024-02-10 to 2024-02-25,19,2
+Bilderberg Garden Hotel,"Oud Zuid, Amsterdam",2397.2765757300003,2024-02-10,2024-02-25,5,2.7,1682,1,7.7,0,4,1,0,0,2024-02-10 to 2024-02-25,22,2
+Bicycle Hotel Amsterdam,"Oud Zuid, Amsterdam",1468.51877175,2024-02-10,2024-02-25,1,2.3,693,2,8.5,0,2,1,2,2,2024-02-10 to 2024-02-25,22,2
+"Holiday Inn Express Amsterdam - Sloterdijk Station, an IHG Hotel","Westpoort, Amsterdam",1498.4178302100001,2024-02-10,2024-02-25,3,4.1,7435,1,7.9,1,2,0,2,0,2024-02-10 to 2024-02-25,28,2
+Via Suites,"Bijlmermeer, Amsterdam",1689.9312226200002,2024-02-10,2024-02-25,4,6.6,2092,2,8.2,0,2,0,0,0,2024-02-10 to 2024-02-25,6,2
+Room Mate Aitana,"Amsterdam City Center, Amsterdam",2607.44841213,2024-02-10,2024-02-25,4,1.3,9957,2,8.5,0,2,1,0,0,2024-02-10 to 2024-02-25,1,2
+Conscious Hotel Amsterdam City - The Tire Station,"Oud West, Amsterdam",1625.6596339500002,2024-02-10,2024-02-25,3,3.1,2684,2,8.3,0,4,0,0,0,2024-02-10 to 2024-02-25,21,2
+Zoku Amsterdam,"Amsterdam City Center, Amsterdam",2554.46623944,2024-02-10,2024-02-25,4,1.4,2328,5,8.9,0,4,1,0,0,2024-02-10 to 2024-02-25,1,2
+Courtyard by Marriott Amsterdam Arena Atlas,"Zuidoost, Amsterdam",1627.67676303,2024-02-10,2024-02-25,4,7.9,2612,2,8.2,1,3,0,0,0,2024-02-10 to 2024-02-25,32,2
+Best Western Amsterdam,"Slotervaart, Amsterdam",1447.43651943,2024-02-10,2024-02-25,3,4.3,8377,1,7.7,0,1,0,2,0,2024-02-10 to 2024-02-25,24,2
+Wittenberg by Cove,"Amsterdam City Center, Amsterdam",1787.0787618600002,2024-02-10,2024-02-25,4,1.4,371,3,9.0,0,1,0,0,0,2024-02-10 to 2024-02-25,1,2
+The Social Hub Amsterdam West,"Slotervaart, Amsterdam",1326.71785086,2024-02-10,2024-02-25,3,3.9,2902,2,8.0,0,2,0,2,0,2024-02-10 to 2024-02-25,24,2
+Hotel Verdi,"Oud Zuid, Amsterdam",1642.38228471,2024-02-10,2024-02-25,2,2.1,749,5,8.7,0,0,1,0,2,2024-02-10 to 2024-02-25,22,2
+Budget Hostel Sphinx,"Amsterdam City Center, Amsterdam",1606.5945107100001,2024-02-10,2024-02-25,0,1.5,1381,0,6.5,0,0,1,0,2,2024-02-10 to 2024-02-25,1,2
+Clayton Hotel Amsterdam American,"Amsterdam City Center, Amsterdam",2825.08687956,2024-02-10,2024-02-25,4,1.3,3137,5,8.6,0,4,1,0,0,2024-02-10 to 2024-02-25,1,2
+Hotel Victorie,"Zuideramstel, Amsterdam",1984.13925924,2024-02-10,2024-02-25,3,3.0,778,1,7.2,0,0,1,0,0,2024-02-10 to 2024-02-25,31,2
+Campanile Hotel & Restaurant Amsterdam Zuid-Oost,"Zuidoost, Amsterdam",1146.7053476400001,2024-02-10,2024-02-25,3,9.3,2626,1,7.5,1,1,0,2,0,2024-02-10 to 2024-02-25,32,2
+Hotel Casa Amsterdam,"Oost, Amsterdam",1597.74517023,2024-02-10,2024-02-25,3,3.1,9358,5,8.7,1,3,0,0,0,2024-02-10 to 2024-02-25,19,2
+Amadi Panorama Hotel,"IJburg, Amsterdam",1842.54981156,2024-02-10,2024-02-25,4,6.6,4580,1,7.7,1,1,0,0,0,2024-02-10 to 2024-02-25,14,2
+nhow Amsterdam Rai,"Zuideramstel, Amsterdam",2258.25734091,2024-02-10,2024-02-25,4,3.8,9788,3,9.0,1,4,0,0,0,2024-02-10 to 2024-02-25,31,2
+Bon Bed & Breakfast,"Amsterdam Noord, Amsterdam",2057.73193632,2024-02-10,2024-02-25,0,4.7,98,5,8.9,1,2,1,0,2,2024-02-10 to 2024-02-25,2,2
+citizenM Amsterdam South,"Zuideramstel, Amsterdam",1549.85462175,2024-02-10,2024-02-25,4,3.6,3730,5,8.6,1,3,0,0,0,2024-02-10 to 2024-02-25,31,2
+Tribe Amsterdam City,"Amsterdam Noord, Amsterdam",1903.81197378,2024-02-10,2024-02-25,4,4.2,5489,3,9.0,1,3,0,0,0,2024-02-10 to 2024-02-25,2,2
+Hotel Flipper Amsterdam,"Zuideramstel, Amsterdam",817.4090253300001,2024-02-10,2024-02-25,2,2.9,994,0,6.1,1,0,0,1,2,2024-02-10 to 2024-02-25,31,2
+Best Western Amsterdam,"Slotervaart, Amsterdam",1302.6912407700001,2024-02-10,2024-02-25,3,4.3,8377,1,7.7,1,1,0,2,0,2024-02-10 to 2024-02-25,24,2
+Dutch Masters Short Stay Apartments,"Amsterdam City Center, Amsterdam",2755.8538040400003,2024-02-10,2024-02-25,0,1.0,149,5,8.9,1,0,1,0,2,2024-02-10 to 2024-02-25,1,2
+Mercure Amsterdam City Hotel,"Oost, Amsterdam",1581.4780002300001,2024-02-10,2024-02-25,4,4.4,3622,2,8.3,1,2,0,0,0,2024-02-10 to 2024-02-25,19,2
+Bed and Stay Amsterdam,"Amsterdam Noord, Amsterdam",2304.45610371,2024-02-10,2024-02-25,0,6.3,94,3,9.4,1,3,1,0,2,2024-02-10 to 2024-02-25,2,2
+Hotel Schroder,"Amsterdam City Center, Amsterdam",1546.3409130300001,2024-02-10,2024-02-25,1,1.1,520,0,5.5,1,0,1,0,2,2024-02-10 to 2024-02-25,1,2
+Aadam Hotel Wilhelmina,"Oud Zuid, Amsterdam",1339.2761061,2024-02-10,2024-02-25,3,3.1,1301,1,7.2,1,2,0,2,0,2024-02-10 to 2024-02-25,22,2
+Hotel Espresso,"Oud West, Amsterdam",1834.2210205200001,2024-02-10,2024-02-25,3,1.6,1714,1,7.4,1,1,0,0,0,2024-02-10 to 2024-02-25,21,2
+Mövenpick Hotel Amsterdam City Centre,"Zeeburg, Amsterdam",2180.1911920800003,2024-02-10,2024-02-25,4,1.5,4317,2,8.2,1,4,0,0,0,2024-02-10 to 2024-02-25,30,2
+easyHotel Amsterdam Arena Boulevard,"Zuidoost, Amsterdam",1021.9849552500001,2024-02-10,2024-02-25,2,7.5,6762,1,7.3,1,1,0,2,0,2024-02-10 to 2024-02-25,32,2
+Generator Amsterdam,"Oost, Amsterdam",1549.31780514,2024-02-10,2024-02-25,3,2.2,4318,1,7.7,1,2,0,0,0,2024-02-10 to 2024-02-25,19,2
+Mövenpick Hotel Amsterdam City Centre,"Zeeburg, Amsterdam",2180.1911920800003,2024-02-10,2024-02-25,4,1.5,4317,2,8.2,1,4,0,0,0,2024-02-10 to 2024-02-25,30,2
+easyHotel Amsterdam Arena Boulevard,"Zuidoost, Amsterdam",1021.9849552500001,2024-02-10,2024-02-25,2,7.5,6762,1,7.3,1,1,0,2,0,2024-02-10 to 2024-02-25,32,2
+Generator Amsterdam,"Oost, Amsterdam",1549.31780514,2024-02-10,2024-02-25,3,2.2,4318,1,7.7,1,2,0,0,0,2024-02-10 to 2024-02-25,19,2
+Golden Mansion Aparthotel,"Amsterdam City Center, Amsterdam",2008.9304263200002,2024-02-10,2024-02-25,0,1.6,1182,1,7.6,1,1,0,0,2,2024-02-10 to 2024-02-25,1,2
+Bob W Amsterdam Noord,"Amsterdam Noord, Amsterdam",1793.1952177800001,2024-02-10,2024-02-25,0,2.8,320,5,8.8,1,0,0,0,2,2024-02-10 to 2024-02-25,2,2
+Amsterdam Downtown Hotel,"Amsterdam City Center, Amsterdam",1708.3131247200001,2024-02-10,2024-02-25,2,1.0,1964,1,7.0,1,0,0,0,0,2024-02-10 to 2024-02-25,1,2
+PREMIER SUITES PLUS Amsterdam,"Zuideramstel, Amsterdam",2296.9244040000003,2024-02-10,2024-02-25,4,4.3,999,5,8.9,1,4,0,0,0,2024-02-10 to 2024-02-25,31,2
+Eden Hotel Amsterdam,"Amsterdam City Center, Amsterdam",2751.78701154,2024-02-10,2024-02-25,4,0.8,8483,2,8.2,1,2,0,0,0,2024-02-10 to 2024-02-25,1,2
+Leonardo Hotel Amsterdam City Center,"Oud West, Amsterdam",1729.1513694900002,2024-02-10,2024-02-25,4,1.6,2409,1,7.4,1,4,0,0,0,2024-02-10 to 2024-02-25,21,2
+Fletcher Hotel Amsterdam,"Zuidoost, Amsterdam",1912.84025313,2024-02-10,2024-02-25,4,9.4,3422,1,7.2,1,1,0,0,0,2024-02-10 to 2024-02-25,32,2
+ibis Styles Amsterdam Amstel,"Oud Zuid, Amsterdam",1816.4410037100001,2024-02-10,2024-02-25,3,1.7,1202,1,7.9,1,3,0,0,0,2024-02-10 to 2024-02-25,22,2
+The Manor Amsterdam,"Oost, Amsterdam",1817.44956825,2024-02-10,2024-02-25,4,2.7,2279,2,8.2,1,4,0,0,0,2024-02-10 to 2024-02-25,19,2
+The Social Hub Amsterdam City,"Oost, Amsterdam",1905.4061564400001,2024-02-10,2024-02-25,4,2.4,6949,2,8.4,2,2,0,0,0,2024-02-10 to 2024-02-25,19,2
+Mozart Hotel,"Amsterdam City Center, Amsterdam",1952.01159849,2024-02-10,2024-02-25,2,1.1,4534,1,7.2,1,1,0,0,0,2024-02-10 to 2024-02-25,1,2
+Amsterdam ID Aparthotel,"Westpoort, Amsterdam",1905.97550739,2024-02-10,2024-02-25,3,4.3,1522,5,8.7,1,4,0,0,0,2024-02-10 to 2024-02-25,28,2
+Sonder Park House,"Oud Zuid, Amsterdam",1709.43555945,2024-02-10,2024-02-25,4,1.7,3152,1,7.5,1,0,0,0,0,2024-02-10 to 2024-02-25,22,2
+Boutique Apartments Amsterdam,"Westpoort, Amsterdam",1947.48932523,2024-02-10,2024-02-25,4,4.2,1712,5,8.9,1,0,0,0,0,2024-02-10 to 2024-02-25,28,2
+Park Plaza Vondelpark Amsterdam,"Oud Zuid, Amsterdam",2418.91191183,2024-02-10,2024-02-25,4,2.7,3082,5,8.6,1,4,0,0,0,2024-02-10 to 2024-02-25,22,2
+"Park Centraal Amsterdam, part of Sircle Collection","Oud Zuid, Amsterdam",2160.86579412,2024-02-10,2024-02-25,4,1.4,2309,2,8.3,1,2,0,0,0,2024-02-10 to 2024-02-25,22,2
+"Radisson Blu Hotel, Amsterdam City Center","Amsterdam City Center, Amsterdam",3126.82661589,2024-02-10,2024-02-25,4,400.0,6355,2,8.4,1,4,0,0,1,2024-02-10 to 2024-02-25,1,2
+WestCord Art Hotel Amsterdam 4 stars,"Westerpark, Amsterdam",1947.9936075,2024-02-10,2024-02-25,4,2.8,771,2,8.0,1,2,0,0,0,2024-02-10 to 2024-02-25,27,2
+Guest House Amsterdam,"Amsterdam Noord, Amsterdam",790.7471337000001,2024-02-10,2024-02-25,0,2.4,337,0,4.7,1,0,0,1,2,2024-02-10 to 2024-02-25,2,2
+Via Suites,"Bijlmermeer, Amsterdam",1689.9312226200002,2024-02-10,2024-02-25,4,6.6,2092,2,8.2,1,2,0,0,0,2024-02-10 to 2024-02-25,6,2
+ibis Styles Amsterdam Central Station,"Amsterdam City Center, Amsterdam",2304.45610371,2024-02-10,2024-02-25,3,0.6,3775,1,7.8,1,3,0,0,0,2024-02-10 to 2024-02-25,1,2
+Grand Hotel Amrâth Amsterdam,"Amsterdam City Center, Amsterdam",2711.1516208800003,2024-02-10,2024-02-25,5,0.8,2607,1,7.7,0,0,0,0,0,2024-02-10 to 2024-02-25,1,2
+Hotel Cornelisz,"Oud Zuid, Amsterdam",1894.16554197,2024-02-10,2024-02-25,3,1.5,1895,2,8.4,0,0,0,0,0,2024-02-10 to 2024-02-25,22,2
+Cityden BoLo District,"Bos en Lommer, Amsterdam",2121.9059219700002,2024-02-10,2024-02-25,4,3.3,4396,2,8.4,0,3,0,0,0,2024-02-10 to 2024-02-25,8,2
+"Holiday Inn Express Amsterdam - South, an IHG Hotel","Zuideramstel, Amsterdam",1632.75212007,2024-02-10,2024-02-25,3,5.5,2591,2,8.0,2,4,0,0,0,2024-02-10 to 2024-02-25,31,2
+Acostar Hotel,"Amsterdam City Center, Amsterdam",1622.3248641,2024-02-10,2024-02-25,2,1.0,1380,0,6.9,0,2,1,0,2,2024-02-10 to 2024-02-25,1,2
+Bastion Hotel Amsterdam Amstel,Amsterdam,1285.2691017,2024-02-10,2024-02-25,3,5.0,2348,0,6.9,0,4,0,2,0,2024-02-10 to 2024-02-25,0,2
+citizenM Amstel Amsterdam,"Amsterdam City Center, Amsterdam",2386.3775718300003,2024-02-10,2024-02-25,4,1.6,2566,5,8.8,0,3,0,0,0,2024-02-10 to 2024-02-25,1,2
+Belfort Hotel,"Oud Zuid, Amsterdam",1075.40634153,2024-02-10,2024-02-25,3,3.3,3135,0,6.3,0,0,0,2,0,2024-02-10 to 2024-02-25,22,2
+"Holiday Inn Amsterdam - Arena Towers, an IHG Hotel","Zuidoost, Amsterdam",1609.42499829,2024-02-10,2024-02-25,4,7.8,3007,1,7.9,1,4,0,0,0,2024-02-10 to 2024-02-25,32,2
+Eden Hotel Amsterdam,"Amsterdam City Center, Amsterdam",2751.78701154,2024-02-10,2024-02-25,4,0.8,8483,2,8.2,0,2,0,0,0,2024-02-10 to 2024-02-25,1,2
+Hotel Amsterdam Inn,"Amsterdam City Center, Amsterdam",1392.5348206800002,2024-02-10,2024-02-25,2,1.2,1860,0,6.8,0,1,0,2,2,2024-02-10 to 2024-02-25,1,2
+NH Amsterdam Caransa,"Amsterdam City Center, Amsterdam",2434.98387579,2024-02-10,2024-02-25,4,0.8,1269,1,7.8,0,4,0,0,0,2024-02-10 to 2024-02-25,1,2
+The ED Amsterdam,"Oud West, Amsterdam",2035.3483104000002,2024-02-10,2024-02-25,3,1.4,1691,2,8.4,0,4,0,0,0,2024-02-10 to 2024-02-25,21,2
+The Muse Amsterdam - Boutique Hotel,"Oud Zuid, Amsterdam",1834.0746159900002,2024-02-10,2024-02-25,3,2.3,1362,2,8.2,0,2,0,0,0,2024-02-10 to 2024-02-25,22,2
+Leonardo Boutique Museumhotel,"Oud Zuid, Amsterdam",1904.25118737,2024-02-10,2024-02-25,4,1.4,3432,1,7.7,0,4,0,0,0,2024-02-10 to 2024-02-25,22,2
+Perl,"Zeeburg, Amsterdam",1910.53031499,2024-02-10,2024-02-25,0,3.6,1,2,8.0,0,0,0,0,2,2024-02-10 to 2024-02-25,30,2
+Quentin England Hotel,"Oud West, Amsterdam",1556.9308407,2024-02-10,2024-02-25,2,1.7,1370,0,6.2,0,3,0,0,2,2024-02-10 to 2024-02-25,21,2
+The Manor Amsterdam,"Oost, Amsterdam",1817.44956825,2024-02-10,2024-02-25,4,2.7,2279,2,8.2,0,4,0,0,0,2024-02-10 to 2024-02-25,19,2
+Bon Bed & Breakfast,"Amsterdam Noord, Amsterdam",2057.73193632,2024-02-10,2024-02-25,0,4.7,98,5,8.9,0,2,1,0,2,2024-02-10 to 2024-02-25,2,2
+Hotel Flipper Amsterdam,"Zuideramstel, Amsterdam",817.4090253300001,2024-02-10,2024-02-25,2,2.9,994,0,6.1,0,0,0,1,2,2024-02-10 to 2024-02-25,31,2
+ibis Amsterdam Centre Stopera,"Amsterdam City Center, Amsterdam",1984.52967132,2024-02-10,2024-02-25,3,1.0,3647,1,7.8,1,0,0,0,0,2024-02-10 to 2024-02-25,1,2
+Postillion Hotel Amsterdam,"Oost, Amsterdam",1793.30908797,2024-02-10,2024-02-25,4,4.8,8666,2,8.5,0,1,0,0,0,2024-02-10 to 2024-02-25,19,2
+The July - Boat & Co,"Westerpark, Amsterdam",2628.774672,2024-02-10,2024-02-25,4,2.5,1927,3,9.1,0,4,0,0,0,2024-02-10 to 2024-02-25,27,2
+Villa ANA-Mavrovo,Mavrovo,677.7716380500001,2024-02-10,2024-02-25,3,0.7,73,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Ski Center House Mavrovo,Mavrovo,938.84344938,2024-02-10,2024-02-25,0,0.6,1,4,10.0,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mia's Favorite Hotel,Mavrovo,1974.2976213900001,2024-02-10,2024-02-25,4,150.0,662,5,8.8,1,0,1,0,0,2024-02-10 to 2024-02-25,18,2
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-02-10,2024-02-25,3,0.9,62,1,7.6,1,0,1,0,0,2024-02-10 to 2024-02-25,18,2
+Vila Simona,Mavrovo,979.00709211,2024-02-10,2024-02-25,0,0.7,112,5,8.8,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mavrovo Square One Bedroom APARTMENT,Mavrovo,1084.45088805,2024-02-10,2024-02-25,0,250.0,1,4,10.0,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+Mavrovo Forest Apartments,Mavrovo,839.20703313,2024-02-10,2024-02-25,0,0.9,93,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mount Apartment,Mavrovo,1088.20860432,2024-02-10,2024-02-25,0,350.0,0,0,,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+Karbula Apartments & Villa,Mavrovo,969.23052294,2024-02-10,2024-02-25,0,0.7,69,5,8.7,1,0,0,1,2,2024-02-10 to 2024-02-25,18,2
+Mountain Apartment,Mavrovo,1782.31248105,2024-02-10,2024-02-25,0,1.0,0,0,,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Mickitos Apartments - Mavrovo,Mavrovo,1626.6681984900001,2024-02-10,2024-02-25,0,0.9,11,3,9.4,1,1,1,0,2,2024-02-10 to 2024-02-25,18,2
+ǀ Villa Mavrovo ǀ Spacious ǀ Lake View ǀ,Mavrovo,1084.45088805,2024-02-10,2024-02-25,0,2.8,27,0,6.4,1,0,1,2,2,2024-02-10 to 2024-02-25,18,2
+Villa Roza,Mavrovo,1265.19541392,2024-02-10,2024-02-25,0,350.0,0,0,,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+"Mavrovo Square "" Villas & Apartment """,Mavrovo,1382.67691566,2024-02-10,2024-02-25,0,300.0,19,4,10.0,1,0,0,2,1,2024-02-10 to 2024-02-25,18,2
+Mavrovo Twins Apartment,Mavrovo,903.70636218,2024-02-10,2024-02-25,0,0.9,8,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Yeti (snowman) Guest House,Mavrovo,783.2154339900001,2024-02-10,2024-02-25,0,0.5,39,1,7.3,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mavrovo Lux Residence,Mavrovo,943.87000491,2024-02-10,2024-02-25,0,1.0,1,4,10.0,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Line Apartments Mavrovo,Mavrovo,2112.40589469,2024-02-10,2024-02-25,0,0.8,5,2,,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+LAKEVIEW Hotel & Apartments,Mavrovo,1867.65005487,2024-02-10,2024-02-25,0,0.9,149,2,8.1,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Mount House Mavrovo,Mavrovo,1728.3380109900002,2024-02-10,2024-02-25,0,200.0,25,3,9.3,1,0,1,0,1,2024-02-10 to 2024-02-25,18,2
+Sindy Wooden Apartments,Mavrovo,1807.41272436,2024-02-10,2024-02-25,0,2.4,27,4,9.6,1,0,0,0,2,2024-02-10 to 2024-02-25,18,2
+Villa Maja,Mavrovo,1931.67763599,2024-02-10,2024-02-25,0,1.8,30,3,9.4,1,2,1,0,2,2024-02-10 to 2024-02-25,18,2
+Kira Apartments Mavrovo,Mavrovo,2409.88363248,2024-02-10,2024-02-25,0,2.8,2,4,10.0,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Apartment Antica,Mavrovo,1054.32408921,2024-02-10,2024-02-25,0,0.7,0,0,,1,0,1,2,2,2024-02-10 to 2024-02-25,18,2
+Apartment Antica,Mavrovo,1054.32408921,2024-02-10,2024-02-25,0,0.7,0,0,,1,0,1,2,2,2024-02-10 to 2024-02-25,18,2
+Villa Jelena Mavrovo,Mavrovo,813.3422328300001,2024-02-10,2024-02-25,0,0.7,6,4,10.0,1,0,0,1,2,2024-02-10 to 2024-02-25,18,2
+Villa ANA-Mavrovo,Mavrovo,677.7716380500001,2024-02-10,2024-02-25,3,0.7,73,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Ski Center House Mavrovo,Mavrovo,938.84344938,2024-02-10,2024-02-25,0,0.6,1,4,10.0,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mia's Favorite Hotel,Mavrovo,1974.2976213900001,2024-02-10,2024-02-25,4,150.0,662,5,8.8,1,0,1,0,0,2024-02-10 to 2024-02-25,18,2
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-02-10,2024-02-25,3,0.9,62,1,7.6,1,0,1,0,0,2024-02-10 to 2024-02-25,18,2
+Vila Simona,Mavrovo,979.00709211,2024-02-10,2024-02-25,0,0.7,112,5,8.8,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mavrovo Square One Bedroom APARTMENT,Mavrovo,1084.45088805,2024-02-10,2024-02-25,0,250.0,1,4,10.0,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+ǀ Villa Mavrovo ǀ Spacious ǀ Lake View ǀ,Mavrovo,1084.45088805,2024-02-10,2024-02-25,0,2.8,27,0,6.4,1,0,1,2,2,2024-02-10 to 2024-02-25,18,2
+Mavrovo Forest Apartments,Mavrovo,839.20703313,2024-02-10,2024-02-25,0,0.9,93,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mount Apartment,Mavrovo,1088.20860432,2024-02-10,2024-02-25,0,350.0,0,0,,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+Karbula Apartments & Villa,Mavrovo,969.23052294,2024-02-10,2024-02-25,0,0.7,69,5,8.7,1,0,0,1,2,2024-02-10 to 2024-02-25,18,2
+Mountain Apartment,Mavrovo,1782.31248105,2024-02-10,2024-02-25,0,1.0,0,0,,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Mickitos Apartments - Mavrovo,Mavrovo,1626.6681984900001,2024-02-10,2024-02-25,0,0.9,11,3,9.4,1,1,1,0,2,2024-02-10 to 2024-02-25,18,2
+Villa Roza,Mavrovo,1265.19541392,2024-02-10,2024-02-25,0,350.0,0,0,,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+"Mavrovo Square "" Villas & Apartment """,Mavrovo,1382.67691566,2024-02-10,2024-02-25,0,300.0,19,4,10.0,1,0,0,2,1,2024-02-10 to 2024-02-25,18,2
+Mavrovo Twins Apartment,Mavrovo,903.70636218,2024-02-10,2024-02-25,0,0.9,8,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Yeti (snowman) Guest House,Mavrovo,783.2154339900001,2024-02-10,2024-02-25,0,0.5,39,1,7.3,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mavrovo Lux Residence,Mavrovo,943.87000491,2024-02-10,2024-02-25,0,1.0,1,4,10.0,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Line Apartments Mavrovo,Mavrovo,2112.40589469,2024-02-10,2024-02-25,0,0.8,5,2,,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+LAKEVIEW Hotel & Apartments,Mavrovo,1867.65005487,2024-02-10,2024-02-25,0,0.9,149,2,8.1,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Mount House Mavrovo,Mavrovo,1728.3380109900002,2024-02-10,2024-02-25,0,200.0,25,3,9.3,1,0,1,0,1,2024-02-10 to 2024-02-25,18,2
+Sindy Wooden Apartments,Mavrovo,1807.41272436,2024-02-10,2024-02-25,0,2.4,27,4,9.6,1,0,0,0,2,2024-02-10 to 2024-02-25,18,2
+Villa Maja,Mavrovo,1931.67763599,2024-02-10,2024-02-25,0,1.8,30,3,9.4,1,2,1,0,2,2024-02-10 to 2024-02-25,18,2
+Kira Apartments Mavrovo,Mavrovo,2409.88363248,2024-02-10,2024-02-25,0,2.8,2,4,10.0,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Apartment Antica,Mavrovo,1054.32408921,2024-02-10,2024-02-25,0,0.7,0,0,,1,0,1,2,2,2024-02-10 to 2024-02-25,18,2
+Ski Center House Mavrovo,Mavrovo,938.84344938,2024-02-10,2024-02-25,0,0.6,1,4,10.0,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Villa ANA-Mavrovo,Mavrovo,677.7716380500001,2024-02-10,2024-02-25,3,0.7,73,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Hotel Fersped,Mavrovo,1521.2406697200001,2024-02-10,2024-02-25,3,0.9,62,1,7.6,1,0,1,0,0,2024-02-10 to 2024-02-25,18,2
+Mount Apartment,Mavrovo,1088.20860432,2024-02-10,2024-02-25,0,350.0,0,0,,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+Villa Roza,Mavrovo,1265.19541392,2024-02-10,2024-02-25,0,350.0,0,0,,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+Mavrovo Square One Bedroom APARTMENT,Mavrovo,1084.45088805,2024-02-10,2024-02-25,0,250.0,1,4,10.0,1,0,1,2,1,2024-02-10 to 2024-02-25,18,2
+Mountain Apartment,Mavrovo,1782.31248105,2024-02-10,2024-02-25,0,1.0,0,0,,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Mavrovo Lux Residence,Mavrovo,943.87000491,2024-02-10,2024-02-25,0,1.0,1,4,10.0,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mia's Favorite Hotel,Mavrovo,1974.2976213900001,2024-02-10,2024-02-25,4,150.0,662,5,8.8,1,0,1,0,0,2024-02-10 to 2024-02-25,18,2
+Vila Simona,Mavrovo,979.00709211,2024-02-10,2024-02-25,0,0.7,112,5,8.8,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Karbula Apartments & Villa,Mavrovo,969.23052294,2024-02-10,2024-02-25,0,0.7,69,5,8.7,1,0,0,1,2,2024-02-10 to 2024-02-25,18,2
+"Mavrovo Square "" Villas & Apartment """,Mavrovo,1382.67691566,2024-02-10,2024-02-25,0,300.0,19,4,10.0,1,0,0,2,1,2024-02-10 to 2024-02-25,18,2
+Mavrovo Forest Apartments,Mavrovo,839.20703313,2024-02-10,2024-02-25,0,0.9,93,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mickitos Apartments - Mavrovo,Mavrovo,1626.6681984900001,2024-02-10,2024-02-25,0,0.9,11,3,9.4,1,1,1,0,2,2024-02-10 to 2024-02-25,18,2
+ǀ Villa Mavrovo ǀ Spacious ǀ Lake View ǀ,Mavrovo,1084.45088805,2024-02-10,2024-02-25,0,2.8,27,0,6.4,1,0,1,2,2,2024-02-10 to 2024-02-25,18,2
+Line Apartments Mavrovo,Mavrovo,2112.40589469,2024-02-10,2024-02-25,0,0.8,5,2,,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+LAKEVIEW Hotel & Apartments,Mavrovo,1867.65005487,2024-02-10,2024-02-25,0,0.9,149,2,8.1,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Yeti (snowman) Guest House,Mavrovo,783.2154339900001,2024-02-10,2024-02-25,0,0.5,39,1,7.3,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Mount House Mavrovo,Mavrovo,1728.3380109900002,2024-02-10,2024-02-25,0,200.0,25,3,9.3,1,0,1,0,1,2024-02-10 to 2024-02-25,18,2
+Mavrovo Twins Apartment,Mavrovo,903.70636218,2024-02-10,2024-02-25,0,0.9,8,3,9.1,1,0,1,1,2,2024-02-10 to 2024-02-25,18,2
+Apartment Antica,Mavrovo,1054.32408921,2024-02-10,2024-02-25,0,0.7,0,0,,1,0,1,2,2,2024-02-10 to 2024-02-25,18,2
+Sindy Wooden Apartments,Mavrovo,1807.41272436,2024-02-10,2024-02-25,0,2.4,27,4,9.6,1,0,0,0,2,2024-02-10 to 2024-02-25,18,2
+Villa Maja,Mavrovo,1931.67763599,2024-02-10,2024-02-25,0,1.8,30,3,9.4,1,2,1,0,2,2024-02-10 to 2024-02-25,18,2
+Kira Apartments Mavrovo,Mavrovo,2409.88363248,2024-02-10,2024-02-25,0,2.8,2,4,10.0,1,0,1,0,2,2024-02-10 to 2024-02-25,18,2
+Citybox Antwerp,"Antwerp Center, Antwerp",1522.24923426,2024-02-10,2024-02-25,3,1.1,12173,2,8.5,1,1,1,0,0,2024-02-10 to 2024-02-25,4,2
+Hotel Goodnight Antwerp,"Antwerp Center, Antwerp",2835.4002653400003,2024-02-10,2024-02-25,0,1.3,502,5,8.9,2,1,1,0,2,2024-02-10 to 2024-02-25,4,2
+Arass Hôtel & Business Flats,"Antwerp Center, Antwerp",1563.1937011500002,2024-02-10,2024-02-25,3,2.3,1058,1,7.5,2,1,1,0,0,2024-02-10 to 2024-02-25,4,2
+Citytrip Double Apartments,"Antwerp Center, Antwerp",1555.51559691,2024-02-10,2024-02-25,0,1.0,1,3,9.0,1,0,0,0,2,2024-02-10 to 2024-02-25,4,2
+YAYS Antwerp Opera,"Antwerp Center, Antwerp",1690.8259169700002,2024-02-10,2024-02-25,0,1.2,2587,3,9.2,1,2,1,0,2,2024-02-10 to 2024-02-25,4,2
+PREMIER SUITES PLUS Antwerp,"Antwerp Center, Antwerp",1437.61114875,2024-02-10,2024-02-25,4,1.3,3027,2,8.0,1,1,1,2,0,2024-02-10 to 2024-02-25,4,2
+prizeotel Antwerp-City,"Antwerp Center, Antwerp",1243.7878182000002,2024-02-10,2024-02-25,2,1.2,9265,2,8.3,1,2,0,2,0,2024-02-10 to 2024-02-25,4,2
+Leonardo Hotel Antwerp The Plaza,"Antwerp Center, Antwerp",2008.9304263200002,2024-02-10,2024-02-25,4,2.0,2168,2,8.2,1,1,1,0,0,2024-02-10 to 2024-02-25,4,2
+Cadix 35,"Antwerp Center, Antwerp",1583.49512931,2024-02-10,2024-02-25,0,1.6,50,4,9.5,1,1,1,0,2,2024-02-10 to 2024-02-25,4,2
+P6 Antwerp,"Antwerp Center, Antwerp",1894.7674272600002,2024-02-10,2024-02-25,3,100.0,1223,2,8.0,1,1,1,0,0,2024-02-10 to 2024-02-25,4,2
+Hotel Banks,"Antwerp Center, Antwerp",1903.0474167900002,2024-02-10,2024-02-25,4,350.0,1851,1,7.5,1,1,1,0,1,2024-02-10 to 2024-02-25,4,2
+"Sapphire House Antwerp, Autograph Collection","Antwerp Center, Antwerp",2486.19292695,2024-02-10,2024-02-25,5,500.0,1488,5,8.6,1,2,1,0,1,2024-02-10 to 2024-02-25,4,2
+Hotel Urban Dreams,"Antwerp Center, Antwerp",1653.78557088,2024-02-10,2024-02-25,0,300.0,608,2,8.3,1,1,1,0,1,2024-02-10 to 2024-02-25,4,2
+ibis Antwerpen Centrum,"Antwerp Center, Antwerp",1238.61485814,2024-02-10,2024-02-25,3,1.1,3439,1,7.6,1,1,0,2,0,2024-02-10 to 2024-02-25,4,2
+Qstay Good Living Apartments,"Antwerp Center, Antwerp",2072.19345045,2024-02-10,2024-02-25,0,1.3,1628,2,8.0,1,2,1,0,2,2024-02-10 to 2024-02-25,4,2
+The Red With Pearls,"Antwerp Center, Antwerp",1603.1296035,2024-02-10,2024-02-25,0,0.8,35,1,7.9,2,2,1,0,2,2024-02-10 to 2024-02-25,4,2
+B&B - Apartment - Peace in the City,"Antwerp Center, Antwerp",1797.47348349,2024-02-10,2024-02-25,0,2.1,22,4,9.6,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Hotel National Antwerp,"Antwerp Center, Antwerp",1103.20693506,2024-02-10,2024-02-25,3,0.5,2081,1,7.4,1,1,0,2,0,2024-02-10 to 2024-02-25,4,2
+The Suit,"Antwerp Center, Antwerp",1914.22296258,2024-02-10,2024-02-25,0,0.8,55,2,8.2,2,2,1,0,2,2024-02-10 to 2024-02-25,4,2
+Hotel1875,"Antwerp Center, Antwerp",2135.00099382,2024-02-10,2024-02-25,0,400.0,1037,1,7.6,1,1,1,0,1,2024-02-10 to 2024-02-25,4,2
+"Holiday Inn Express Antwerp - City Centre, an IHG Hotel","Antwerp Center, Antwerp",1502.5984929,2024-02-10,2024-02-25,0,1.1,1177,2,8.5,1,2,0,0,2,2024-02-10 to 2024-02-25,4,2
+"Radisson BLU Astrid Hotel, Antwerp","Antwerp Center, Antwerp",1872.6766104,2024-02-10,2024-02-25,4,1.5,7182,1,7.9,1,1,0,0,0,2024-02-10 to 2024-02-25,4,2
+Radisson Hotel Antwerp Berchem,"Berchem, Antwerp",1619.64078105,2024-02-10,2024-02-25,4,3.4,3857,5,8.7,1,1,0,0,0,2024-02-10 to 2024-02-25,5,2
+Smartflats - Raphael Suites,"Antwerp Center, Antwerp",1245.30066501,2024-02-10,2024-02-25,0,0.8,452,1,7.6,1,0,0,2,2,2024-02-10 to 2024-02-25,4,2
+"Lindner Hotel Antwerp, part of JdV by Hyatt","Antwerp Center, Antwerp",1985.1478237800002,2024-02-10,2024-02-25,4,1.8,1890,2,8.4,1,4,0,0,0,2024-02-10 to 2024-02-25,4,2
+Astoria Hotel Antwerp,"Antwerp Center, Antwerp",1249.8229382700001,2024-02-10,2024-02-25,3,1.4,3250,1,7.0,1,0,0,2,0,2024-02-10 to 2024-02-25,4,2
+Park Inn by Radisson Antwerpen,"Antwerp Center, Antwerp",1718.04089238,2024-02-10,2024-02-25,3,1.6,3076,2,8.0,1,1,0,0,0,2024-02-10 to 2024-02-25,4,2
+NH Collection Antwerp Centre,"Antwerp Center, Antwerp",2047.40228337,2024-02-10,2024-02-25,4,1.6,5563,5,8.7,1,4,0,0,0,2024-02-10 to 2024-02-25,4,2
+Mercure Antwerp City Centre,"Antwerp Center, Antwerp",1529.2766517,2024-02-10,2024-02-25,4,1.5,1929,2,8.0,1,1,0,0,0,2024-02-10 to 2024-02-25,4,2
+"Holiday Inn Express Antwerpen City North, an IHG Hotel","Antwerp Center, Antwerp",1580.4857028600002,2024-02-10,2024-02-25,0,1.3,4027,1,7.9,1,0,0,0,2,2024-02-10 to 2024-02-25,4,2
+Antwerp Harbour Hotel,"Antwerp Center, Antwerp",1607.58680808,2024-02-10,2024-02-25,3,3.0,2513,1,7.6,1,2,0,0,0,2024-02-10 to 2024-02-25,4,2
+ibis budget Antwerpen Port,"Antwerp Center, Antwerp",915.7603351500001,2024-02-10,2024-02-25,1,5.2,3764,1,7.1,1,1,0,1,2,2024-02-10 to 2024-02-25,4,2
+Aparthotel Adagio Antwerp City Center,"Antwerp Center, Antwerp",1574.45058279,2024-02-10,2024-02-25,0,2.2,483,2,8.5,1,1,0,0,2,2024-02-10 to 2024-02-25,4,2
+YUST Antwerp,"Berchem, Antwerp",1463.2644758400002,2024-02-10,2024-02-25,0,2.7,3819,5,8.8,1,2,0,2,2,2024-02-10 to 2024-02-25,5,2
+Hyllit Hotel,"Antwerp Center, Antwerp",1658.29157697,2024-02-10,2024-02-25,4,1.3,1243,1,7.9,1,1,0,0,0,2024-02-10 to 2024-02-25,4,2
+Van der Valk Hotel Antwerpen,"Borgerhout, Antwerp",1832.51296767,2024-02-10,2024-02-25,4,3.5,2906,5,8.6,1,2,0,0,0,2024-02-10 to 2024-02-25,7,2
+Leonardo Hotel Antwerpen,"Antwerp Center, Antwerp",1706.3773314900002,2024-02-10,2024-02-25,4,1.5,3883,1,7.9,1,2,0,0,0,2024-02-10 to 2024-02-25,4,2
+SLEEP INN - Black and White modern flat with cityview,"Antwerp Center, Antwerp",1322.92760025,2024-02-10,2024-02-25,0,1.0,114,2,8.4,1,0,0,2,2,2024-02-10 to 2024-02-25,4,2
+Antwerp Center Cozy Cityflats,"Antwerp Center, Antwerp",1745.49987534,2024-02-10,2024-02-25,0,0.8,16,0,5.9,1,2,0,0,2,2024-02-10 to 2024-02-25,4,2
+Hotel Rubens-Grote Markt,"Antwerp Center, Antwerp",2442.71078154,2024-02-10,2024-02-25,4,150.0,3576,5,8.8,1,1,0,0,0,2024-02-10 to 2024-02-25,4,2
+Room in Guest room - Lockable room center,"Borgerhout, Antwerp",784.3378687200001,2024-02-10,2024-02-25,0,2.8,1,0,1.0,1,0,1,1,2,2024-02-10 to 2024-02-25,7,2
+Condo Gardens Antwerp,"Antwerp Center, Antwerp",890.6438246700001,2024-02-10,2024-02-25,0,1.5,596,0,5.2,1,0,0,1,2,2024-02-10 to 2024-02-25,4,2
+Century Hotel Antwerpen Centrum,"Antwerp Center, Antwerp",1099.51428747,2024-02-10,2024-02-25,2,1.5,2608,0,6.8,1,1,0,2,0,2024-02-10 to 2024-02-25,4,2
+Huidreal Meir,"Antwerp Center, Antwerp",2082.5556377400003,2024-02-10,2024-02-25,0,0.5,21,0,6.9,1,0,0,0,2,2024-02-10 to 2024-02-25,4,2
+Hotel Matelote,"Antwerp Center, Antwerp",2408.3707856700003,2024-02-10,2024-02-25,3,150.0,806,2,8.5,1,0,0,0,0,2024-02-10 to 2024-02-25,4,2
+SLEEP INN - Arizona flat with cityview,"Antwerp Center, Antwerp",2345.66084532,2024-02-10,2024-02-25,0,1.0,45,3,9.0,1,1,0,0,2,2024-02-10 to 2024-02-25,4,2
+Oever House,"Antwerp Center, Antwerp",3110.9986594800002,2024-02-10,2024-02-25,0,400.0,83,3,9.2,1,0,0,0,1,2024-02-10 to 2024-02-25,4,2
+Ambassador Suites Antwerp,"Antwerp Center, Antwerp",1199.91526071,2024-02-10,2024-02-25,0,2.1,817,0,6.4,1,0,0,2,2,2024-02-10 to 2024-02-25,4,2
+"Kaai11, Boutique Hotel Riverview","Antwerp Center, Antwerp",1632.71958573,2024-02-10,2024-02-25,0,0.8,620,1,7.5,1,2,0,0,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Palace,"Antwerp Center, Antwerp",1569.73310349,2024-02-10,2024-02-25,0,200.0,512,2,8.3,1,2,1,0,1,2024-02-10 to 2024-02-25,4,2
+Antwerp Harbour Hotel,"Antwerp Center, Antwerp",1607.58680808,2024-02-10,2024-02-25,3,3.0,2513,1,7.6,1,2,0,0,0,2024-02-10 to 2024-02-25,4,2
+"Hotel Indigo Antwerp City Centre, an IHG Hotel","Antwerp Center, Antwerp",1566.17059326,2024-02-10,2024-02-25,4,1.5,2809,2,8.4,2,2,0,0,0,2024-02-10 to 2024-02-25,4,2
+Antwerp Business Suites,"Antwerp Center, Antwerp",2456.06612811,2024-02-10,2024-02-25,4,250.0,88,4,9.5,1,0,1,0,1,2024-02-10 to 2024-02-25,4,2
+"Holiday Inn Express Antwerpen City North, an IHG Hotel","Antwerp Center, Antwerp",1580.4857028600002,2024-02-10,2024-02-25,0,1.3,4027,1,7.9,1,0,0,0,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Centrum,"Antwerp Center, Antwerp",1680.70773723,2024-02-10,2024-02-25,0,0.7,111,2,8.2,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Riverside Residence,"Antwerp Center, Antwerp",1415.19498849,2024-02-10,2024-02-25,0,200.0,853,1,7.8,1,2,1,2,1,2024-02-10 to 2024-02-25,4,2
+Suikerrui 16 App 103,"Antwerp Center, Antwerp",1171.20370566,2024-02-10,2024-02-25,0,100.0,58,1,7.7,1,0,0,2,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites,"Antwerp Center, Antwerp",1569.73310349,2024-02-10,2024-02-25,0,300.0,324,2,8.5,1,2,1,0,1,2024-02-10 to 2024-02-25,4,2
+B&B Middelheim,"Wilrijk, Antwerp",1220.00521566,2024-02-10,2024-02-25,0,5.2,78,1,7.8,1,0,1,2,2,2024-02-10 to 2024-02-25,29,2
+Guesthouse Bernardin,"Antwerp Center, Antwerp",2183.9489083500002,2024-02-10,2024-02-25,0,0.7,331,2,8.5,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Boutique,"Antwerp Center, Antwerp",1569.73310349,2024-02-10,2024-02-25,0,250.0,474,2,8.4,1,2,1,0,1,2024-02-10 to 2024-02-25,4,2
+Antwerp For Two B&B,"Antwerp Center, Antwerp",1697.02370874,2024-02-10,2024-02-25,0,450.0,336,2,8.3,1,1,1,0,1,2024-02-10 to 2024-02-25,4,2
+Simone's Kitchen B&B,"Antwerp Center, Antwerp",1248.24502278,2024-02-10,2024-02-25,0,1.8,655,1,7.8,1,0,1,2,2,2024-02-10 to 2024-02-25,4,2
+SLEEP INN - Black and White modern flat with cityview,"Antwerp Center, Antwerp",1322.92760025,2024-02-10,2024-02-25,0,1.0,114,2,8.4,1,0,0,2,2,2024-02-10 to 2024-02-25,4,2
+The India Yellow Studio,"Antwerp Center, Antwerp",1616.9566980000002,2024-02-10,2024-02-25,0,1.1,59,2,8.4,2,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Mercure Antwerp City Centre,"Antwerp Center, Antwerp",1529.2766517,2024-02-10,2024-02-25,4,1.5,1929,2,8.0,1,1,0,0,0,2024-02-10 to 2024-02-25,4,2
+CASA DI MARCO,"Deurne, Antwerp",921.33997446,2024-02-10,2024-02-25,0,4.4,119,0,6.8,2,1,1,1,2,2024-02-10 to 2024-02-25,10,2
+Harmony House,"Hoboken, Antwerp",1152.21991827,2024-02-10,2024-02-25,0,6.0,138,1,7.9,1,0,0,2,2,2024-02-10 to 2024-02-25,13,2
+casa di Gino,"Deurne, Antwerp",1025.8240073700001,2024-02-10,2024-02-25,0,4.4,76,0,6.2,2,1,1,2,2,2024-02-10 to 2024-02-25,10,2
+Hotel Rubens-Grote Markt,"Antwerp Center, Antwerp",2442.71078154,2024-02-10,2024-02-25,4,150.0,3576,5,8.8,1,1,0,0,0,2024-02-10 to 2024-02-25,4,2
+Luxury Suits Historic Center,"Antwerp Center, Antwerp",1569.73310349,2024-02-10,2024-02-25,0,100.0,767,2,8.3,1,2,1,0,2,2024-02-10 to 2024-02-25,4,2
+Amory Hotel by Hyllit,"Antwerp Center, Antwerp",1432.37312001,2024-02-10,2024-02-25,3,1.2,1062,2,8.3,1,0,1,2,0,2024-02-10 to 2024-02-25,4,2
+Luxury Rooms,"Antwerp Center, Antwerp",1336.57575588,2024-02-10,2024-02-25,0,100.0,207,1,7.3,1,0,1,2,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Centrum,"Antwerp Center, Antwerp",1680.70773723,2024-02-10,2024-02-25,0,0.7,111,2,8.2,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Spacious app/City center #002,"Antwerp Center, Antwerp",1741.74215907,2024-02-10,2024-02-25,0,1.4,0,0,,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+B&B Middelheim,"Wilrijk, Antwerp",1220.00521566,2024-02-10,2024-02-25,0,5.2,78,1,7.8,1,0,1,2,2,2024-02-10 to 2024-02-25,29,2
+Fijne studio op het Zuid,"Antwerp Center, Antwerp",1205.9991822900001,2024-02-10,2024-02-25,0,1.1,7,5,8.9,1,0,1,2,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Royal,"Antwerp Center, Antwerp",1779.57959649,2024-02-10,2024-02-25,0,350.0,430,5,8.9,1,2,1,0,1,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Meir,"Antwerp Center, Antwerp",1569.73310349,2024-02-10,2024-02-25,0,1.0,536,2,8.1,1,2,1,0,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Boutique,"Antwerp Center, Antwerp",1569.73310349,2024-02-10,2024-02-25,0,250.0,474,2,8.4,1,2,1,0,1,2024-02-10 to 2024-02-25,4,2
+Guesthouse Bernardin,"Antwerp Center, Antwerp",2183.9489083500002,2024-02-10,2024-02-25,0,0.7,331,2,8.5,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Antwerp For Two B&B,"Antwerp Center, Antwerp",1697.02370874,2024-02-10,2024-02-25,0,450.0,336,2,8.3,1,1,1,0,1,2024-02-10 to 2024-02-25,4,2
+Le Lambermont,"Antwerp Center, Antwerp",1541.6885024100002,2024-02-10,2024-02-25,0,1.7,39,5,8.7,2,1,1,0,2,2024-02-10 to 2024-02-25,4,2
+Oneluxstay Antwerp City Centre,"Antwerp Center, Antwerp",1897.0610982300002,2024-02-10,2024-02-25,0,1.3,94,2,8.3,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Corner appartament,"Antwerp Center, Antwerp",1632.39424233,2024-02-10,2024-02-25,0,1.1,1,0,3.0,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Quartier Le Sud,"Antwerp Center, Antwerp",2073.99910632,2024-02-10,2024-02-25,0,1.3,103,3,9.2,1,1,1,0,2,2024-02-10 to 2024-02-25,4,2
+BnB Antwerp - BOUTIQUE,"Antwerp Center, Antwerp",1454.1060591300002,2024-02-10,2024-02-25,0,250.0,9,5,8.9,1,0,1,2,1,2024-02-10 to 2024-02-25,4,2
+Theaterstudio 2 Antwerp,"Antwerp Center, Antwerp",1557.04471089,2024-02-10,2024-02-25,0,1.1,48,2,8.4,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Stylishly furnished private home in a vibrant area,"Antwerp Center, Antwerp",1588.2614101200002,2024-02-10,2024-02-25,0,2.4,37,3,9.1,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Grotemarkt,"Antwerp Center, Antwerp",1779.57959649,2024-02-10,2024-02-25,0,100.0,385,2,8.0,1,2,1,0,2,2024-02-10 to 2024-02-25,4,2
+High-end flats at South area,"Antwerp Center, Antwerp",1983.63497697,2024-02-10,2024-02-25,0,1.1,17,2,8.1,1,1,1,0,2,2024-02-10 to 2024-02-25,4,2
+OneLuxStay near Diamond District,"Antwerp Center, Antwerp",2360.48023719,2024-02-10,2024-02-25,0,1.7,88,5,8.9,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+SLEEP INN - Junior suite 3 Cityview,"Antwerp Center, Antwerp",1350.5980564200001,2024-02-10,2024-02-25,0,1.0,26,1,7.1,1,0,1,2,2,2024-02-10 to 2024-02-25,4,2
+The Card Room Green Studio,"Antwerp Center, Antwerp",1801.08479523,2024-02-10,2024-02-25,0,1.1,57,2,8.3,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites,"Antwerp Center, Antwerp",1569.73310349,2024-02-10,2024-02-25,0,300.0,324,2,8.5,1,2,1,0,1,2024-02-10 to 2024-02-25,4,2
+Antwerp Business Suites,"Antwerp Center, Antwerp",2456.06612811,2024-02-10,2024-02-25,4,250.0,88,4,9.5,1,0,1,0,1,2024-02-10 to 2024-02-25,4,2
+The 16th Century 2BR Apartment in The City Center,"Antwerp Center, Antwerp",1605.43954164,2024-02-10,2024-02-25,0,200.0,9,1,7.4,1,0,1,0,1,2024-02-10 to 2024-02-25,4,2
+casa di Gino,"Deurne, Antwerp",1424.74381728,2024-02-10,2024-02-25,0,4.4,76,0,6.2,1,1,1,2,2,2024-02-10 to 2024-02-25,10,2
+Cozy studio near city center,"Antwerp Center, Antwerp",2688.5239874100002,2024-02-10,2024-02-25,0,350.0,3,4,,1,0,1,0,1,2024-02-10 to 2024-02-25,4,2
+The 16th Century 2BR Apartment in The City Center,"Antwerp Center, Antwerp",1783.80906069,2024-02-10,2024-02-25,0,200.0,9,1,7.4,1,0,1,0,1,2024-02-10 to 2024-02-25,4,2
+Hotel Matelote,"Antwerp Center, Antwerp",2675.96573217,2024-02-10,2024-02-25,3,150.0,806,2,8.5,1,0,0,0,0,2024-02-10 to 2024-02-25,4,2
+SLEEP INN - Junior suite 3 Cityview,"Antwerp Center, Antwerp",1500.6626996700002,2024-02-10,2024-02-25,0,1.0,26,1,7.1,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+BnB Antwerp - BOUTIQUE,"Antwerp Center, Antwerp",1615.6715915700001,2024-02-10,2024-02-25,0,250.0,9,5,8.9,1,0,1,0,1,2024-02-10 to 2024-02-25,4,2
+OneLuxStay near Diamond District,"Antwerp Center, Antwerp",2622.7558191000003,2024-02-10,2024-02-25,0,1.7,88,5,8.9,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Wonderful apartment in the center of Antwerp,"Antwerp Center, Antwerp",2265.28475835,2024-02-10,2024-02-25,0,0.8,6,5,8.7,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Quartier Le Sud,"Antwerp Center, Antwerp",2304.45610371,2024-02-10,2024-02-25,0,1.3,103,3,9.2,1,1,1,0,2,2024-02-10 to 2024-02-25,4,2
+Antwerp Business Suites,"Antwerp Center, Antwerp",2456.06612811,2024-02-10,2024-02-25,4,250.0,88,4,9.5,1,0,1,0,1,2024-02-10 to 2024-02-25,4,2
+De Keyser Hotel,"Antwerp Center, Antwerp",1687.86529203,2024-02-10,2024-02-25,4,1.5,3443,0,6.9,1,1,1,0,0,2024-02-10 to 2024-02-25,4,2
+Theatersquare APT Terrace Cityview,"Antwerp Center, Antwerp",1625.91990867,2024-02-10,2024-02-25,0,1.0,8,1,7.6,1,0,0,0,2,2024-02-10 to 2024-02-25,4,2
+Panoramic Antwerpen Centrum,"Antwerp Center, Antwerp",1942.96705197,2024-02-10,2024-02-25,0,1.6,9,0,4.4,1,1,1,0,2,2024-02-10 to 2024-02-25,4,2
+OneLuxStay near Fashion District,"Antwerp Center, Antwerp",2674.9734348,2024-02-10,2024-02-25,0,1.7,31,3,9.0,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Rustieke studio in hartje antwerpen,"Antwerp Center, Antwerp",1280.24254617,2024-02-10,2024-02-25,0,100.0,11,1,7.2,1,0,0,2,2,2024-02-10 to 2024-02-25,4,2
+Sint Andries Duplex,"Antwerp Center, Antwerp",2496.49004556,2024-02-10,2024-02-25,0,0.6,35,5,8.8,1,1,1,0,2,2024-02-10 to 2024-02-25,4,2
+Theaterstudio 1 Antwerp,"Antwerp Center, Antwerp",2036.3568749400001,2024-02-10,2024-02-25,0,1.1,52,2,8.0,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
+Luxury Suites Royal,"Antwerp Center, Antwerp",1977.3070478400002,2024-02-10,2024-02-25,0,350.0,430,5,8.9,1,2,1,0,1,2024-02-10 to 2024-02-25,4,2
+The Handshake House,"Antwerp Center, Antwerp",2970.95459295,2024-02-10,2024-02-25,0,450.0,2,4,9.5,2,1,1,0,1,2024-02-10 to 2024-02-25,4,2
+Cosy 1BDR apartment @university area,"Antwerp Center, Antwerp",2602.6658641500003,2024-02-10,2024-02-25,0,0.7,6,2,8.2,1,0,1,0,2,2024-02-10 to 2024-02-25,4,2
